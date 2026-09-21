@@ -202,5 +202,45 @@
     "cluster": "Calculadoras",
     "isPillar": false,
     "html": "<p>Ao financiar um imóvel ou outro bem, o valor pago mensalmente se divide em duas partes: amortização (abatimento da dívida) e juros sobre o saldo devedor. A forma como essa divisão é feita ao longo do tempo depende do sistema de amortização escolhido.</p><h2>Tabela Price</h2><p>Parcelas de valor <strong>fixo</strong> do início ao fim. No começo, a maior parte da parcela é juros; com o tempo, a proporção de amortização cresce. Resulta no maior total de juros pagos entre os dois sistemas.</p><h2>SAC (Sistema de Amortização Constante)</h2><p>A amortização é <strong>fixa</strong> em cada parcela, então os juros (calculados sobre o saldo devedor, que cai mais rápido) diminuem mês a mês — as parcelas começam mais altas e vão caindo ao longo do financiamento. Resulta em menos juros totais pagos que a Price.</p><h2>Quanto consigo financiar</h2><p>Bancos costumam limitar o valor da parcela a cerca de 30% da renda mensal comprovada, e exigem uma entrada mínima (frequentemente 20% do valor do imóvel em financiamentos habitacionais). O valor financiável final depende também da taxa de juros contratada e do prazo escolhido.</p><p>Entenda a lógica dos juros que compõem qualquer financiamento no guia <a data-guide=\"calc-juros-compostos\">como calcular juros compostos</a>. Simule financiamentos e outros cenários nas <a href=\"https://www.importmoney.com/calculadoras\" target=\"_top\">calculadoras financeiras gratuitas da Import Money</a>.</p>"
+  },
+  {
+    "slug": "rf-tesouro-direto-o-que-e",
+    "title": "O que é Tesouro Direto e como investir",
+    "category": "Renda Fixa",
+    "cluster": "Renda Fixa",
+    "isPillar": true,
+    "html": "<p>O Tesouro Direto é o programa do governo federal que permite a qualquer pessoa comprar títulos públicos pela internet, emprestando dinheiro ao governo em troca de uma remuneração combinada.</p><h2>Principais tipos de título</h2><p>• <strong>Tesouro Selic:</strong> rende atrelado à taxa Selic, com baixa oscilação de preço — indicado para reserva de emergência.</p><p>• <strong>Tesouro IPCA+:</strong> paga inflação (IPCA) mais uma taxa fixa, protegendo o poder de compra no longo prazo.</p><p>• <strong>Tesouro Prefixado:</strong> taxa de juros combinada no momento da compra, conhecida desde o início.</p><h2>Como investir</h2><p>É preciso ter conta em uma corretora habilitada, cadastrar-se na plataforma do Tesouro Direto e comprar frações de título a partir de cerca de R$ 30, direto pelo site ou app da corretora.</p><h2>Segurança</h2><p>É considerado um dos investimentos mais seguros do país, já que o risco é o do governo federal não honrar a dívida — o mesmo risco de qualquer título público brasileiro.</p><h2>Guias relacionados sobre Renda Fixa</h2><p>• <a data-guide=\"rf-calcular-rendimento\">Como calcular o rendimento do Tesouro Selic, CDB e IPCA+</a></p><p>• <a data-guide=\"rf-o-que-e-cdi\">O que é CDI e como ele afeta seus investimentos</a></p><p>• <a data-guide=\"rf-o-que-e-ipca-rendimento-real\">O que é IPCA e como calcular o rendimento real</a></p><p>• <a data-guide=\"rf-selic-cdb-ipca-qual-escolher\">Tesouro Selic, CDB ou Tesouro IPCA: qual escolher</a></p><p>Simule diferentes cenários nas <a href=\"https://www.importmoney.com/calculadoras\" target=\"_top\">calculadoras financeiras gratuitas da Import Money</a>.</p>"
+  },
+  {
+    "slug": "rf-calcular-rendimento",
+    "title": "Como calcular o rendimento do Tesouro Selic, CDB e IPCA+",
+    "category": "Renda Fixa",
+    "cluster": "Renda Fixa",
+    "isPillar": false,
+    "html": "<p>Cada tipo de renda fixa é remunerado de um jeito diferente, o que muda a forma de estimar o rendimento.</p><h2>Tesouro Selic</h2><p>Rende próximo de 100% da taxa Selic vigente. R$ 10.000 aplicados a uma Selic de 10,5% ao ano rendem aproximadamente R$ 1.050 no ano (antes de IR e taxas), compostos dia a dia.</p><h2>CDB</h2><p>Costuma ser remunerado como um percentual do CDI (ex.: \"100% do CDI\", \"120% do CDI\"). Um CDB de 110% do CDI, com CDI a 10% ao ano, rende aproximadamente 11% ao ano.</p><h2>Tesouro IPCA+</h2><p>Paga IPCA (inflação) mais uma taxa fixa combinada na compra — por exemplo, \"IPCA + 6%\" significa que o rendimento acompanha a inflação e ainda soma 6% ao ano de ganho real.</p><h2>Simulação com R$ 10.000 e R$ 100.000</h2><p>Os cálculos são proporcionais: o rendimento percentual é o mesmo independente do valor aplicado — R$ 100.000 rendem exatamente 10 vezes o que R$ 10.000 rendem, nas mesmas condições e no mesmo período.</p><p>Entenda o CDI no guia <a data-guide=\"rf-o-que-e-cdi\">o que é CDI</a> e o IPCA no guia <a data-guide=\"rf-o-que-e-ipca-rendimento-real\">o que é IPCA e rendimento real</a>.</p>"
+  },
+  {
+    "slug": "rf-o-que-e-cdi",
+    "title": "O que é CDI e como ele afeta seus investimentos",
+    "category": "Renda Fixa",
+    "cluster": "Renda Fixa",
+    "isPillar": false,
+    "html": "<p>O CDI (Certificado de Depósito Interbancário) é a taxa que os bancos usam para emprestar dinheiro entre si por prazos curtíssimos. Na prática, anda muito próximo da taxa Selic e é a principal referência de rentabilidade da renda fixa brasileira.</p><h2>Por que tantos investimentos usam \"% do CDI\"</h2><p>CDBs, LCIs, LCAs e fundos de renda fixa costumam anunciar seu rendimento como um percentual do CDI (ex.: 100%, 110%, 120% do CDI), porque isso facilita comparar produtos diferentes numa mesma referência.</p><h2>Como calcular quanto isso rende</h2><p>Multiplique a taxa do CDI do período pelo percentual contratado. CDI de 10% ao ano em um CDB de 110% do CDI: 10% × 1,10 = <strong>11% ao ano</strong>.</p><h2>CDI x Selic</h2><p>As duas taxas andam muito próximas, mas não são idênticas — o CDI costuma ficar ligeiramente abaixo da Selic. Para fins práticos de estimativa, é comum tratá-las como equivalentes.</p><p>Veja como isso se aplica ao <a data-guide=\"rf-calcular-rendimento\">cálculo de rendimento de CDBs e Tesouro Selic</a>.</p>"
+  },
+  {
+    "slug": "rf-o-que-e-ipca-rendimento-real",
+    "title": "O que é IPCA e como calcular o rendimento real",
+    "category": "Renda Fixa",
+    "cluster": "Renda Fixa",
+    "isPillar": false,
+    "html": "<p>O IPCA (Índice Nacional de Preços ao Consumidor Amplo) é o índice oficial de inflação do Brasil, usado pelo Banco Central como referência para a meta de inflação e por diversos investimentos de renda fixa.</p><h2>Rendimento nominal x rendimento real</h2><p>O rendimento <strong>nominal</strong> é o percentual bruto que um investimento rendeu. O rendimento <strong>real</strong> é o que sobra depois de descontar a inflação do período — é ele que mostra se você realmente ganhou poder de compra.</p><h2>Fórmula aproximada</h2><p><strong>Rendimento real ≈ Rendimento nominal − Inflação (IPCA) do período</strong></p><p>Exemplo: um investimento rendeu 12% no ano, e o IPCA acumulado foi 5%. Rendimento real aproximado: 12% − 5% = <strong>7%</strong>.</p><h2>Por que o Tesouro IPCA+ é atrativo</h2><p>Por já embutir a proteção contra a inflação na própria remuneração (IPCA + taxa fixa), ele garante um ganho real conhecido desde a compra, diferente de aplicações prefixadas ou pós-fixadas simples, cujo ganho real só é conhecido depois, quando a inflação do período é divulgada.</p><p>Entenda os tipos de título no guia <a data-guide=\"rf-tesouro-direto-o-que-e\">o que é Tesouro Direto</a>.</p>"
+  },
+  {
+    "slug": "rf-selic-cdb-ipca-qual-escolher",
+    "title": "Tesouro Selic, CDB ou Tesouro IPCA: qual escolher",
+    "category": "Renda Fixa",
+    "cluster": "Renda Fixa",
+    "isPillar": false,
+    "html": "<p>A escolha entre esses três produtos depende principalmente do prazo e do objetivo de cada reserva de dinheiro.</p><h2>Tesouro Selic</h2><p>Melhor para reserva de emergência: liquidez diária, baixíssima oscilação de preço, ideal para resgatar a qualquer momento sem risco de perda.</p><h2>CDB</h2><p>Pode superar o Tesouro Selic quando oferece uma taxa acima de 100% do CDI, mas costuma ter menos liquidez (carência ou vencimento fixo) e depende da solidez do banco emissor (protegido pelo FGC até o limite de cobertura vigente).</p><h2>Tesouro IPCA+</h2><p>Mais indicado para objetivos de longo prazo, já que garante ganho real acima da inflação — mas tem oscilação de preço no curto prazo se resgatado antes do vencimento (marcação a mercado), então não é ideal para dinheiro que pode ser preciso a qualquer momento.</p><h2>Resumo prático</h2><p>Emergência → Tesouro Selic. Objetivo de médio prazo com taxa atrativa → CDB. Objetivo de longo prazo, protegendo o poder de compra → Tesouro IPCA+.</p><p>Reveja os detalhes de cada um no guia <a data-guide=\"rf-tesouro-direto-o-que-e\">o que é Tesouro Direto</a>.</p>"
   }
 ]
