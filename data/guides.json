@@ -138,5 +138,37 @@
     "cluster": "Imposto de Renda",
     "isPillar": false,
     "html": "<p>Apurar o Imposto de Renda mês a mês, em vez de deixar tudo para a época da declaração, evita acúmulo de trabalho e reduz o risco de erro no cálculo do DARF.</p><h2>O que registrar em cada operação</h2><p>Data, ativo, quantidade, preço, taxas da corretora, se foi day trade ou operação comum, e o lucro ou prejuízo apurado naquela venda.</p><h2>Por que isso é mais trabalhoso do que parece</h2><p>O cálculo depende do preço médio atualizado a cada compra, do total vendido no mês (para saber se ultrapassou a isenção de R$ 20.000 em ações), e do prejuízo acumulado de meses anteriores ainda não compensado — três números que mudam a cada operação nova.</p><h2>Planilha x plataforma</h2><p>Uma planilha resolve, mas exige atualização manual e recálculo constante desses três fatores. Uma plataforma que já cruza preço médio, vendas do mês e prejuízo acumulado automaticamente facilita esse controle e reduz erro.</p><p>Comece pelo básico no guia <a data-guide=\"preco-medio-como-calcular\">como calcular o preço médio de ações</a> e acompanhe tudo automaticamente com o <a href=\"https://www.importmoney.com/landing-page\" target=\"_top\">painel da Import Money</a>.</p>"
+  },
+  {
+    "slug": "carteira-montar-controlar",
+    "title": "Como montar e controlar uma carteira de investimentos",
+    "category": "Controle de carteira",
+    "cluster": "Controle de carteira",
+    "isPillar": true,
+    "html": "<p>Controlar uma carteira de investimentos significa saber, a qualquer momento, o que você tem, quanto investiu em cada ativo, quanto isso vale hoje e como está performando.</p><h2>Passo a passo para montar</h2><p>1. Defina um objetivo (aposentadoria, renda passiva, reserva de curto prazo) — ele orienta o prazo e o risco aceitável.</p><p>2. Defina uma alocação entre classes de ativos (renda fixa, ações, fundos imobiliários etc.) de acordo com esse objetivo.</p><p>3. Escolha os ativos dentro de cada classe.</p><p>4. Registre cada operação (compra, venda, proventos recebidos) assim que ela acontece.</p><h2>Quanto você tem investido x quanto sua carteira vale hoje</h2><p>São dois números diferentes: o <strong>valor investido</strong> é a soma do preço de custo de cada posição (quanto você efetivamente desembolsou). O <strong>patrimônio atual</strong> é a soma do valor de mercado de cada posição, na cotação de hoje. A diferença entre os dois é o seu lucro ou prejuízo não realizado.</p><h2>Guias relacionados sobre controle de carteira</h2><p>• <a data-guide=\"carteira-calcular-rentabilidade\">Como calcular a rentabilidade da carteira</a></p><p>• <a data-guide=\"carteira-comparar-cdi\">Como comparar a carteira com o CDI</a></p><p>• <a data-guide=\"carteira-planilha-ou-app\">Planilha ou aplicativo: qual escolher</a></p><p>Veja também como <a data-guide=\"preco-medio-como-calcular\">calcular o preço médio</a> de cada ativo da carteira. Para automatizar tudo isso, conheça o <a href=\"https://www.importmoney.com/landing-page\" target=\"_top\">painel da Import Money</a>.</p>"
+  },
+  {
+    "slug": "carteira-calcular-rentabilidade",
+    "title": "Como calcular a rentabilidade da carteira",
+    "category": "Controle de carteira",
+    "cluster": "Controle de carteira",
+    "isPillar": false,
+    "html": "<p>A rentabilidade mede o quanto sua carteira valorizou (ou desvalorizou) em um período, em percentual.</p><h2>Fórmula simples</h2><p><strong>Rentabilidade (%) = ((Valor atual − Valor investido) ÷ Valor investido) × 100</strong></p><h2>Exemplo</h2><p>Você investiu R$ 10.000 no total e sua carteira vale R$ 11.200 hoje: ((11.200 − 10.000) ÷ 10.000) × 100 = <strong>12%</strong> de rentabilidade no período.</p><h2>Cuidado com aportes e retiradas no meio do caminho</h2><p>Essa fórmula simples funciona bem quando não há novos aportes no período analisado. Se você aportou dinheiro novo no meio do caminho, comparar só \"valor final vs valor investido\" pode distorcer a rentabilidade real — o ideal nesse caso é calcular por período (mês a mês) e compor os resultados, em vez de olhar só o total acumulado.</p><p>Depois de calcular, veja como <a data-guide=\"carteira-comparar-cdi\">comparar esse resultado com o CDI</a> para saber se valeu a pena o risco assumido.</p>"
+  },
+  {
+    "slug": "carteira-comparar-cdi",
+    "title": "Como comparar a carteira com o CDI",
+    "category": "Controle de carteira",
+    "cluster": "Controle de carteira",
+    "isPillar": false,
+    "html": "<p>O CDI (Certificado de Depósito Interbancário) é a referência mais usada no Brasil para saber se um investimento de risco valeu a pena frente a uma alternativa segura de renda fixa.</p><h2>Por que comparar com o CDI</h2><p>Investimentos de renda fixa atrelados ao CDI (Tesouro Selic, muitos CDBs) rendem próximo dele com baixo risco. Se sua carteira de ações ou fundos rendeu menos que o CDI no mesmo período, o risco extra assumido não foi recompensado.</p><h2>Como calcular o \"% do CDI\"</h2><p><strong>% do CDI = (Rentabilidade da carteira ÷ Rentabilidade do CDI no período) × 100</strong></p><p>Exemplo: sua carteira rendeu 8% no ano e o CDI acumulou 10% no mesmo período. 8 ÷ 10 × 100 = a carteira rendeu <strong>80% do CDI</strong> — abaixo da referência de renda fixa.</p><h2>CDI não é o único parâmetro</h2><p>Para renda variável, também vale comparar com índices como o Ibovespa, já que o CDI é mais apropriado como referência de renda fixa. O importante é sempre comparar com algo, nunca olhar a rentabilidade isoladamente.</p><p>Veja como chegar à rentabilidade da carteira no guia <a data-guide=\"carteira-calcular-rentabilidade\">como calcular a rentabilidade da carteira</a>.</p>"
+  },
+  {
+    "slug": "carteira-planilha-ou-app",
+    "title": "Planilha ou aplicativo para controlar investimentos: qual escolher",
+    "category": "Controle de carteira",
+    "cluster": "Controle de carteira",
+    "isPillar": false,
+    "html": "<p>Os dois caminhos mais comuns para controlar uma carteira são a planilha própria e um aplicativo ou plataforma dedicada — cada um com vantagens e limitações.</p><h2>Planilha</h2><p><strong>Vantagens:</strong> gratuita, totalmente flexível ao seu jeito de organizar.</p><p><strong>Limitações:</strong> precisa ser atualizada manualmente a cada operação, não busca cotação em tempo real sozinha, e cresce em complexidade conforme a carteira tem mais ativos — o que aumenta o risco de erro de fórmula ou digitação.</p><h2>Aplicativo ou plataforma</h2><p><strong>Vantagens:</strong> calcula preço médio, rentabilidade e comparação com CDI automaticamente, já cruzando com a cotação atual dos ativos, sem trabalho manual.</p><p><strong>Limitações:</strong> depende de você registrar as operações corretamente na ferramenta, e a qualidade dos dados de mercado varia entre plataformas.</p><h2>Quando cada um faz sentido</h2><p>Planilha pode bastar para poucos ativos e pouca movimentação. Conforme a carteira cresce — mais ativos, mais operações, necessidade de acompanhar preço médio, rentabilidade e Imposto de Renda ao mesmo tempo — uma plataforma dedicada costuma poupar bem mais tempo.</p><p>Conheça o <a href=\"https://www.importmoney.com/landing-page\" target=\"_top\">painel de carteira da Import Money</a>, que calcula preço médio, rentabilidade e comparação com o CDI automaticamente.</p>"
   }
 ]
