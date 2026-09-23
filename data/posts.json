@@ -489,7 +489,12 @@
     ],
     "sourceLabel": "InfoMoney",
     "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23092026/",
-    "date": "2026-09-23T14:23:00.000Z"
+    "date": "2026-09-23T14:23:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1648275913341-7973ae7bc9b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Tyler Prahm",
+      "creditProfileUrl": "https://unsplash.com/@tprahm?utm_source=import_news&utm_medium=referral"
+    }
   },
   {
     "slug": "dolar-sobe-r-5-13-pesquisa-atlas-nilton-david",
@@ -501,7 +506,12 @@
     ],
     "sourceLabel": "InfoMoney",
     "sourceUrl": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23092026/",
-    "date": "2026-09-23T14:23:20.000Z"
+    "date": "2026-09-23T14:23:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Alexander Grey",
+      "creditProfileUrl": "https://unsplash.com/@sharonmccutcheon?utm_source=import_news&utm_medium=referral"
+    }
   },
   {
     "slug": "bitcoin-recua-apos-us-87-mil-vencimento-opcoes",
@@ -513,7 +523,12 @@
     ],
     "sourceLabel": "Exame",
     "sourceUrl": "https://exame.com/future-of-money/bitcoin-hoje-23-09-2026/",
-    "date": "2026-09-23T14:23:40.000Z"
+    "date": "2026-09-23T14:23:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1623227413711-25ee4388dae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Kanchanara",
+      "creditProfileUrl": "https://unsplash.com/@kanchanara?utm_source=import_news&utm_medium=referral"
+    }
   },
   {
     "slug": "petroleo-abaixo-us-100-mercado-desconfiado",
@@ -525,7 +540,12 @@
     ],
     "sourceLabel": "InfoMoney",
     "sourceUrl": "https://www.infomoney.com.br/mercados/petroleo-abaixo-de-us-100-e-para-valer-parte-do-mercado-segue-desconfiada/",
-    "date": "2026-09-23T14:24:00.000Z"
+    "date": "2026-09-23T14:24:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1558617867-659c667b6809?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Atik sulianami",
+      "creditProfileUrl": "https://unsplash.com/@atik1616?utm_source=import_news&utm_medium=referral"
+    }
   },
   {
     "slug": "ia-alta-bolsa-concentrada-tech-derruba-outros-setores",
@@ -537,7 +557,12 @@
     ],
     "sourceLabel": "Exame",
     "sourceUrl": "https://exame.com/invest/mercados/a-alta-que-a-ia-trouxe-a-bolsa-nao-saiu-da-bolha-de-tech-fora-dela-so-derrubou-acoes/",
-    "date": "2026-09-23T14:24:20.000Z"
+    "date": "2026-09-23T14:24:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Igor Omilaev",
+      "creditProfileUrl": "https://unsplash.com/@omilaev?utm_source=import_news&utm_medium=referral"
+    }
   },
   {
     "slug": "ibovespa-vira-e-fecha-em-queda-de-086-dolar-sobe-a-r-5-17",
