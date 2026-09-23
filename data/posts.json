@@ -538,5 +538,56 @@
     "sourceLabel": "Exame",
     "sourceUrl": "https://exame.com/invest/mercados/a-alta-que-a-ia-trouxe-a-bolsa-nao-saiu-da-bolha-de-tech-fora-dela-so-derrubou-acoes/",
     "date": "2026-09-23T14:24:20.000Z"
+  },
+  {
+    "slug": "ibovespa-vira-e-fecha-em-queda-de-086-dolar-sobe-a-r-5-17",
+    "title": "Ibovespa vira e fecha em queda de 0,86%; dólar sobe 1,28% e vai a R$ 5,17",
+    "excerpt": "Depois de passar dos 188 mil pontos pela manhã, o Ibovespa perdeu fôlego com a piora em Wall Street, juros americanos em alta e nova pesquisa eleitoral, encerrando o dia aos 185,8 mil pontos enquanto o dólar avançou para R$ 5,168.",
+    "paragraphs": [
+      "O principal índice da B3 terminou a quarta-feira (23) em baixa de 0,86%, aos 185.814 pontos, apagando o ganho de mais de 0,7% registrado no início do pregão, quando chegou a tocar 188.772 pontos. O giro financeiro somou cerca de R$ 20,8 bilhões. O dólar comercial acompanhou o movimento de aversão ao risco e subiu 1,28%, para R$ 5,168, enquanto os contratos de juros futuros (DIs) avançaram em toda a curva, revertendo parte das quedas das sessões anteriores.",
+      "A Petrobras foi o principal apoio do índice, com alta próxima de 2,6% nas ações ON e PN, impulsionada pela disparada do petróleo. Do lado negativo, os grandes bancos pesaram: Banco do Brasil e Bradesco recuaram mais de 2%, e Itaú caiu 1,88%; Vale perdeu 1,85%. No exterior, S&P 500 e Nasdaq fecharam em queda após dados de atividade fortes nos EUA elevarem os rendimentos dos Treasuries. No cenário doméstico, a nova pesquisa AtlasIntel/Bloomberg, que mostrou empate técnico no segundo turno presidencial, aumentou a volatilidade."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/invest/mercados/ibovespa-cai-086-e-dolar-dispara-128-com-pressao-externa-e-eleicao/",
+    "date": "2026-09-23T22:25:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8c3RvY2slMjBleGNoYW5nZSUyMHRyYWRpbmd8ZW58MHwwfHx8MTc5MDIwMjI2OXwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Anne Nygård",
+      "creditProfileUrl": "https://unsplash.com/@polarmermaid?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "pmi-forte-nos-eua-leva-treasury-de-10-anos-acima-de-5",
+    "title": "PMI forte nos EUA leva Treasury de 10 anos acima de 5% e pressiona juros futuros no Brasil",
+    "excerpt": "O índice PMI composto dos EUA saltou para 58,4 em setembro, maior nível desde 2021, reacendendo o temor de inflação: o rendimento do Treasury de 10 anos passou de 5% e os DIs brasileiros subiram em toda a curva.",
+    "paragraphs": [
+      "A atividade do setor privado norte-americano acelerou mais do que o esperado em setembro. O PMI composto medido pela S&P Global avançou de 56 em agosto para 58,4, a leitura mais alta desde meados de 2021 — resultados acima de 50 indicam expansão. O dado reforçou a percepção de que a economia dos EUA segue aquecida e de que as pressões inflacionárias não cederam, o que levou investidores a aumentar as apostas em nova alta de juros pelo Federal Reserve já em outubro, que passaram a rondar 73% de probabilidade.",
+      "O efeito foi imediato no mercado de títulos: o rendimento do Treasury de 10 anos superou 5% e chegou perto de 5,1%, patamar não visto desde 2007, enquanto o papel de 2 anos também renovou máximas recentes. No Brasil, a combinação com a nova pesquisa eleitoral empurrou os juros futuros para cima: o DI para janeiro de 2028 subiu cerca de 10 pontos-base, para perto de 13,59%, e o contrato para janeiro de 2035 avançou para a faixa de 14,03%."
+    ],
+    "sourceLabel": "CNN Brasil Business",
+    "sourceUrl": "https://www.cnnbrasil.com.br/economia/money/mercado/juros-futuros-sobem-apos-nova-pesquisa-eleitoral-e-alta-dos-treasuries/",
+    "date": "2026-09-23T22:25:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1769028871759-8099b7474ac4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8dHJlYXN1cnklMjBib25kcyUyMGludGVyZXN0JTIwcmF0ZXN8ZW58MHwwfHx8MTc5MDIwMjI3MXwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Sasun Bughdaryan",
+      "creditProfileUrl": "https://unsplash.com/@sasun1990?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "petroleo-brent-sobe-4-e-volta-a-superar-us-100",
+    "title": "Petróleo Brent sobe 4% e volta a superar US$ 100 com impasse entre EUA e Irã",
+    "excerpt": "O Brent para novembro fechou em alta de 4,14%, a US$ 103,39, interrompendo cinco pregões seguidos de queda, depois que as conversas entre EUA e Irã não avançaram e o risco no Estreito de Ormuz voltou ao radar.",
+    "paragraphs": [
+      "O petróleo reverteu a tendência de baixa dos últimos dias e voltou a subir com força nesta quarta-feira (23). O contrato do Brent com vencimento em novembro avançou 4,14% e encerrou a US$ 103,39 por barril, enquanto o WTI para o mesmo mês subiu 1,81%, a US$ 92,16. A alta encerrou uma sequência de cinco sessões de queda, período em que o mercado havia apostado em uma possível distensão entre Washington e Teerã após encontro de representantes dos dois países à margem da Assembleia Geral da ONU.",
+      "Essa expectativa perdeu força ao longo do dia, com sinais de que as negociações não progrediram e declarações mais duras de autoridades iranianas sobre o conflito na região. Também entrou no radar a notícia, negada pela Casa Branca, de que o governo americano estudaria suspender exportações de diesel por 90 dias. Os estoques de óleo nos EUA subiram quase 3 milhões de barris na semana, contra previsão de queda, mas o dado não conteve os preços. O Bank of America elevou sua projeção para o Brent no segundo semestre de US$ 83 para US$ 95."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-23092026/",
+    "date": "2026-09-23T22:25:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1598408745613-178751e2ccde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8b2lsJTIwdGFua2VyJTIwc2VhfGVufDB8MHx8fDE3OTAyMDIyNzJ8Mg&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Fredrick F.",
+      "creditProfileUrl": "https://unsplash.com/@blackspeaker93?utm_source=import_news&utm_medium=referral"
+    }
   }
 ]
