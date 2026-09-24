@@ -396,30 +396,6 @@
     "date": "2026-09-11T14:21:00.000Z"
   },
   {
-    "slug": "ibovespa-futuro-cai-crise-stf-inflacao-eua",
-    "title": "Ibovespa futuro cai com crise institucional e espera por inflação dos EUA",
-    "excerpt": "Ibovespa futuro cai nesta quinta-feira (10/9), com o mercado atento à crise entre STF e cúpula da PF e à espera da inflação ao consumidor dos EUA.",
-    "paragraphs": [
-      "O Ibovespa futuro operava em queda nesta quinta-feira (10/9), com o mercado em compasso de espera pela divulgação do índice de preços ao consumidor dos Estados Unidos e repercutindo uma crise institucional envolvendo o Supremo Tribunal Federal e a cúpula da Polícia Federal.",
-      "O impasse girou em torno do afastamento e da posterior reintegração do diretor-geral da PF, decisões tomadas por ministros diferentes do STF em dias seguidos — um cenário de instabilidade política que se soma à cautela global gerada pela alta do petróleo, de volta perto de US$ 100 o barril."
-    ],
-    "sourceLabel": "Brasil em Folhas",
-    "sourceUrl": "https://www.brasilemfolhas.com.br/2026/09/ibovespa-futuro-cai-com-inflacao-dos-eua-e-crise-no-stf/",
-    "date": "2026-09-10T14:20:00.000Z"
-  },
-  {
-    "slug": "dolar-sobe-513-oriente-medio-espera-cpi-eua",
-    "title": "Dólar sobe a R$ 5,13 com tensão no Oriente Médio e espera por dados dos EUA",
-    "excerpt": "Dólar sobe a R$ 5,13 nesta quinta-feira (10/9), acompanhando a alta global da moeda em meio à guerra no Oriente Médio e à espera do CPI dos EUA.",
-    "paragraphs": [
-      "O dólar comercial abriu esta quinta-feira (10/9) em alta, cotado a R$ 5,11, e ampliou os ganhos ao longo da manhã, subindo 0,38% e sendo negociado a R$ 5,131 na venda.",
-      "A valorização da moeda americana acompanhou o exterior, com investidores atentos à guerra no Oriente Médio e à espera de novos dados de inflação nos Estados Unidos — o Boletim Focus do Banco Central projeta o dólar fechando o ano a R$ 5,50."
-    ],
-    "sourceLabel": "InfoMoney",
-    "sourceUrl": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-10092026/",
-    "date": "2026-09-10T14:20:20.000Z"
-  },
-  {
     "slug": "ibovespa-fecha-alta-186-mil-ata-copom",
     "title": "Ibovespa fecha em alta de 0,74% e retoma os 186 mil pontos, com ata do Copom e eleição no radar",
     "excerpt": "Depois de abrir no vermelho, a bolsa brasileira reverteu o cenário nesta terça-feira e encerrou aos 186.595 pontos, em dia de Wall Street forte e ata do Copom em repercussão, apesar das quedas de Vale, Petrobras e bancos.",
@@ -613,6 +589,74 @@
       "url": "https://images.unsplash.com/photo-1598408745613-178751e2ccde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8b2lsJTIwdGFua2VyJTIwc2VhfGVufDB8MHx8fDE3OTAyMDIyNzJ8Mg&ixlib=rb-4.1.0&q=80&w=1080",
       "creditName": "Fredrick F.",
       "creditProfileUrl": "https://unsplash.com/@blackspeaker93?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bc-reduz-pib-2026-18-ipca-52-relatorio-politica-monetaria",
+    "title": "BC corta projeção do PIB de 2026 para 1,8% e vê IPCA de 5,2% no ano",
+    "excerpt": "No Relatório de Política Monetária, o Banco Central reduziu de 2,0% para 1,8% a estimativa de crescimento da economia em 2026, projetou alta de 1,4% em 2027 e manteve a inflação deste ano acima do teto da meta.",
+    "paragraphs": [
+      "O Banco Central divulgou nesta quinta-feira (24) o Relatório de Política Monetária do terceiro trimestre com uma leitura mais cautelosa sobre a atividade. A estimativa de alta do PIB em 2026 caiu de 2,0% para 1,8%, e a primeira projeção para 2027 ficou em 1,4%. Na abertura por setores, a agropecuária ganhou peso na conta (de 1,7% para 2,8%), enquanto indústria (de 2,3% para 1,5%) e serviços (de 1,9% para 1,7%) foram revisados para baixo.",
+      "Segundo a autoridade monetária, a composição do crescimento no segundo trimestre, que avançou 0,5%, e os primeiros sinais do terceiro trimestre indicam uma economia perdendo fôlego, reflexo do ciclo de aperto monetário iniciado no fim de 2024. Ainda assim, o BC projeta IPCA de 5,2% em 2026, acima do teto de 4,5%, e de 3,2% no primeiro trimestre de 2028, o horizonte relevante. A Fazenda segue mais otimista, com crescimento de 2,0% neste ano e 2,3% em 2027."
+    ],
+    "sourceLabel": "CNN Brasil",
+    "sourceUrl": "https://www.cnnbrasil.com.br/economia/banco-central-reduz-projecao-de-crescimento-do-pib-para-18-em-2026/",
+    "date": "2026-09-24T14:30:11.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1589395706442-2fb4c9e65489?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Y2VudHJhbCUyMGJhbmt8ZW58MHwwfHx8MTc5MDI1OTg2OHwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "bruno neurath-wilson",
+      "creditProfileUrl": "https://unsplash.com/@brunonw?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "governo-reduz-bloqueio-contingencia-136-bi-orcamento",
+    "title": "Governo reduz bloqueio, mas anuncia contingenciamento de R$ 13,6 bi no Orçamento",
+    "excerpt": "O relatório do 4º bimestre derrubou o bloqueio de gastos de R$ 17,9 bi para R$ 2,4 bi, mas a frustração de receitas levou a um contingenciamento de R$ 13,6 bi, elevando o total congelado em 2026 para R$ 16,1 bi.",
+    "paragraphs": [
+      "A equipe econômica apresentou nesta quinta-feira (24) o Relatório de Avaliação de Receitas e Despesas Primárias do quarto bimestre de 2026. O bloqueio de despesas, usado para cumprir o limite de gastos do arcabouço fiscal, recuou de R$ 17,9 bilhões para R$ 2,4 bilhões. Na direção oposta, o governo passou a prever um contingenciamento de R$ 13,6 bilhões, necessidade que era zero no relatório anterior, e o total congelado no Orçamento chegou a R$ 16,1 bilhões.",
+      "A diferença entre os dois instrumentos explica a mudança: o bloqueio decorre de despesas obrigatórias acima do previsto, enquanto o contingenciamento é acionado quando a arrecadação fica aquém do esperado e ameaça a meta fiscal. De acordo com o governo, gastos menores com benefícios previdenciários, pessoal e BPC abriram espaço para aliviar o bloqueio. Já a previsão de déficit primário para o ano subiu para R$ 80,9 bilhões, ante R$ 52 bilhões estimados em julho."
+    ],
+    "sourceLabel": "CNN Brasil",
+    "sourceUrl": "https://www.cnnbrasil.com.br/economia/governo-reduz-bloqueio-anuncia-contingenciamento-e-congela-r-161-bi/",
+    "date": "2026-09-24T14:30:31.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1614610741181-2bce5e06976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Z292ZXJubWVudCUyMGJ1ZGdldHxlbnwwfDB8fHwxNzkwMjU5ODcwfDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Brett Jordan",
+      "creditProfileUrl": "https://unsplash.com/@brett_jordan?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "yduqs-afya-assinam-fusao-gigante-ensino-superior",
+    "title": "Yduqs e Afya assinam fusão e criam gigante do ensino superior privado",
+    "excerpt": "O acordo prevê a troca de cada ação da Afya por 6,4 papéis da Yduqs, com os acionistas da Afya ficando com 69% da nova companhia; juntas, as duas empresas somaram R$ 9,2 bilhões em receita no ano de 2025.",
+    "paragraphs": [
+      "Yduqs (YDUQ3), dona da Estácio e do Ibmec, e Afya, especializada em educação médica, assinaram na noite de quarta-feira (23) o acordo de fusão que vinha sendo negociado desde o fim de agosto. Pela relação de troca, cada ação da Afya, das classes A ou B, dará direito a 6,4 ações da Yduqs. Os atuais acionistas da Afya ficarão com 69% da companhia combinada e os da Yduqs com 31%, e o acordo prevê ainda R$ 750 milhões em dividendos aos acionistas da Yduqs.",
+      "Juntas, as duas empresas registraram R$ 9,2 bilhões em receita em 2025, sendo R$ 5,5 bilhões da Yduqs e R$ 3,7 bilhões da Afya, e passam a reunir cerca de 38 mil alunos de medicina, curso de mensalidades elevadas que tem sustentado a rentabilidade do setor. No primeiro semestre, a Afya lucrou R$ 463 milhões, enquanto a Yduqs teve lucro de apenas R$ 11 milhões. A operação ainda depende de aprovação do Cade."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/business/yduqs-e-afya-assinam-fusao-e-criam-gigante-do-ensino-superior-privado/",
+    "date": "2026-09-24T14:30:51.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1576495199011-eb94736d05d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8dW5pdmVyc2l0eSUyMGNhbXB1cyUyMHN0dWRlbnRzfGVufDB8MHx8fDE3OTAyNTk4NzF8Mg&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Wonderlane",
+      "creditProfileUrl": "https://unsplash.com/@wonderlane?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "iguatemi-vende-fatias-5-shoppings-876-milhoes-trxf11",
+    "title": "Iguatemi vende fatias de cinco shoppings ao fundo TRXF11 por R$ 876 milhões",
+    "excerpt": "A Iguatemi (IGTI11) assinou a venda de participações em cinco empreendimentos ao TRX Real Estate FII, com pagamento parcelado e parte em cotas do fundo, e seguirá responsável pela administração dos shoppings.",
+    "paragraphs": [
+      "A Iguatemi (IGTI11) assinou os documentos definitivos para vender participações em cinco ativos ao fundo imobiliário TRX Real Estate (TRXF11), em negócio avaliado em R$ 876,1 milhões. O pacote inclui 36% do Iguatemi Alphaville, 10% do Iguatemi Ribeirão Preto, 10% do Iguatemi São José do Rio Preto, 35,55% do Praia de Belas, em Porto Alegre, e 36% do I Fashion Outlet Novo Hamburgo. A transação implica cap rate médio de 7,3%.",
+      "O pagamento será escalonado: R$ 569,5 milhões no fechamento, sendo R$ 219 milhões em dinheiro e R$ 350,5 milhões compensados com a subscrição de cotas do TRXF11; outros R$ 131,4 milhões e R$ 175,2 milhões serão pagos no primeiro e no segundo aniversário do negócio, corrigidos pelo CDI. A Iguatemi continuará administrando os shoppings, em linha com o modelo asset-light, e a conclusão depende de o fundo obter financiamento para a parcela inicial."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/iguatemi-igti11-vende-fatias-de-5-shoppings-por-r-876-milhoes/",
+    "date": "2026-09-24T14:31:11.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1567958451986-2de427a4a0be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8c2hvcHBpbmclMjBtYWxsJTIwaW50ZXJpb3J8ZW58MHwwfHx8MTc5MDI1OTg3MXwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Alexander Faé",
+      "creditProfileUrl": "https://unsplash.com/@alexfae?utm_source=import_news&utm_medium=referral"
     }
   }
 ]
