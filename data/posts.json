@@ -726,5 +726,22 @@
       "creditName": "Kanchanara",
       "creditProfileUrl": "https://unsplash.com/@kanchanara?utm_source=import_news&utm_medium=referral"
     }
+  },
+  {
+    "slug": "jogo-da-bolsa-import-money-simule-investimentos",
+    "title": "Import Money lança o Jogo da Bolsa: simule investimentos com R$ 100 mil fictícios",
+    "excerpt": "A plataforma estreia em fase beta um simulador gratuito de investimentos com cotações reais da B3, carteira fictícia de R$ 100 mil e ranking entre participantes, pensado para praticar estratégias antes de investir dinheiro de verdade.",
+    "paragraphs": [
+      "A Import Money lançou, em fase beta, o Jogo da Bolsa: um simulador de investimentos gratuito que usa cotações reais do mercado, atualizadas via Yahoo Finance, para reproduzir o comportamento da bolsa o mais próximo possível do real. Cada participante começa com uma carteira fictícia de R$ 100.000,00 e pode comprar e vender ações como faria em uma corretora de verdade, acompanhando o desempenho da carteira, o histórico de ordens e a variação dos ativos escolhidos dentro da própria plataforma.",
+      "A meta proposta pelo jogo é fazer a carteira fictícia chegar a R$ 1.000.000,00, e um ranking compara o desempenho entre os participantes — uma forma de aprender a investir na prática, testando estratégias sem arriscar dinheiro real. O acesso é exclusivo para membros logados na plataforma Import Money, e a ferramenta já está disponível para testes nesta versão beta."
+    ],
+    "sourceLabel": "Import Money",
+    "sourceUrl": "https://www.importmoney.com/jogo-da-bolsa",
+    "date": "2026-09-25T14:06:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1563986768711-b3bde3dc821e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Austin Distel",
+      "creditProfileUrl": "https://unsplash.com/@austindistel?utm_source=import_news&utm_medium=referral"
+    }
   }
 ]
