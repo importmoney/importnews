@@ -336,66 +336,6 @@
     "date": "2026-09-13T14:20:00.000Z"
   },
   {
-    "slug": "ethereum-sobe-short-squeeze-311-milhoes",
-    "title": "Ethereum sobe com short squeeze de mais de US$ 300 milhões",
-    "excerpt": "Ethereum sobe cerca de 2,16% neste sábado (12/9), perto de US$ 2.520, após short squeeze provocar mais de US$ 311 milhões em liquidações forçadas.",
-    "paragraphs": [
-      "O Ethereum subia cerca de 2,16% neste sábado (12/9), negociado perto de US$ 2.520, em meio a um short squeeze que provocou mais de US$ 311 milhões em liquidações forçadas de posições vendidas nas principais corretoras.",
-      "As liquidações de posições vendidas representaram quase 60% do total de posições fechadas à força no mercado cripto no dia, cerca de 1,5 vez mais que as posições compradas liquidadas — um padrão clássico de squeeze, em que a pressão inicial de venda força a recompra de moedas emprestadas e amplifica a alta. O movimento ocorreu enquanto o Bitcoin recuava de volta para perto de US$ 77 mil, devolvendo parte dos ganhos da sessão anterior."
-    ],
-    "sourceLabel": "COINOTAG",
-    "sourceUrl": "https://en.coinotag.com/ethereum-shorts-lead-589m-perpetual-liquidation-wave",
-    "date": "2026-09-12T14:20:00.000Z"
-  },
-  {
-    "slug": "ipca-agosto-deflacao-032-mais-forte-esperado",
-    "title": "IPCA de agosto tem deflação de 0,32%, mais forte que o esperado",
-    "excerpt": "IPCA de agosto tem deflação de 0,32%, acima do esperado pelo mercado; inflação em 12 meses fica em 4,22%, com Copom se reúne dia 16.",
-    "paragraphs": [
-      "O IPCA de agosto registrou deflação de 0,32%, divulgado pelo IBGE nesta sexta-feira (11/9) — resultado mais intenso que a expectativa do mercado, de queda de 0,29%. No acumulado em 12 meses, a inflação ficou em 4,22%, abaixo da projeção de 4,27%.",
-      "Entre os grupos que puxaram a deflação estão Habitação (-1,87%), Transportes (-0,86%), Alimentação e bebidas (-0,34%) e Comunicação (-0,09%). O resultado é o último dado doméstico relevante antes da reunião do Copom, marcada para 16 de setembro, e reforça as apostas em um novo corte da Selic."
-    ],
-    "sourceLabel": "InfoMoney",
-    "sourceUrl": "https://www.infomoney.com.br/economia/ipca-inflacao-agosto-2026-dados-ibge/",
-    "date": "2026-09-11T14:20:00.000Z"
-  },
-  {
-    "slug": "ibovespa-recua-ipca-cautela-cpi-eua",
-    "title": "Ibovespa recua com IPCA deflacionário e cautela por CPI dos EUA",
-    "excerpt": "Ibovespa cai nesta sexta-feira (11/9), aos 187.440 pontos, com IPCA deflacionário no Brasil e cautela antes do CPI dos Estados Unidos.",
-    "paragraphs": [
-      "O Ibovespa operava em queda de cerca de 0,44% nesta sexta-feira (11/9), aos 187.440 pontos, revertendo a leve alta do início do pregão, em meio à repercussão do IPCA de agosto e à cautela antes da divulgação do índice de preços ao consumidor dos Estados Unidos.",
-      "Embora a deflação doméstica reforce as apostas em um novo corte da Selic pelo Copom na próxima semana, o mercado também monitorava o cenário eleitoral e o CPI americano, capaz de alterar as apostas para os juros do Federal Reserve, que se reúne nos dias 15 e 16 de setembro."
-    ],
-    "sourceLabel": "SpaceMoney",
-    "sourceUrl": "https://www.spacemoney.com.br/investimentos/acoes/ibovespa-hoje/ibovespa-cai-ipca-deflacao-apostas-fed",
-    "date": "2026-09-11T14:20:20.000Z"
-  },
-  {
-    "slug": "dolar-cai-507-copom-selic",
-    "title": "Dólar cai a R$ 5,07 com deflação do IPCA e Selic no radar",
-    "excerpt": "Dólar recua a R$ 5,07 nesta sexta-feira (11/9) após IPCA de agosto vir deflacionário, reforçando aposta em corte da Selic pelo Copom.",
-    "paragraphs": [
-      "O dólar comercial recuava a R$ 5,07 na manhã desta sexta-feira (11/9), revertendo a alta do dia anterior, após o IBGE confirmar deflação de 0,32% no IPCA de agosto.",
-      "O resultado reforçou as apostas em um novo corte da Selic pelo Copom na reunião de 16 de setembro, favorecendo o apetite por ativos brasileiros mesmo com o mercado global também de olho no índice de preços ao consumidor dos Estados Unidos, divulgado ainda nesta sexta-feira."
-    ],
-    "sourceLabel": "Rio Times Online",
-    "sourceUrl": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-september-11-2026/",
-    "date": "2026-09-11T14:20:40.000Z"
-  },
-  {
-    "slug": "bitcoin-cai-77-mil-cpi-quente-eua",
-    "title": "Bitcoin cai a US$ 77 mil com CPI quente dos EUA e apostas em alta de juros",
-    "excerpt": "Bitcoin cai para US$ 77 mil nesta sexta-feira (11/9) após CPI dos EUA vir mais quente que o esperado, elevando aposta de alta de juros do Fed.",
-    "paragraphs": [
-      "O Bitcoin recuou para a faixa dos US$ 77 mil nesta sexta-feira (11/9), com baixa de 1,3% no dia e perda acumulada de 5% na semana, em meio à divulgação do índice de preços ao consumidor (CPI) dos Estados Unidos referente a agosto.",
-      "O núcleo do CPI subiu 0,3% em agosto, acima do esperado, elevando para cerca de 70% a probabilidade precificada pelo mercado de uma alta de juros pelo Federal Reserve na reunião de 15 e 16 de setembro — um cenário que levou investidores a reduzir exposição em ativos de risco como as criptomoedas."
-    ],
-    "sourceLabel": "CoinDesk",
-    "sourceUrl": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
-    "date": "2026-09-11T14:21:00.000Z"
-  },
-  {
     "slug": "ibovespa-fecha-alta-186-mil-ata-copom",
     "title": "Ibovespa fecha em alta de 0,74% e retoma os 186 mil pontos, com ata do Copom e eleição no radar",
     "excerpt": "Depois de abrir no vermelho, a bolsa brasileira reverteu o cenário nesta terça-feira e encerrou aos 186.595 pontos, em dia de Wall Street forte e ata do Copom em repercussão, apesar das quedas de Vale, Petrobras e bancos.",
@@ -744,6 +684,74 @@
       "url": "https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
       "creditName": "Austin Distel",
       "creditProfileUrl": "https://unsplash.com/@austindistel?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "azzas-dispara-13-venda-farm-rio-propostas",
+    "title": "Azzas 2154 dispara quase 13% e lidera Ibovespa com expectativa pela venda da Farm Rio",
+    "excerpt": "Ações da Azzas 2154 (AZZA3) fecharam a sexta-feira em alta de 12,97%, a R$ 16,38, com investidores apostando que a venda da Farm Rio pode render um dividendo extraordinário relevante aos acionistas.",
+    "paragraphs": [
+      "A Azzas 2154 (AZZA3) foi o grande destaque positivo do Ibovespa nesta sexta-feira (25). Os papéis chegaram a avançar 18% ao longo do pregão e terminaram o dia com ganho de 12,97%, cotados a R$ 16,38. O movimento veio em meio à reta final do prazo, fixado pelo Morgan Stanley para o fim de setembro, para que interessados apresentem ofertas não vinculantes pela Farm Rio, considerada o ativo mais valioso do grupo de moda.",
+      "A possível venda ocorre no contexto da separação entre Alexandre Birman e Roberto Jatahy, que levou à divisão da companhia. A Farm Rio ficaria fora desse desmembramento, com participação de 57,4% da Arezzo&Co e 42,6% da Soma. Fundos de private equity como Advent, GIC, CVC e L Catterton aparecem entre os potenciais compradores, e analistas de mercado estimam que o negócio poderia viabilizar um dividendo extraordinário equivalente a cerca de metade do valor atual da ação."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/azzas-2154-azza3-acoes-saltam-ate-18-e-lideram-ganhos-do-ibovespa-nesta-sexta/",
+    "date": "2026-09-26T14:34:45.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8ZmFzaGlvbiUyMGNsb3RoaW5nJTIwc3RvcmV8ZW58MHwwfHx8MTc5MDQzMjc0M3wy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Clark Street Mercantile",
+      "creditProfileUrl": "https://unsplash.com/@mercantile?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "weg-amplia-fabrica-baterias-itajai-330-milhoes",
+    "title": "WEG eleva para R$ 330 milhões investimento em fábrica de baterias e dobra capacidade prevista",
+    "excerpt": "A WEG ampliou o projeto da fábrica de sistemas de armazenamento de energia em Itajaí (SC): o aporte sobe de R$ 280 milhões para R$ 330 milhões e a capacidade anual prevista passa de 2 GWh para 4 GWh.",
+    "paragraphs": [
+      "A WEG (WEGE3) anunciou nesta sexta-feira (25) uma revisão para cima do projeto de sua nova unidade de sistemas de armazenamento de energia em baterias, conhecidos pela sigla BESS, em Itajaí, Santa Catarina. O investimento total passa a ser de R$ 330 milhões, ante os R$ 280 milhões divulgados em fevereiro, e a capacidade de produção anual prevista dobra, de 2 GWh para 4 GWh. A fábrica deve entrar em operação no segundo semestre de 2027, com mais automação no processo produtivo.",
+      "A ampliação acontece às vésperas do primeiro leilão de capacidade de armazenamento de energia do país, marcado para dezembro, que terá uma disputa específica para projetos com conteúdo nacional. A WEG e a Moura são as únicas fabricantes brasileiras citadas pelo BNDES entre as fornecedoras habilitadas para o certame, em um segmento dominado por empresas chinesas. Para a companhia, o movimento reforça a aposta em soluções ligadas à transição energética."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/weg-amplia-aportes-e-capacidade-produtiva-prevista-para-nova-fabrica-de-baterias/",
+    "date": "2026-09-26T14:34:45.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1722289016701-7661d52f38c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8YmF0dGVyeSUyMGVuZXJneSUyMHN0b3JhZ2V8ZW58MHwwfHx8MTc5MDQzMjc0NHwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Igor Omilaev",
+      "creditProfileUrl": "https://unsplash.com/@omilaev?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "axia-aprova-mais-4-bi-resgate-acoes-pnc",
+    "title": "Axia Energia aprova mais R$ 4 bilhões para resgate de ações PNC e total chega a R$ 11,7 bi",
+    "excerpt": "O conselho da Axia Energia autorizou alocar até R$ 4 bilhões adicionais, com base no 2º trimestre, para resgatar ações preferenciais classe C, elevando o montante previsto para acionistas em 2026 a R$ 11,7 bilhões.",
+    "paragraphs": [
+      "O conselho de administração da Axia Energia (AXIA3), antiga Eletrobras, aprovou nesta sexta-feira (25) uma nova alocação de capital de até R$ 4 bilhões, referente aos resultados do segundo trimestre, destinada ao resgate de ações preferenciais classe C (PNC). Somado aos até R$ 7,7 bilhões já aprovados com base no primeiro e no segundo trimestres, o valor total que pode ser devolvido aos acionistas em 2026 chega a até R$ 11,7 bilhões.",
+      "A empresa ressaltou que o número é uma previsão orçamentária e não garante que todo o montante será efetivamente utilizado. As PNCs foram criadas no ano passado por meio de bonificação em ações, como forma de distribuir as elevadas reservas de lucro da companhia, e o resgate funciona na prática como uma recompra. No início do mês, a Axia já havia aprovado o resgate de cerca de 70,7 milhões dessas ações, equivalentes a R$ 3,9 bilhões, a R$ 55,15 por papel."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/axia-aprova-mais-r-4-bi-em-alocacao-de-capital-para-resgate-de-acoes-pnc/",
+    "date": "2026-09-26T14:34:45.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8cG93ZXIlMjB0cmFuc21pc3Npb24lMjBsaW5lc3xlbnwwfDB8fHwxNzkwNDMyNzQ1fDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Matthew Henry",
+      "creditProfileUrl": "https://unsplash.com/@matthewhenry?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "arrecadacao-federal-agosto-recorde-235-bi",
+    "title": "Arrecadação federal bate recorde para agosto com R$ 235,6 bilhões e alta real de 8,25%",
+    "excerpt": "A Receita Federal arrecadou R$ 235,6 bilhões em agosto, melhor resultado para o mês desde 1995, com alta real de 8,25%. No acumulado de 2026, a arrecadação soma R$ 2,11 trilhões, crescimento real de 7,12%.",
+    "paragraphs": [
+      "A arrecadação de impostos e contribuições federais somou R$ 235,6 bilhões em agosto, avanço real de 8,25% sobre o mesmo mês de 2025 e o maior valor para agosto desde o início da série histórica, em 1995. De janeiro a agosto, o total recolhido chegou a R$ 2,11 trilhões, com crescimento real de 7,12%, também um recorde para o período. O resultado do mês contou com uma receita atípica de R$ 1,94 bilhão do imposto sobre exportação de petróleo, criado temporariamente em resposta à guerra no Oriente Médio.",
+      "Entre os tributos, o Imposto de Renda das empresas somado à CSLL cresceu 13,1% acima da inflação, enquanto o IR sobre rendimentos de capital avançou 23,3% e o Imposto de Importação subiu 22,7%. As receitas previdenciárias tiveram alta de 4,3%. Por setor, a exploração de petróleo se destacou, com R$ 14,4 bilhões recolhidos, contra menos de R$ 1 bilhão um ano antes. A Receita atribui o desempenho ao lucro das empresas, à expansão da massa salarial e à nova tributação sobre dividendos."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/economia/arrecadacao-federal-tem-alta-real-de-825-em-agosto-a-r-23556-bi-diz-receita/",
+    "date": "2026-09-26T14:34:45.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8dGF4JTIwY2FsY3VsYXRvciUyMGRvY3VtZW50c3xlbnwwfDB8fHwxNzkwNDMyNzQ2fDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Kelly Sikkema",
+      "creditProfileUrl": "https://unsplash.com/@kellysikkema?utm_source=import_news&utm_medium=referral"
     }
   }
 ]
