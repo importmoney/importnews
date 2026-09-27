@@ -324,18 +324,6 @@
     "date": "2026-09-14T14:20:40.000Z"
   },
   {
-    "slug": "semana-super-quarta-selic-fed-16-setembro",
-    "title": "Semana da Super Quarta: mercado espera corte da Selic e Fed estável",
-    "excerpt": "Semana tem Super Quarta em 16/9: mercado vê 95% de chance de corte de 0,25pp na Selic, para 13,75%, enquanto Fed deve manter juros nos EUA.",
-    "paragraphs": [
-      "A semana que começa nesta segunda-feira (14/9) tem como principal evento a \"Super Quarta\", em 16 de setembro, quando Copom e Federal Reserve anunciam suas decisões de juros no mesmo dia. O mercado atribui cerca de 95% de probabilidade a um corte de 0,25 ponto percentual na Selic, que iria de 14% para 13,75% ao ano.",
-      "Já nos Estados Unidos, a expectativa é de que o Fed mantenha a taxa básica na faixa entre 3,50% e 3,75%, sem alterações. As decisões vêm horas depois do IPCA de agosto ter surpreendido com deflação de 0,32%, o que reforça a trajetória de flexibilização monetária no Brasil, enquanto o cenário nos EUA segue mais cauteloso após o CPI recente vir acima do esperado."
-    ],
-    "sourceLabel": "O Especialista (Safra)",
-    "sourceUrl": "https://oespecialista.safra.com.br/superquarta-safra-projeta-corte-selic-manutencao-juros-eua/",
-    "date": "2026-09-13T14:20:00.000Z"
-  },
-  {
     "slug": "ibovespa-fecha-alta-186-mil-ata-copom",
     "title": "Ibovespa fecha em alta de 0,74% e retoma os 186 mil pontos, com ata do Copom e eleição no radar",
     "excerpt": "Depois de abrir no vermelho, a bolsa brasileira reverteu o cenário nesta terça-feira e encerrou aos 186.595 pontos, em dia de Wall Street forte e ata do Copom em repercussão, apesar das quedas de Vale, Petrobras e bancos.",
@@ -752,6 +740,57 @@
       "url": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8dGF4JTIwY2FsY3VsYXRvciUyMGRvY3VtZW50c3xlbnwwfDB8fHwxNzkwNDMyNzQ2fDI&ixlib=rb-4.1.0&q=80&w=1080",
       "creditName": "Kelly Sikkema",
       "creditProfileUrl": "https://unsplash.com/@kellysikkema?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "governo-publica-mp-que-proibe-bets-no-brasil",
+    "title": "Governo publica MP que proíbe as bets no Brasil e dá prazo até 5 de outubro para saques",
+    "excerpt": "Medida provisória anunciada por Lula veta apostas esportivas e cassinos online, bloqueia novos depósitos imediatamente e fixa 5 de outubro como último dia para apostadores sacarem seus saldos das plataformas.",
+    "paragraphs": [
+      "O governo federal anunciou na sexta-feira (25/9) uma medida provisória que encerra a operação das casas de apostas de quota fixa no país. Desde a publicação do texto, as plataformas estão impedidas de aceitar novos depósitos e de lançar campanhas publicitárias. Os apostadores têm até as 23h59 de 5 de outubro para resgatar o dinheiro por conta própria; a partir de 6 de outubro os sites saem do ar, e os saldos que restarem deverão ser informados aos bancos e devolvidos entre 9 e 14 de outubro, com a Caixa atuando como intermediária.",
+      "A decisão tem custo fiscal relevante: entre janeiro e agosto de 2026 o setor rendeu cerca de R$ 6,3 bilhões em tributos federais, algo próximo de R$ 800 milhões por mês, além de R$ 2,5 bilhões arrecadados em outorgas desde a regulamentação. As empresas somaram R$ 20,3 bilhões de receita bruta no primeiro semestre. O projeto que acompanha a MP prevê pena de 4 a 6 anos de prisão para quem explorar apostas, e o futebol aparece como o segmento mais exposto, pela forte dependência dos clubes em patrocínios do setor."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/politica/governo-anuncia-mp-das-bets/",
+    "date": "2026-09-27T17:25:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1781374244475-245e8d733e20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8c3BvcnRzJTIwYmV0dGluZyUyMHNtYXJ0cGhvbmV8ZW58MHwwfHx8MTc5MDUyOTkyOHwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Shubham Dhage",
+      "creditProfileUrl": "https://unsplash.com/@theshubhamdhage?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "governo-mantem-subsidio-diesel-r-212-por-30-dias",
+    "title": "Fazenda mantém subsídio de R$ 2,12 por litro ao diesel por mais 30 dias",
+    "excerpt": "Portaria publicada na noite de sexta-feira evita que a subvenção ao diesel rodoviário caísse para R$ 1 por litro neste domingo; somadas, as medidas de alívio aos combustíveis custam cerca de R$ 7 bilhões por mês à União.",
+    "paragraphs": [
+      "O Ministério da Fazenda prorrogou por mais 30 dias a subvenção de R$ 2,12 por litro concedida ao diesel rodoviário, por meio de portaria publicada no fim da noite de sexta-feira (25/9). Sem a medida, o benefício encolheria para R$ 1 por litro a partir deste domingo (27/9), quando perdeu validade a medida provisória que sustentava a primeira parcela do subsídio. O valor total é formado por R$ 1,12 criado no fim de maio, após a disparada do petróleo com o conflito no Oriente Médio, e por R$ 1 adicional incluído em setembro.",
+      "Além do diesel, seguem em vigor reduções de tributos de R$ 0,63 por litro na gasolina e de R$ 0,19 por litro no etanol. Segundo o governo, o conjunto de estímulos aos combustíveis representa um custo aproximado de R$ 7 bilhões por mês aos cofres federais. A equipe econômica justificou a manutenção com a volatilidade persistente das cotações internacionais do petróleo e dos derivados, cenário que já vinha sendo sinalizado pelo ministro do Planejamento, Bruno Moretti."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/brasil/governo-mantem-subsidio-de-r-212-ao-diesel-por-mais-30-dias/",
+    "date": "2026-09-27T17:25:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1564914236221-d13fe3b30205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8ZGllc2VsJTIwZnVlbCUyMHB1bXB8ZW58MHwwfHx8MTc5MDUyOTkyOXwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Studio Pizza",
+      "creditProfileUrl": "https://unsplash.com/@studiopizza?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "magalu-mglu3-sobe-32-em-setembro-lidera-ibovespa",
+    "title": "Magalu (MGLU3) sobe 32% em setembro e lidera ganhos do Ibovespa no mês",
+    "excerpt": "Ações do Magazine Luiza acumulam valorização de cerca de 32% em setembro, a maior do Ibovespa, impulsionadas pela parceria com o Mercado Livre e pelo ciclo de corte da Selic, mas ainda recuam perto de 30% no ano.",
+    "paragraphs": [
+      "Os papéis do Magazine Luiza acumulavam alta de 32,47% em setembro até o dia 24, o melhor desempenho entre as ações do Ibovespa no período, e ganharam mais 7,3% no pregão de sexta-feira (25/9). Dois fatores explicam o movimento: o acordo comercial com o Mercado Livre, que passa a distribuir produtos da varejista e amplia suas vendas digitais sem elevar o custo de aquisição de clientes, e o ciclo de redução da Selic, hoje em 13,75%, que favorece o consumo, o crédito e o custo de capital do setor.",
+      "Apesar do salto recente, a ação ainda carrega perda próxima de 30% em 2026, e os analistas se dividem sobre a sustentabilidade da alta. Parte do mercado enxerga uma solução para o principal ponto fraco da empresa no comércio eletrônico, enquanto outros veem apenas uma recuperação técnica de um papel muito castigado, que ainda depende de números operacionais melhores. No segundo trimestre, a companhia teve prejuízo ajustado de R$ 50,4 milhões, com queda de 2,6% na receita líquida e margem Ebitda perto de 8%."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/magalu-mglu3-lidera-ibovespa-no-mes-com-salto-de-32-o-que-esperar-para-as-acoes/",
+    "date": "2026-09-27T17:25:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1743228672550-8b8f22cf0031?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8cmV0YWlsJTIwc3RvcmUlMjBzaG9wcGluZ3xlbnwwfDB8fHwxNzkwNTI5OTI5fDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Albert Stoynov",
+      "creditProfileUrl": "https://unsplash.com/@albertstoynov?utm_source=import_news&utm_medium=referral"
     }
   }
 ]
