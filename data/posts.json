@@ -1,101 +1,5 @@
 [
   {
-    "slug": "ibovespa-futuro-188-mil-petroleo-trump-xi-eleicao",
-    "title": "Ibovespa futuro sobe rumo aos 188 mil pontos com petróleo em baixa e pesquisa eleitoral",
-    "excerpt": "O contrato futuro do Ibovespa avançava nesta segunda-feira, refletindo a queda do petróleo pelo quarto dia seguido, o alívio nos juros dos Treasuries americanos e a expectativa pela cúpula entre Trump e Xi Jinping, marcada para quinta-feira em Washington.",
-    "paragraphs": [
-      "O contrato futuro do Ibovespa avançava nesta segunda-feira (21/9), aproximando-se da faixa dos 188 mil pontos, embalado pela queda do petróleo pelo quarto pregão consecutivo e por um alívio nos rendimentos dos títulos do Tesouro americano. Contribuiu para o movimento o salto nas exportações de petróleo da Arábia Saudita, que passaram de 2,4 milhões para 4 milhões de barris diários entre agosto e setembro, aumentando a oferta global e pressionando as cotações da commodity para baixo.",
-      "O mercado também repercutiu nova pesquisa BTG Pactual/Nexus para a eleição presidencial, que mostrou Lula com 40% das intenções de voto no primeiro turno, contra 37% de Flávio Bolsonaro, e um empate técnico no cenário de segundo turno, com 46% a 45%. Investidores locais e estrangeiros mantêm o pleito de outubro como principal referência de risco político, na reta final antes da votação de 4 de outubro, ao lado da expectativa pelo encontro entre Trump e Xi Jinping em Washington, na quinta-feira (24/9)."
-    ],
-    "sourceLabel": "Money Times",
-    "sourceUrl": "https://www.moneytimes.com.br/ibovespa-futuro-21-9-26-lils/",
-    "date": "2026-09-21T14:20:00.000Z"
-  },
-  {
-    "slug": "dolar-cai-513-fraqueza-global-pesquisa-eleitoral",
-    "title": "Dólar cai a R$ 5,13 com fraqueza global da moeda e Focus revisa Selic e IPCA",
-    "excerpt": "A moeda americana perdia força nesta segunda-feira, negociada perto de R$ 5,13, refletindo o recuo do dólar no exterior e uma nova pesquisa eleitoral que mostrou disputa apertada entre Lula e Flávio Bolsonaro no segundo turno.",
-    "paragraphs": [
-      "O dólar comercial operava em queda nesta segunda-feira (21/9), cotado a R$ 5,132 na venda, recuo de 0,24% no início da manhã, enquanto o contrato futuro para outubro caía 0,35%, para R$ 5,139. O movimento acompanhou o enfraquecimento da moeda americana no exterior frente a uma cesta de divisas fortes, em meio à expectativa por sinalizações adicionais de membros do Federal Reserve e à proximidade da cúpula entre os presidentes dos Estados Unidos e da China.",
-      "No front doméstico, uma pesquisa BTG Pactual/Nexus mostrou empate técnico no segundo turno da eleição presidencial, com Lula somando 46% das intenções de voto e Flávio Bolsonaro, 45%. O Boletim Focus, divulgado pelo Banco Central, também trouxe ajustes nas projeções para o fim de 2026: a estimativa para a Selic caiu de 13,75% para 13,50% ao ano, enquanto a previsão de IPCA subiu de 4,90% para 4,92%, mantendo o mercado atento ao equilíbrio entre juros e inflação."
-    ],
-    "sourceLabel": "InfoMoney",
-    "sourceUrl": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21092026/",
-    "date": "2026-09-21T14:20:20.000Z"
-  },
-  {
-    "slug": "bitcoin-dispara-85-mil-maior-nivel-desde-janeiro",
-    "title": "Bitcoin dispara 6% e supera US$ 85 mil, maior nível desde janeiro",
-    "excerpt": "A criptomoeda saltou mais de 6% em 24 horas, impulsionada por liquidações forçadas de posições vendidas e forte entrada de recursos em ETFs, alcançando o maior patamar em quase nove meses.",
-    "paragraphs": [
-      "O Bitcoin disparou cerca de 6,1% em 24 horas nesta segunda-feira (21/9), superando a marca de US$ 85 mil e atingindo o maior nível desde janeiro de 2026, ainda cerca de 32% abaixo da máxima histórica de US$ 126 mil. O movimento foi turbinado por aproximadamente US$ 648 milhões em liquidações forçadas de posições vendidas, que aceleraram as compras em um efeito cascata característico dos chamados short squeezes no mercado cripto.",
-      "O apetite por risco também foi sustentado por fluxos institucionais: fundos de índice negociados em bolsa (ETFs) de Bitcoin receberam US$ 433 milhões só na sexta-feira, o melhor resultado desde o início de setembro, enquanto a empresa Strategy comprou mais 950 BTC, cerca de US$ 75,7 milhões. Outras criptomoedas acompanharam a alta: Ethereum subiu 5,9%, para perto de US$ 2.733, e o índice de sentimento do mercado passou a indicar clima de ganância, aos 70 pontos."
-    ],
-    "sourceLabel": "Bit Notícias",
-    "sourceUrl": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-21-de-setembro-de-2026/",
-    "date": "2026-09-21T14:20:40.000Z"
-  },
-  {
-    "slug": "poste-italiane-controladora-tim-brasil-opa-italia",
-    "title": "Poste Italiane conclui OPA e se torna controladora indireta da TIM Brasil",
-    "excerpt": "A estatal postal italiana finalizou a aquisição de participação na Telecom Italia por cerca de € 13 bilhões, assumindo o controle indireto da operadora brasileira TIM, com novo período de adesão à oferta aberto até esta sexta-feira.",
-    "paragraphs": [
-      "A Poste Italiane, correio estatal da Itália, concluiu a liquidação de uma oferta pública de aquisição (OPA) por ações da Telecom Italia avaliada em cerca de € 13 bilhões, elevando sua fatia na companhia para 66,6% e tornando-se sua acionista controladora. Como a Telecom Italia já era a controladora direta da TIM Brasil (TIMS3), a operação faz da estatal italiana a nova controladora indireta da operadora brasileira de telecomunicações.",
-      "A liquidação da contraprestação pelas ações aceitas ocorreu em 18 de setembro, e a Poste Italiane, que já detinha cerca de 20% do capital da Telecom Italia antes da oferta, reabriu o prazo de adesão à OPA entre 21 e 25 de setembro, conforme a regulação italiana. A mudança de controle não altera, por ora, a operação cotidiana da TIM Brasil na bolsa brasileira, mas reforça o vínculo entre a operadora e o grupo postal italiano, que passa a ter influência direta sobre as decisões estratégicas da Telecom Italia."
-    ],
-    "sourceLabel": "ADVFN News",
-    "sourceUrl": "https://br.advfn.com/jornal/2026/09/poste-italiane-assume-controle-indireto-da-tim-brasil-apos-opa-da-telecom-italia",
-    "date": "2026-09-21T14:21:00.000Z"
-  },
-  {
-    "slug": "lula-pacote-bondades-271-bi-economia-eleitoral",
-    "title": "Governo injeta cerca de R$ 271 bilhões na economia em pacote de medidas no ano eleitoral",
-    "excerpt": "Levantamento reúne 20 iniciativas anunciadas pelo governo federal em 2026, entre linhas de crédito, moradia, subsídios a combustíveis e reajuste do Bolsa Família, às vésperas da disputa presidencial de outubro.",
-    "paragraphs": [
-      "Um conjunto de 20 medidas anunciadas pelo governo federal ao longo de 2026 soma cerca de R$ 271 bilhões injetados na economia, segundo levantamento que reúne desde novas linhas de crédito, como o Brasil Soberano 2.0 e o Move Brasil, até programas habitacionais e reforços em subsídios de combustíveis. Parte considerável do pacote se concentra em diesel e gasolina, com medidas que somam mais de R$ 40 bilhões destinados a conter o repasse de preços ao consumidor.",
-      "Entre os itens está o reajuste do piso do Bolsa Família para R$ 691 mensais, custo adicional estimado em R$ 5,8 bilhões que o governo diz bancar via remanejamento orçamentário. A equipe econômica classifica boa parte das medidas como fiscalmente neutras, caso da ampliação da isenção do Imposto de Renda, compensada por uma tributação mínima sobre rendas mais altas. Economistas ouvidos pela imprensa apontam, porém, preocupação com a sustentabilidade fiscal do pacote a partir de 2027."
-    ],
-    "sourceLabel": "CNN Brasil",
-    "sourceUrl": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-de-bondades-de-lula-injeta-r-270-bi-na-economia-em-ano-eleitoral/",
-    "date": "2026-09-20T14:40:00.000Z"
-  },
-  {
-    "slug": "totvs-aprova-jcp-85-milhoes-outubro",
-    "title": "TOTVS aprova R$ 85 milhões em juros sobre capital próprio, a R$ 0,15 por ação",
-    "excerpt": "Empresa de software definiu 23 de setembro como data-base para o provento, que será pago em 8 de outubro, com ações passando a negociar sem direito ao benefício a partir do dia 24.",
-    "paragraphs": [
-      "O conselho de administração da TOTVS aprovou a distribuição de R$ 85 milhões em juros sobre capital próprio referentes ao terceiro trimestre de 2026, montante que será integrado aos dividendos obrigatórios do exercício. O valor bruto corresponde a R$ 0,15 por ação da companhia, sujeito a desconto de imposto de renda retido na fonte conforme a legislação vigente.",
-      "Terão direito ao provento os acionistas com posição em TOTS3 até 23 de setembro, data-base definida pela empresa; a partir de 24 de setembro, os papéis passam a ser negociados sem o benefício. O pagamento está previsto para 8 de outubro, sem correção monetária ou juros, via crédito em conta corrente informada pelos acionistas ao banco Itaú Unibanco, responsável pela custódia."
-    ],
-    "sourceLabel": "InfoMoney",
-    "sourceUrl": "https://www.infomoney.com.br/mercados/totvs-tots3-pagara-r-85-milhoes-em-juros-sobre-capital-proprio/",
-    "date": "2026-09-20T14:40:20.000Z"
-  },
-  {
-    "slug": "bitcoin-80-mil-maxima-desde-maio-regulacao-eua",
-    "title": "Bitcoin sobe a US$ 80,6 mil e renova máxima desde maio com avanços regulatórios nos EUA",
-    "excerpt": "Criptomoeda avançou 5,5% em 24 horas após medidas da CFTC e da SEC facilitarem o acesso a mercados de derivativos e negociação de ações tokenizadas, além de avanço de projeto sobre reserva estratégica de Bitcoin no Congresso americano.",
-    "paragraphs": [
-      "O Bitcoin subiu 5,5% em 24 horas, cotado a cerca de US$ 80.650, maior nível desde maio, com valor de mercado próximo de US$ 1,62 trilhão. O movimento foi puxado por sinalizações regulatórias favoráveis nos EUA: a CFTC avançou regras para o mercado cripto, propondo diretrizes que permitem a provedores de software conectar usuários a derivativos regulados sem exigir registro como corretora, enquanto a SEC autorizou temporariamente a negociação de ações tokenizadas sem registro pleno como bolsa.",
-      "Também impulsionou o mercado a aprovação, por 28 a 21 votos, do American Reserve Modernization Act pelo Comitê de Serviços Financeiros da Câmara dos EUA, que busca instituir reservas estratégicas de Bitcoin como política federal e restringir sua venda por 20 anos. Segundo analistas, parte da recuperação também reflete a absorção de vendas forçadas de investidores de curto prazo que capitularam perto de US$ 75 mil dias antes."
-    ],
-    "sourceLabel": "InfoMoney",
-    "sourceUrl": "https://www.infomoney.com.br/onde-investir/bitcoin-volta-a-us-80-mil-e-renova-maxima-desde-maio-o-que-aconteceu/",
-    "date": "2026-09-20T14:40:40.000Z"
-  },
-  {
-    "slug": "petrobras-recebe-448-milhoes-subvencao-diesel-gasolina",
-    "title": "Petrobras recebe R$ 448 milhões em subvenção à gasolina e adere a novo programa do diesel",
-    "excerpt": "Estatal recebeu repasse referente à comercialização de gasolina entre 16 e 31 de julho e aprovou participação em novo programa de subvenção ao diesel, elevando para R$ 9,9 bilhões o total já recebido em subsídios de combustíveis.",
-    "paragraphs": [
-      "A Petrobras informou ter recebido R$ 448 milhões referentes à subvenção econômica sobre a comercialização de gasolina no período de 16 a 31 de julho, dentro de programa federal voltado a produtores e importadores do combustível. Com esse repasse, a companhia soma R$ 9,9 bilhões recebidos até o momento em subsídios de diesel, gasolina e GLP, segundo comunicado ao mercado.",
-      "Paralelamente, o conselho de administração da estatal aprovou a adesão a um novo programa de subvenção ao diesel, criado pela Medida Provisória 1.391, publicada em 11 de setembro, que prevê repasse de R$ 1,00 por litro do diesel rodoviário tipo A por 30 dias, prorrogáveis por igual período. O benefício é cumulativo com o programa anterior, da MP 1.363, que já garantia R$ 1,12 por litro. A Petrobras afirma que a medida preserva sua flexibilidade para definir preços domésticos sem repasse imediato da volatilidade internacional."
-    ],
-    "sourceLabel": "InfoMoney",
-    "sourceUrl": "https://www.infomoney.com.br/mercados/petrobras-recebe-parcela-de-r-448-milhoes-referente-a-subvencao-a-gasolina/",
-    "date": "2026-09-20T14:41:00.000Z"
-  },
-  {
     "slug": "ibovespa-fecha-alta-186-mil-ata-copom",
     "title": "Ibovespa fecha em alta de 0,74% e retoma os 186 mil pontos, com ata do Copom e eleição no radar",
     "excerpt": "Depois de abrir no vermelho, a bolsa brasileira reverteu o cenário nesta terça-feira e encerrou aos 186.595 pontos, em dia de Wall Street forte e ata do Copom em repercussão, apesar das quedas de Vale, Petrobras e bancos.",
@@ -1107,6 +1011,74 @@
       "url": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
       "creditName": "André François McKenzie",
       "creditProfileUrl": "https://unsplash.com/@silverhousehd?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-vira-fecha-queda-205-mil-bbas3-despenca",
+    "title": "Ibovespa vira e fecha em queda perto de 205 mil pontos, com Banco do Brasil em forte baixa",
+    "excerpt": "O Ibovespa abriu perto da máxima histórica nesta terça-feira, mas perdeu força ao longo do pregão e fechou em queda, pressionado pela desvalorização de Banco do Brasil, Petrobras e Vale.",
+    "paragraphs": [
+      "O Ibovespa chegou a se aproximar de uma nova máxima intradiária nesta terça-feira (6), impulsionado pelo otimismo que ainda cercava o resultado do primeiro turno das eleições, mas perdeu força ao longo do pregão e encerrou o dia em queda, na faixa dos 205 mil pontos. O principal entrave veio do setor financeiro: as ações do Banco do Brasil (BBAS3) recuaram cerca de 6%, liderando as perdas do índice, enquanto Petrobras (PETR4) e Vale (VALE3) também fecharam no vermelho.",
+      "O tropeço de BBAS3 ocorre num momento em que o mercado já observa com desconfiança a saúde financeira do banco estatal, que neste ano reduziu a projeção de lucro anual e viu a inadimplência da carteira agrícola avançar. A sessão de recuo também reflete uma pausa natural após a forte disparada da véspera, quando o índice havia saltado mais de 8% com a repercussão do primeiro turno presidencial, levando investidores a realizarem parte dos lucros acumulados em ações e commodities."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06102026/",
+    "date": "2026-10-06T15:10:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8c3RvY2slMjBleGNoYW5nZSUyMHRyYWRpbmd8ZW58MHwwfHx8MTc5MTI5OTM0NHwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Adam Śmigielski",
+      "creditProfileUrl": "https://unsplash.com/@smigielski?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "dolar-cai-abaixo-497-terceiro-dia-reacao-eleitoral",
+    "title": "Dólar cai pelo terceiro pregão seguido e opera abaixo de R$ 4,97",
+    "excerpt": "A moeda americana ampliou a sequência de perdas nesta terça-feira, negociada abaixo de R$ 4,97, à medida que o mercado continua a precificar o resultado do primeiro turno das eleições presidenciais.",
+    "paragraphs": [
+      "O dólar comercial operava em queda nesta terça-feira (6), cotado abaixo de R$ 4,97 nas primeiras horas de negociação, recuo de cerca de 0,66% em relação ao fechamento anterior. O contrato futuro para novembro acompanhava o movimento, também cedendo perto de 0,7%. O novo recuo prolonga a reação positiva do mercado cambial ao resultado do primeiro turno da eleição presidencial, divulgado no fim de semana.",
+      "Na segunda-feira, a moeda americana já havia fechado com forte baixa de 4,12%, encerrando a R$ 5,0022, movimento atribuído à avaliação de investidores de que um eventual governo mais afinado com o ajuste fiscal tende a reduzir riscos para os ativos brasileiros. Com a sequência de quedas, o dólar acumula a maior desvalorização em poucos dias desde o início do ano, enquanto o mercado volta a atenção para os próximos desdobramentos da disputa presidencial antes do segundo turno."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-06102026",
+    "date": "2026-10-06T15:10:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1636115734305-aac2f83cd8d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Y3VycmVuY3klMjBleGNoYW5nZSUyMGRvbGxhcnxlbnwwfDB8fHwxNzkxMjk5MzQ1fDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "engin akyurt",
+      "creditProfileUrl": "https://unsplash.com/@enginakyurt?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bitcoin-recua-86-mil-falha-romper-87-mil-outubro",
+    "title": "Bitcoin tem leve queda, mas se mantém acima dos US$ 86 mil",
+    "excerpt": "A principal criptomoeda do mercado operava com leve variação negativa nesta terça-feira, mas conseguia se manter acima de US$ 86 mil mesmo após falhar novamente em romper a resistência de US$ 87 mil.",
+    "paragraphs": [
+      "O bitcoin tinha leve variação negativa nesta terça-feira (6), cotado perto de US$ 86,1 mil, mas conseguia se manter acima da casa dos US$ 86 mil mesmo após falhar novamente em romper a resistência dos US$ 87 mil. Em reais, o ativo valia o equivalente a cerca de R$ 434 mil, enquanto o mercado monitorava de perto o recuo nos rendimentos dos títulos do Tesouro americano e a queda do petróleo, fatores que ajudaram a sustentar o apetite por ativos de risco.",
+      "Com a nova rejeição na faixa dos US$ 87 mil, analistas passaram a apontar a região de US$ 84 mil como o principal suporte técnico de curto prazo, caso a pressão vendedora se intensifique. O cenário de juros altos nos Estados Unidos e um dólar ainda resiliente no exterior são citados como entraves para uma retomada mais consistente da criptomoeda, que segue mostrando indecisão entre compradores e vendedores nesta fase do ciclo."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/future-of-money/bitcoin-hoje-06-10-2026/",
+    "date": "2026-10-06T15:10:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1640161704729-cbe966a08476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Y3J5cHRvY3VycmVuY3klMjBiaXRjb2lufGVufDB8MHx8fDE3OTEyOTkzNDZ8Mg&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Traxer",
+      "creditProfileUrl": "https://unsplash.com/@traxer?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "focus-eleva-inflacao-12a-semana-reduz-pib-selic-135",
+    "title": "Boletim Focus eleva projeção de inflação pela terceira semana seguida e reduz estimativa do PIB",
+    "excerpt": "O relatório semanal do Banco Central mostrou nova alta na expectativa de inflação para 2026, a 5,01%, enquanto a previsão de crescimento econômico foi revisada para baixo e a Selic permaneceu estável nas projeções.",
+    "paragraphs": [
+      "O Boletim Focus, divulgado pelo Banco Central nesta segunda-feira (5), mostrou que o mercado financeiro elevou pela terceira semana consecutiva a projeção de inflação para 2026, de 4,99% para 5,01%, ficando acima do teto da meta oficial. Para 2027, a estimativa recuou de forma marginal, de 4,31% para 4,30%. Já a previsão de crescimento do Produto Interno Bruto (PIB) para este ano foi revisada para baixo, de 1,86% para 1,85%, com os analistas também reduzindo a expectativa para 2027, de 1,41% para 1,40%.",
+      "Apesar do cenário de inflação mais pressionada e atividade mais fraca, os economistas consultados pelo Banco Central mantiveram a projeção para a taxa Selic em 13,5% ao ano no final de 2026, com estabilidade também nas estimativas para 2027 e 2028, de 12% e 10,5%, respectivamente. O relatório reúne as projeções de instituições financeiras e consultorias e costuma orientar as decisões do Comitê de Política Monetária (Copom), cuja próxima reunião está marcada para o início de novembro."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-05102026/",
+    "date": "2026-10-06T15:11:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Y2VudHJhbCUyMGJhbmt8ZW58MHwwfHx8MTc5MTI5OTM3MXwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Etienne Martin",
+      "creditProfileUrl": "https://unsplash.com/@etiennemartin?utm_source=import_news&utm_medium=referral"
     }
   }
 ]
