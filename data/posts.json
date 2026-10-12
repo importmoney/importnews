@@ -1,53 +1,990 @@
 [
-    {
-        "slug":  "b3-fechada-feriado-12-outubro-pregao-volta-terca",
-        "title":  "B3 fecha nesta segunda por feriado e pregão só volta na terça (13)",
-        "excerpt":  "Com o feriado de Nossa Senhora Aparecida, a Bolsa brasileira não opera nesta segunda-feira, e os investidores usam os ADRs e o EWZ em Nova York como termômetro até a retomada.",
-        "paragraphs":  [
-                           "A B3 não abre nesta segunda-feira (12) por causa do feriado nacional de Nossa Senhora Aparecida, e as negociações no mercado à vista só são retomadas na terça-feira (13). As agências bancárias também ficam fechadas, enquanto o Pix segue funcionando 24 horas por dia, como em qualquer outra data.",
-                           "Sem referência local, quem acompanha o mercado olha para Nova York, onde as bolsas operam normalmente. O EWZ, fundo que replica o Ibovespa em dólar, subia cerca de 0,26% em um pregão de liquidez reduzida. A última leitura do índice foi o recorde de 209.066,90 pontos na sexta-feira (9), e o dólar comercial encerrou aquele dia em R$ 4,985."
-                       ],
-        "sourceLabel":  "Exame",
-        "sourceUrl":  "https://exame.com/invest/minhas-financas/o-ibovespa-opera-hoje-veja-calendario-atualizado-de-feriados-na-b3/",
-        "date":  "2026-10-12T17:09:58.000Z",
-        "image":  {
-                      "url":  "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026q=80\u0026w=1080",
-                      "creditName":  "Nicholas Cappello",
-                      "creditProfileUrl":  "=import_news\u0026utm_medium=referral"
-                  }
-    },
-    {
-        "slug":  "ibovespa-melhor-semana-desde-2020-analistas-pedem-cautela-2o-turno",
-        "title":  "Após melhor semana desde 2020, Ibovespa entra no 2º turno sob alerta de cautela",
-        "excerpt":  "O Ibovespa avançou 8,82% em cinco dias e fechou no recorde, mas especialistas lembram que 2014 e 2022 mostraram reversões depois da euforia do primeiro turno.",
-        "paragraphs":  [
-                           "O Ibovespa encerrou a semana passada em 209.066,90 pontos, com alta acumulada de 8,82%, o melhor desempenho semanal desde março de 2020. O dólar recuou mais de 4% no período e fechou em R$ 4,985. O movimento foi impulsionado pelo resultado do primeiro turno, pela queda dos juros futuros e por pesquisas que mostram Flávio Bolsonaro à frente no segundo turno, marcado para 25 de outubro.",
-                           "Apesar do ânimo, analistas ouvidos pela imprensa financeira alertam para a volatilidade até a votação final. Em 2014 e em 2022, o dólar caiu forte logo após o primeiro turno e depois devolveu quase todo o recuo; em 2022, a Bolsa chegou a perder cerca de 5% na última semana antes do segundo turno. O recado é que a reação já embute boa parte do cenário favorável."
-                       ],
-        "sourceLabel":  "InfoMoney",
-        "sourceUrl":  "https://www.infomoney.com.br/mercados/ibovespa-09102026-sobe-ny-trade-eleitoral-salta-semana/",
-        "date":  "2026-10-12T17:10:18.000Z",
-        "image":  {
-                      "url":  "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026q=80\u0026w=1080",
-                      "creditName":  "Maxim Hopman",
-                      "creditProfileUrl":  "=import_news\u0026utm_medium=referral"
-                  }
-    },
-    {
-        "slug":  "agenda-semana-focus-cpi-eua-ibc-br-13-a-16-outubro",
-        "title":  "Focus, CPI dos EUA e IBC-Br movem o mercado na semana curta",
-        "excerpt":  "Depois do feriado, a semana traz o Boletim Focus na terça, a inflação ao consumidor americana na quarta e a prévia do PIB brasileiro na sexta.",
-        "paragraphs":  [
-                           "A agenda doméstica começa na terça-feira (13), às 8h25, com o Boletim Focus do Banco Central, que reúne as projeções do mercado para inflação, juros, PIB e câmbio. Na quarta (14), o destaque internacional é o CPI dos Estados Unidos às 9h30, dado de inflação de setembro que pode redefinir as apostas sobre os juros americanos, hoje em patamares inéditos em mais de duas décadas.",
-                           "Na sexta-feira (16), o Banco Central divulga o IBC-Br de agosto, considerado uma prévia do PIB, com projeção de alta de 0,3% no mês. Além dos dados, o calendário eleitoral segue no radar até o segundo turno, em 25 de outubro, e deve manter o câmbio e a Bolsa sensíveis a pesquisas e a sinais sobre a política fiscal do próximo governo."
-                       ],
-        "sourceLabel":  "Exame",
-        "sourceUrl":  "https://exame.com/invest/mercados/focus-balanca-da-china-cpi-e-balancos-nos-eua-durante-a-semana-o-que-move-o-mercado/",
-        "date":  "2026-10-12T17:10:38.000Z",
-        "image":  {
-                      "url":  "https://images.unsplash.com/photo-1703300450387-047da16a89c4?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026q=80\u0026w=1080",
-                      "creditName":  "wd toro",
-                      "creditProfileUrl":  "=import_news\u0026utm_medium=referral"
-                  }
+  {
+    "slug": "jogo-da-bolsa-import-money-simule-investimentos",
+    "title": "Import Money lança o Jogo da Bolsa: simule investimentos com R$ 100 mil fictícios",
+    "excerpt": "A plataforma estreia em fase beta um simulador gratuito de investimentos com cotações reais da B3, carteira fictícia de R$ 100 mil e ranking entre participantes, pensado para praticar estratégias antes de investir dinheiro de verdade.",
+    "paragraphs": [
+      "A Import Money lançou, em fase beta, o Jogo da Bolsa: um simulador de investimentos gratuito que usa cotações reais do mercado, atualizadas via Yahoo Finance, para reproduzir o comportamento da bolsa o mais próximo possível do real. Cada participante começa com uma carteira fictícia de R$ 100.000,00 e pode comprar e vender ações como faria em uma corretora de verdade, acompanhando o desempenho da carteira, o histórico de ordens e a variação dos ativos escolhidos dentro da própria plataforma.",
+      "A meta proposta pelo jogo é fazer a carteira fictícia chegar a R$ 1.000.000,00, e um ranking compara o desempenho entre os participantes — uma forma de aprender a investir na prática, testando estratégias sem arriscar dinheiro real. O acesso é exclusivo para membros logados na plataforma Import Money, e a ferramenta já está disponível para testes nesta versão beta."
+    ],
+    "sourceLabel": "Import Money",
+    "sourceUrl": "https://www.importmoney.com/jogo-da-bolsa",
+    "date": "2026-09-25T14:06:20.000Z",
+    "pinned": true,
+    "expiresAt": "2026-11-25T14:06:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Austin Distel",
+      "creditProfileUrl": "https://unsplash.com/@austindistel?utm_source=import_news&utm_medium=referral"
     }
+  },
+  {
+    "slug": "ibovespa-cai-a-183-mil-dolar-sobe-a-5-22-pesquisas-eleitorais",
+    "title": "Ibovespa cai 0,26% e perde os 183 mil pontos; dólar sobe a R$ 5,22 com pesquisas eleitorais",
+    "excerpt": "A bolsa brasileira recuou pelo quarto pregão seguido nesta segunda-feira, enquanto o dólar avançou 0,83%, com investidores reagindo a novas pesquisas de intenção de voto e à escalada dos juros dos títulos americanos.",
+    "paragraphs": [
+      "O Ibovespa encerrou a segunda-feira (28) em leve baixa de 0,26%, aos 182.991 pontos, depois de oscilar entre 181,9 mil e 184,1 mil pontos ao longo do dia, com giro financeiro próximo de R$ 18 bilhões. No câmbio, o dólar à vista ganhou 0,83% e terminou cotado a R$ 5,2264. O movimento foi influenciado por dois levantamentos eleitorais divulgados no fim de semana, Quaest e BTG/Nexus, que apontaram ampliação da vantagem de Lula (PT) sobre Flávio Bolsonaro (PL) no primeiro turno.",
+      "Nos números, a BTG/Nexus mostrou Lula com 42% contra 37% de Flávio, e a Quaest registrou 39% a 34%. Para um eventual segundo turno, porém, os cenários seguem apertados: empate técnico de 46% a 44% em uma pesquisa e igualdade de 42% na outra. No exterior, o rendimento do Treasury de 10 anos subiu para cerca de 5,26%, pressionando ativos de risco. Entre as ações, Natura (-5,76%) e Azzas (-5,25%) lideraram as perdas, enquanto petroleiras como Prio (+3,84%) e Brava (+3,16%) subiram com o Brent acima de US$ 105."
+    ],
+    "sourceLabel": "CNN Brasil Business",
+    "sourceUrl": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-28-setembro-2026/",
+    "date": "2026-09-28T22:46:02.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8c3RvY2slMjBtYXJrZXQlMjBjaGFydHxlbnwwfDB8fHwxNzkwNjM1NDgyfDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Nicholas Cappello",
+      "creditProfileUrl": "https://unsplash.com/@bash__profile?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "focus-eleva-projecao-ipca-2026-para-4-99-e-reduz-pib",
+    "title": "Focus eleva projeção de inflação de 2026 para 4,99% e corta estimativa do PIB pela 3ª vez",
+    "excerpt": "O Boletim Focus desta semana mostrou a segunda alta seguida na expectativa para o IPCA de 2026, agora em 4,99%, enquanto a previsão de crescimento do PIB caiu para 1,86% e a Selic de fim de ano ficou mantida em 13,50%.",
+    "paragraphs": [
+      "Os economistas consultados pelo Banco Central no Boletim Focus revisaram para cima, pela segunda semana consecutiva, a projeção de inflação para 2026, que passou de 4,92% para 4,99%. Há quatro semanas, a mediana estava em 5,01%. Para 2027, a estimativa do IPCA subiu marginalmente, de 4,30% para 4,31%, e para 2028 permaneceu em 3,80%. A revisão ocorre após o IPCA-15 de setembro ter surpreendido para cima, pressionado principalmente pela conta de luz.",
+      "Na atividade, o mercado cortou pela terceira semana seguida a previsão de crescimento do PIB deste ano, de 1,88% para 1,86%, e reduziu a de 2027 de 1,43% para 1,41%. Já as expectativas para os juros seguem estáveis há 15 semanas: a Selic deve terminar 2026 em 13,50% ao ano e 2027 em 12%. A mediana para o câmbio também não se mexeu, com o dólar projetado em R$ 5,20 ao fim deste ano e em R$ 5,28 no fim do próximo."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-28092026/",
+    "date": "2026-09-28T22:46:22.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1662692735672-544412d65934?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8YnJhemlsJTIwZWNvbm9teXxlbnwwfDB8fHwxNzkwNjM1NDgyfDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Samuel Costa Melo",
+      "creditProfileUrl": "https://unsplash.com/@samuelcm?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bitcoin-recua-a-us-83-mil-com-impasse-em-ormuz",
+    "title": "Bitcoin recua a US$ 83 mil com novo impasse entre EUA e Irã sobre o Estreito de Ormuz",
+    "excerpt": "A principal criptomoeda caiu cerca de 1,7% nesta segunda-feira, acompanhando ouro e bolsas globais, depois que Donald Trump rejeitou uma proposta iraniana para reabrir a rota marítima por onde passa um quinto do petróleo mundial.",
+    "paragraphs": [
+      "O bitcoin começou a semana em queda, negociado perto de US$ 83,3 mil, com recuo de aproximadamente 1,7% em 24 horas. O movimento acompanhou a aversão a risco nos mercados globais, com o ouro caindo mais de 3% e o petróleo Brent subindo cerca de 2%. O gatilho foi o novo travamento das negociações para reabrir o Estreito de Ormuz: o presidente americano Donald Trump recusou uma proposta de Teerã condicionada a uma lista de exigências, e o governo iraniano afirmou que não vai flexibilizar suas condições.",
+      "Apesar da correção, alguns indicadores seguem positivos para a criptomoeda. Os ETFs de bitcoin nos EUA registraram entrada líquida de US$ 134,5 milhões na sexta-feira, o sétimo pregão seguido de captação positiva, e empresas de tesouraria continuaram comprando: a Strategy adquiriu 1.665 BTC por US$ 142,7 milhões e a Strive, 1.107 BTC por US$ 94,5 milhões. O índice de medo e ganância marcava 70 pontos, na zona de ganância, enquanto o juro do Treasury de 10 anos, perto de 5,2%, segue como fator de pressão."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/future-of-money/bitcoin-hoje-28-09-2026/",
+    "date": "2026-09-28T22:46:42.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1623227413711-25ee4388dae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Y3J5cHRvY3VycmVuY3klMjBiaXRjb2lufGVufDB8MHx8fDE3OTA2MzU0ODN8Mg&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Kanchanara",
+      "creditProfileUrl": "https://unsplash.com/@kanchanara?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-cai-terca-exterior-fraco-eleicao-29-set",
+    "title": "Ibovespa cai nesta terça com exterior fraco e reta final das eleições",
+    "excerpt": "O principal índice da bolsa brasileira operava em queda nesta terça-feira, pressionado pela fraqueza de Wall Street e pela alta dos juros dos títulos americanos, enquanto o mercado repercutia nova pesquisa eleitoral a poucos dias do primeiro turno.",
+    "paragraphs": [
+      "O Ibovespa abriu a terça-feira (29/9) em queda de cerca de 0,44%, por volta dos 181,9 mil pontos, depois de fechar a véspera com recuo de 0,26%, aos 182.991 pontos. O ambiente externo pesou sobre o índice: Wall Street fechou no negativo, com o Dow Jones caindo 0,68%, o S&P 500 recuando 0,77% e o Nasdaq perdendo 0,92%, enquanto o rendimento dos títulos do Tesouro americano se aproximava de máximas de vários anos. O petróleo também cedia, com o WTI em baixa de 0,81% e o Brent de 0,65%, pressionando siderúrgicas e bancos na abertura.",
+      "No radar político, uma nova pesquisa AtlasIntel/Bloomberg mostrou Lula (PT) com 45,3% das intenções de voto no primeiro turno, contra 42,2% de Flávio Bolsonaro (PL), enquanto o cenário de segundo turno seguia de empate técnico, com o candidato do PL em 47,7% e o petista em 47,6%. A eleição presidencial ocorre no próximo domingo. No campo fiscal, o governo central registrou déficit primário de R$ 13,585 bilhões em agosto, e o IBGE confirmou taxa de desemprego de 5,3% no trimestre encerrado no mesmo mês."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29092026/",
+    "date": "2026-09-29T14:13:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8c3RvY2slMjBleGNoYW5nZSUyMHRyYWRpbmd8ZW58MHwwfHx8MTc5MDY5MTIyOXwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Adam Śmigielski",
+      "creditProfileUrl": "https://unsplash.com/@smigielski?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "dolar-recua-521-pesquisa-eleitoral-exterior",
+    "title": "Dólar recua a R$ 5,21 nesta terça com pesquisa eleitoral e fraqueza no exterior",
+    "excerpt": "A moeda americana operava em queda nesta terça-feira, negociada perto de R$ 5,213, após pesquisa eleitoral reforçar o empate técnico na disputa presidencial e o dólar perder força também frente a outras moedas emergentes.",
+    "paragraphs": [
+      "O dólar comercial operava em baixa nesta terça-feira (29/9), cotado a R$ 5,213 na venda, recuo de 0,24% no início dos negócios, enquanto o contrato futuro para outubro, o mais negociado da bolsa brasileira, cedia 0,44%, para R$ 5,202. O movimento acompanhava a fraqueza da moeda americana também no exterior, que perdia valor frente a uma cesta de divisas de países emergentes, em meio à expectativa por novos dados de emprego e inflação nos Estados Unidos ao longo da semana.",
+      "Internamente, uma nova pesquisa eleitoral reforçou o cenário de empate técnico entre os principais candidatos à Presidência no eventual segundo turno, o que ajudou a reduzir a demanda por proteção cambial. Também pesou a leitura do mercado sobre o mercado de trabalho brasileiro, com o IBGE confirmando desemprego de 5,3% no trimestre até agosto. Lá fora, a ferramenta FedWatch já precificava probabilidade superior a 70% de nova alta de juros pelo Federal Reserve ao fim de outubro, ante 57% na semana anterior."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-29092026/",
+    "date": "2026-09-29T14:14:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1636115734305-aac2f83cd8d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Y3VycmVuY3klMjBleGNoYW5nZSUyMGRvbGxhcnxlbnwwfDB8fHwxNzkwNjkxMjMwfDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "engin akyurt",
+      "creditProfileUrl": "https://unsplash.com/@enginakyurt?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "desemprego-53-deficit-primario-136-bi-agosto",
+    "title": "Desemprego fica em 5,3% e déficit primário do governo soma R$ 13,6 bilhões em agosto",
+    "excerpt": "O IBGE confirmou taxa de desemprego de 5,3% no trimestre até agosto, enquanto o Tesouro Nacional informou déficit primário de R$ 13,585 bilhões no mês, números que reforçam a cautela do mercado com a atividade e as contas públicas.",
+    "paragraphs": [
+      "O IBGE divulgou nesta terça-feira (29/9) que a taxa de desemprego no Brasil ficou em 5,3% no trimestre encerrado em agosto, dado acompanhado de perto pelo mercado em um momento de moderação no ritmo de contratações formais, segundo analistas. No mesmo dia, o Ministério do Trabalho e Emprego divulgou os números do Cadastro Geral de Empregados e Desempregados (Caged), completando o quadro sobre o mercado de trabalho brasileiro no período.",
+      "Já o Tesouro Nacional confirmou que o governo central fechou agosto com déficit primário de R$ 13,585 bilhões, resultado pressionado pela frustração de parte da arrecadação esperada para o mês. O número ficou próximo da previsão de mercado, que apontava para um rombo em torno de R$ 14,2 bilhões, e reforça o desafio da equipe econômica para equilibrar as contas públicas em meio à queda de juros e à proximidade da eleição presidencial, marcada para o próximo domingo."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/emprego-brasil-eua-deficit-primario-eleicoes-29092026/",
+    "date": "2026-09-29T14:14:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1518639192441-8fce0a366e2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8YnJhemlsJTIwZWNvbm9teXxlbnwwfDB8fHwxNzkwNjkxMjMxfDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Raphael Nogueira",
+      "creditProfileUrl": "https://unsplash.com/@phaelnogueira?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bitcoin-volta-84-mil-etfs-perdem-forca",
+    "title": "Bitcoin volta a US$ 84 mil, mas fôlego dos ETFs perde força",
+    "excerpt": "A criptomoeda se recuperou de uma queda a US$ 82,5 mil e voltou a rondar US$ 84,2 mil nesta terça-feira, mesmo com a captação dos ETFs à vista esfriando após oito pregões seguidos de entradas positivas.",
+    "paragraphs": [
+      "O bitcoin era negociado a cerca de US$ 84.232 nesta terça-feira (29/9), equivalente a aproximadamente R$ 438.975, depois de ter recuado a US$ 82,5 mil no início da semana. A criptomoeda mostrou resistência nessa região considerada tecnicamente relevante e voltou a se aproximar da máxima recente, perto de US$ 84.300 na Coinbase, enquanto o índice de Medo e Ganância marcava 73 pontos, ainda na zona de ganância moderada.",
+      "O fôlego dos fundos negociados em bolsa (ETFs) de bitcoin à vista nos Estados Unidos perdeu força: a captação da véspera somou apenas US$ 31 milhões, ante US$ 134 milhões na sexta-feira anterior, interrompendo oito pregões seguidos de entradas positivas, embora o fluxo acumulado no período ainda seja positivo em US$ 2,4 bilhões. O rendimento do Treasury de 10 anos, em torno de 5,25%, maior nível desde 2007, seguia limitando o apetite por ativos sem rendimento, enquanto altcoins como Dogecoin e Ethereum ganhavam ainda mais força no dia."
+    ],
+    "sourceLabel": "Bit Notícias",
+    "sourceUrl": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-29-de-setembro-de-2026/",
+    "date": "2026-09-29T14:14:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1640161704729-cbe966a08476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Y3J5cHRvY3VycmVuY3klMjBiaXRjb2lufGVufDB8MHx8fDE3OTA2OTEyMzJ8Mg&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Traxer",
+      "creditProfileUrl": "https://unsplash.com/@traxer?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ambipar-chapter-15-justica-americana-recuperacao",
+    "title": "Justiça dos EUA reconhece recuperação judicial da Ambipar como processo estrangeiro principal",
+    "excerpt": "Uma corte de falências americana enquadrou a reestruturação da Ambipar, em curso no Rio de Janeiro, no Chapter 15 da lei de falências dos EUA, suspendendo o processo Chapter 11 anterior e simplificando a coordenação internacional do caso.",
+    "paragraphs": [
+      "Uma corte de falências dos Estados Unidos reconheceu a recuperação judicial da Ambipar (AMBP3), em curso no Rio de Janeiro, como \"processo estrangeiro principal\" nos termos do Chapter 15 da legislação americana de falências. A decisão confirmou que o centro dos interesses principais da companhia está no Brasil, e suspendeu o processo baseado no Chapter 11 que vinha sendo conduzido anteriormente nos Estados Unidos pela empresa de gestão ambiental.",
+      "Na prática, o reconhecimento sob o Chapter 15 simplifica a reestruturação internacional da Ambipar, permitindo maior coordenação entre o processo de recuperação judicial que corre na Justiça brasileira e os credores e ativos da companhia localizados nos Estados Unidos. A empresa vinha enfrentando um processo de reestruturação de dívidas ao longo de 2026, e o desfecho da disputa sobre qual jurisdição prevalece é acompanhado de perto por investidores e credores internacionais."
+    ],
+    "sourceLabel": "ADVFN News",
+    "sourceUrl": "https://br.advfn.com/jornal/2026/09/momento-b3-ambipar-copasa-tupy-jsl-e-os-principais-destaques-desta-terca-feira-29",
+    "date": "2026-09-29T14:15:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1773047746914-1ddadcf5e3f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8M3x8Y29ycG9yYXRlJTIwYmFua3J1cHRjeSUyMGxlZ2FsfGVufDB8MHx8fDE3OTA2OTEyMzJ8Mg&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Sasun Bughdaryan",
+      "creditProfileUrl": "https://unsplash.com/@sasun1990?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-sobe-30-set-inflacao-eua-mes-361",
+    "title": "Ibovespa sobe nesta quarta com dados de inflação dos EUA e fecha setembro com alta de 3,61%",
+    "excerpt": "O principal índice da bolsa brasileira avançava nesta quarta-feira, embalado por dados de inflação e emprego mais fracos que o esperado nos Estados Unidos, e caminhava para fechar setembro com ganho acumulado de 3,61%.",
+    "paragraphs": [
+      "O Ibovespa operava em alta na tarde desta quarta-feira (30/9), impulsionado pela leitura mais branda que o esperado da inflação PCE nos Estados Unidos — indicador preferido do Federal Reserve —, que subiu 0,2% em agosto ante previsão de 0,3%. Reforçaram o otimismo dados do mercado de trabalho americano, com 90 mil vagas privadas criadas em setembro, acima das 73 mil esperadas, e a revisão do PIB do país para 2,2% no segundo trimestre, bem acima da leitura anterior de 1,5%.",
+      "Entre as ações, bancos e Petrobras figuravam entre as maiores altas, com Banco do Brasil subindo mais de 1,8% e os papéis da petroleira avançando perto de 1%, enquanto Vale também operava no positivo. Com o resultado do dia, o Ibovespa caminhava para fechar setembro com valorização de 3,61%, acumulando ganho de 6,86% no terceiro trimestre e 14,09% no ano — desempenho puxado pela recuperação iniciada em agosto, às vésperas do primeiro turno das eleições presidenciais, marcado para o domingo seguinte (4/10)."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30092026/",
+    "date": "2026-10-01T11:01:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1649003515353-c58a239cf662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Tötös Ádám",
+      "creditProfileUrl": "https://unsplash.com/@toti1996?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "dolar-cai-517-dados-fracos-eua-divida",
+    "title": "Dólar cai a R$ 5,17 nesta quarta com dados fracos dos EUA e alta da dívida bruta brasileira",
+    "excerpt": "A moeda americana operava em queda nesta quarta-feira, refletindo indicadores de inflação e emprego mais fracos que o esperado nos Estados Unidos, mesmo com a dívida bruta brasileira seguindo em trajetória de alta.",
+    "paragraphs": [
+      "O dólar comercial recuava cerca de 0,85% nesta quarta-feira (30/9), cotado a R$ 5,173 na venda, enquanto o contrato futuro para outubro cedia 0,59%, para R$ 5,171. A queda da moeda americana refletiu principalmente indicadores mais fracos que o esperado nos Estados Unidos: o núcleo da inflação PCE subiu 0,2% em agosto, abaixo da previsão de 0,3%, e o mercado de trabalho privado gerou 90 mil vagas em setembro, superando as 70 mil esperadas pelos analistas.",
+      "No cenário doméstico, dados do Tesouro Nacional mostraram que a dívida bruta do governo geral subiu para 82,9% do PIB em agosto, ante 82,6% no mês anterior, mesmo com o déficit primário vindo abaixo do previsto pelo mercado. O câmbio também seguia no radar da proximidade do primeiro turno das eleições presidenciais, marcado para o domingo (4/10), depois que o presidente Lula confirmou que não participará do debate promovido pela TV Globo na quinta-feira seguinte (1/10)."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-30092026/",
+    "date": "2026-10-01T11:01:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1636115734305-aac2f83cd8d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "engin akyurt",
+      "creditProfileUrl": "https://unsplash.com/@enginakyurt?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bitcoin-sobe-84-mil-golden-cross-etfs",
+    "title": "Bitcoin sobe a US$ 84,5 mil, sustentado por dados dos EUA e entrada consistente em ETFs",
+    "excerpt": "A criptomoeda avançava nesta quarta-feira, apoiada por dados mais fracos de inflação nos Estados Unidos e por um nono pregão seguido de captação líquida positiva nos ETFs de Bitcoin.",
+    "paragraphs": [
+      "O Bitcoin avançava cerca de 0,3% em 24 horas nesta quarta-feira (30/9), cotado perto de US$ 84.498, depois de ter recuado à mínima de US$ 82.975 no início do dia. O movimento acompanhou a reação positiva dos mercados globais a indicadores econômicos americanos: o PIB do segundo trimestre foi revisado para alta de 2,2% (ante 1,5% anteriormente) e a inflação medida pelo índice PCE avançou 0,3% em agosto, dentro do esperado, reduzindo o temor de que o Federal Reserve precise manter os juros elevados por mais tempo.",
+      "O ativo segue sustentado por um sinal técnico favorável: em 8 de setembro, a média móvel de 50 dias cruzou acima da de 200 dias, formando uma golden cross que não ocorria havia 293 dias. Os fundos negociados em bolsa (ETFs) de Bitcoin somaram entrada líquida de US$ 66,2 milhões, nono pregão seguido de captação positiva, com destaque para o IBIT, da BlackRock, e o ARKB, da Ark Invest. O índice Fear & Greed, que mede o sentimento do mercado cripto, subiu a 70 pontos, indicando predominância de otimismo entre os investidores."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/future-of-money/bitcoin-hoje-30-09-2026/",
+    "date": "2026-10-01T11:01:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "André François McKenzie",
+      "creditProfileUrl": "https://unsplash.com/@silverhousehd?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "mercado-cautela-vesperas-primeiro-turno-eleicao",
+    "title": "A 4 dias do primeiro turno, mercado segue dividido sobre rumo da Bolsa após a eleição",
+    "excerpt": "A poucos dias do primeiro turno das eleições presidenciais, o mercado financeiro brasileiro mantém cautela: o Ibovespa perdeu força nas últimas semanas, mas investidores estrangeiros seguem comprando ações, atentos ao desfecho da disputa e às contas públicas.",
+    "paragraphs": [
+      "A quatro dias do primeiro turno das eleições presidenciais, marcado para domingo (4/10), o mercado financeiro brasileiro segue em compasso de espera. O Ibovespa acumula alta de 3,61% em setembro e de 14,09% no ano, impulsionado por uma recuperação que levou o índice de cerca de 164 mil para além dos 188 mil pontos desde agosto, mas o ritmo de ganhos perdeu força nas últimas semanas em meio à disputa apertada entre o presidente Lula e o senador Flávio Bolsonaro, que aparecem tecnicamente empatados nas pesquisas mais recentes.",
+      "Mesmo com a cautela, investidores estrangeiros seguiram compradores na reta final da campanha, com entrada líquida de R$ 8,97 bilhões em setembro e R$ 27,26 bilhões acumulados no ano até 23 de setembro. Analistas ouvidos pela imprensa especializada citam dois cenários para a Bolsa após o pleito: uma extensão do rali, com o índice testando a casa dos 210 mil pontos, ou uma correção mais acentuada, caso o resultado eleitoral frustre as expectativas do mercado em relação ao equilíbrio fiscal nos próximos anos."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-primeiro-turno-eleicoes-2026-uma-semana/",
+    "date": "2026-10-01T11:02:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1527374071603-76de89807336?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Rafaela Biazi",
+      "creditProfileUrl": "https://unsplash.com/@rafaelabiazi?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-recua-185-mil-pontos-petroleo-pmi-fraco",
+    "title": "Ibovespa recua para perto de 185 mil pontos nesta quinta-feira",
+    "excerpt": "O principal índice da bolsa brasileira devolveu parte dos ganhos recentes nesta quinta-feira, pressionado pela alta do dólar e por dado fraco do PMI industrial, mesmo com a Petrobras subindo após novo recorde de produção de petróleo.",
+    "paragraphs": [
+      "O Ibovespa amargou perda de fôlego nesta quinta-feira (1º/10), recuando a cerca de 184,9 mil pontos depois de ter chegado a operar perto dos 186,2 mil pontos na abertura. O movimento negativo ocorreu em meio à alta do dólar, que avançava 0,89% e se aproximava de R$ 5,20, e à divulgação de um PMI industrial mais fraco do que o esperado para o mês de setembro. Entre as ações, destaque para a disparada de Azzas 2154, que subia 7,9% na expectativa de uma proposta pela Farm Rio, enquanto Vale recuava 1,19%.",
+      "Do lado positivo, Petrobras ganhava força, com as ações PN e ON avançando 1,95% e 1,63%, respectivamente, embaladas pela notícia de que a produção nacional de petróleo bateu recorde histórico pelo terceiro mês seguido em agosto. Lá fora, o clima era de cautela, com rendimentos de títulos públicos em máximas de décadas pressionando ativos de risco globalmente, enquanto investidores locais também monitoravam a reta final da campanha eleitoral, a três dias do primeiro turno."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01102026/",
+    "date": "2026-10-01T18:50:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1651340981821-b519ad14da7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Anne Nygård",
+      "creditProfileUrl": "https://unsplash.com/@polarmermaid?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "dolar-sobe-519-tensao-oriente-medio-datafolha",
+    "title": "Dólar sobe a R$ 5,19 nesta quinta, pressionado por tensão no Oriente Médio",
+    "excerpt": "A moeda americana avançava nesta quinta-feira, acompanhando o fortalecimento do dólar frente a divisas emergentes em meio às preocupações com o conflito no Oriente Médio, enquanto o mercado aguardava nova pesquisa Datafolha a três dias do primeiro turno.",
+    "paragraphs": [
+      "O dólar comercial operava em alta nesta quinta-feira (1º/10), cotado a R$ 5,189 na venda por volta das 9h10, avanço de 0,28% sobre o fechamento anterior. Ao longo da manhã, a divisa ampliou os ganhos e chegou a se aproximar de R$ 5,20, revertendo a queda de 0,76% registrada na quarta-feira, quando havia fechado a R$ 5,1735. O contrato futuro para novembro, por sua vez, apresentava variação mais modesta, negociado perto de R$ 5,215 na B3.",
+      "O principal motor da alta veio do exterior: a moeda americana se fortalecia frente a uma cesta de divisas de países emergentes, em meio à persistência das preocupações com o conflito no Oriente Médio. No Brasil, o mercado aguardava para o início da noite a divulgação de uma nova pesquisa Datafolha sobre a corrida presidencial, a apenas três dias do primeiro turno das eleições, fator que deve seguir pautando o humor dos investidores até o fim de semana."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-01102026/",
+    "date": "2026-10-01T18:50:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Jason Leung",
+      "creditProfileUrl": "https://unsplash.com/@ninjason?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "producao-petroleo-brasil-recorde-terceiro-mes-agosto",
+    "title": "Produção de petróleo do Brasil bate recorde pelo terceiro mês seguido em agosto",
+    "excerpt": "O país extraiu 4,615 milhões de barris por dia em agosto, alta de 2,6% sobre julho e de 18,4% em um ano, segundo a ANP, com Búzios e Mero no pré-sal da Bacia de Santos puxando o novo patamar histórico.",
+    "paragraphs": [
+      "A produção brasileira de petróleo atingiu um novo recorde histórico em agosto, somando 4,615 milhões de barris por dia, segundo dados divulgados pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP). O volume representa avanço de 2,6% ante julho e salto de 18,4% na comparação com agosto do ano passado, superando a marca anterior de 4,498 milhões de barris diários registrada no mês anterior — o terceiro recorde mensal consecutivo do indicador.",
+      "O desempenho segue sendo puxado pelos grandes campos do pré-sal da Bacia de Santos, com destaque para Búzios e Mero, responsáveis pela maior parte do incremento de produção nos últimos meses. A produção de gás natural também renovou recorde histórico em agosto, somando 220,55 milhões de metros cúbicos por dia, alta de 2,6% sobre julho e de 16,8% em 12 meses. O resultado reforça a trajetória de crescimento do setor de óleo e gás no país, mesmo em meio à volatilidade recente do petróleo no mercado internacional."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/producao-de-petroleo-do-brasil-bate-recorde-pelo-3o-mes-consecutivo-em-agosto/",
+    "date": "2026-10-01T18:50:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1784915474323-6b84bb2ed040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Julia Taubitz",
+      "creditProfileUrl": "https://unsplash.com/@justmejuliee?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "pmi-industrial-brasil-448-pontos-setembro-contracao",
+    "title": "PMI industrial do Brasil cai a 44,8 pontos em setembro, pior nível desde 2023",
+    "excerpt": "O indicador da S&P Global recuou de 46,3 para 44,8 em setembro, a maior deterioração da indústria desde abril de 2023, com queda nas vendas, custos mais altos e incerteza pré-eleitoral pesando sobre o setor.",
+    "paragraphs": [
+      "A atividade industrial brasileira registrou forte deterioração em setembro. O PMI da indústria, calculado pela S&P Global, recuou de 46,3 em agosto para 44,8 no mês passado, a maior piora nas condições operacionais do setor desde abril de 2023. Leituras abaixo de 50 pontos indicam contração da atividade, e o indicador já acumula cinco meses seguidos em território negativo, com a média do terceiro trimestre caindo para 46,2, pior resultado desde o segundo trimestre de 2023.",
+      "Segundo os participantes da pesquisa, a queda da produção refletiu a fraqueza das vendas, o aumento dos custos de insumos e a incerteza ligada ao período pré-eleitoral, com as novas encomendas registrando a maior contração em quase quatro anos e as exportações recuando para destinos como Argentina, China, México e Estados Unidos. A indústria também cortou vagas pelo terceiro mês seguido, embora em ritmo mais brando que em agosto. Ainda assim, as empresas seguem otimistas para os próximos 12 meses, na expectativa de melhora do ambiente de negócios após as eleições de outubro."
+    ],
+    "sourceLabel": "CNN Brasil Business",
+    "sourceUrl": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pmi-industrial-contrai-em-setembro-por-demanda-fraca-aponta-sp-global/",
+    "date": "2026-10-01T18:51:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Ant Rozetsky",
+      "creditProfileUrl": "https://unsplash.com/@rozetsky?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bitcoin-cai-juro-treasury-10-anos-maxima-2002",
+    "title": "Bitcoin cai 0,8% com juro de 10 anos dos EUA na máxima desde 2002",
+    "excerpt": "A criptomoeda recuava a US$ 83.859 nesta quinta-feira, depois de ter tocado US$ 85.600 na véspera, pressionada pelo rendimento do Treasury de 10 anos a 5,36% ao ano e por liquidações bilionárias no mercado de derivativos.",
+    "paragraphs": [
+      "O bitcoin operava em queda nesta quinta-feira (1º/10), recuando cerca de 0,8% em 24 horas e cotado a US$ 83.859, depois de ter chegado a tocar US$ 85.600 no pregão anterior. A principal pressão veio do mercado de juros americano: o rendimento do Treasury de 10 anos subiu a 5,36% ao ano, maior patamar desde 2002, tornando os títulos públicos americanos mais atrativos frente a ativos de risco como as criptomoedas.",
+      "A volatilidade da véspera também deixou marcas no mercado de derivativos, com cerca de US$ 210 milhões em posições vendidas liquidadas à força e outros US$ 100 milhões em posições compradas encerradas no prejuízo. Os ETFs de bitcoin à vista nos Estados Unidos registraram saída líquida de US$ 148,7 milhões, enquanto os fundos de ether perderam US$ 59,6 milhões em resgates. O índice de medo e ganância recuou de 70 para 67 pontos, mantendo-se na zona de ganância, ainda que de forma mais moderada."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/future-of-money/bitcoin-hoje-01-10-2026/",
+    "date": "2026-10-01T18:51:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Pierre Borthiry - Peiobty",
+      "creditProfileUrl": "https://unsplash.com/@peiobty?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-oscila-vespera-eleicao-vix-recorde",
+    "title": "Ibovespa oscila na véspera do 1º turno e VIX Brasil bate recorde histórico",
+    "excerpt": "Na última sessão antes do primeiro turno das eleições, o Ibovespa alternou entre fortes altas e quedas nesta sexta-feira, enquanto o índice de volatilidade VIX Brasil atingiu o maior patamar da história, refletindo a tensão do mercado diante do resultado das urnas.",
+    "paragraphs": [
+      "O Ibovespa teve um pregão de forte amplitude nesta sexta-feira (2/10), véspera do primeiro turno da eleição presidencial: chegou a tocar os 189,8 mil pontos pela manhã, recuou até perto de 184,8 mil e oscilou bastante ao longo do dia, depois de fechar a véspera aos 187.197 pontos (+0,46%). O giro financeiro somou cerca de R$ 26,8 bilhões. Entre as maiores altas estiveram Azzas 2154 (+7,02%), Vamos (+4,65%) e Hapvida (+4,50%), enquanto Santander Brasil (-2,96%), Smart Fit (-2,16%) e Suzano (-2,13%) lideraram as perdas.",
+      "A cautela ficou evidente no índice VIX Brasil, termômetro de volatilidade implícita da bolsa, que renovou máxima histórica, sinal de que investidores buscavam mais proteção contra oscilações bruscas no pós-eleição. Pesaram ainda dois indicadores fracos: a produção industrial brasileira recuou 0,6% em agosto ante julho, e o payroll americano de setembro criou apenas 29 mil vagas, bem abaixo das 90 mil esperadas, com o desemprego nos EUA subindo a 4,2%. Uma pesquisa Datafolha divulgada na véspera mostrou Lula com 48% das intenções de voto contra 45% de Flávio Bolsonaro em um eventual segundo turno, diferença dentro da margem de erro."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-02102026/",
+    "date": "2026-10-02T17:15:55.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1563986768711-b3bde3dc821e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Austin Distel",
+      "creditProfileUrl": "https://unsplash.com/@austindistel?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "dolar-sobe-523-payroll-fraco-eua-eleicao",
+    "title": "Dólar sobe a R$ 5,23 no último pregão antes da eleição, com payroll fraco nos EUA",
+    "excerpt": "A moeda americana avançou nesta sexta-feira, véspera do primeiro turno presidencial, depois de reverter sinal diversas vezes ao longo do pregão em reação ao relatório de emprego dos Estados Unidos e à cautela do mercado com o resultado das urnas.",
+    "paragraphs": [
+      "O dólar comercial fechou esta sexta-feira (2/10) cotado perto de R$ 5,23, alta de cerca de 0,89% sobre a véspera, em um pregão de forte instabilidade: a moeda abriu em alta, virou para o campo negativo logo após a divulgação do payroll americano de setembro, que mostrou geração de apenas 29 mil vagas — muito aquém das 90 mil esperadas pelo mercado — e desemprego subindo para 4,2%, e voltou a subir na reta final do dia. O contrato futuro para novembro, o mais negociado da B3, acompanhou o movimento de cautela.",
+      "Por se tratar do último pregão antes do primeiro turno da eleição presidencial, marcado para domingo (4/10), operadores reduziram posições mais arriscadas e aumentaram a demanda por proteção cambial, de olho na definição do resultado e na composição do Congresso. Também pesou a repercussão de uma pesquisa Datafolha divulgada na véspera, que apontou Lula com 48% das intenções de voto contra 45% de Flávio Bolsonaro em um possível segundo turno, além do cancelamento do debate presidencial que seria promovido pela TV Globo."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-02102026/",
+    "date": "2026-10-02T17:16:15.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1568581357391-c71a1675ef93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Mackenzie Marco",
+      "creditProfileUrl": "https://unsplash.com/@kenziem?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bitcoin-dispara-86-mil-uptober-citi-eleva-projecao",
+    "title": "Bitcoin dispara mais de 3% e passa de US$ 86 mil no início do 'Uptober'",
+    "excerpt": "A criptomoeda rompeu a faixa de consolidação entre US$ 82 mil e US$ 85 mil logo no início de outubro, enquanto o Citigroup elevou sua projeção de preço para 12 meses de US$ 82 mil para US$ 113 mil.",
+    "paragraphs": [
+      "O bitcoin superava a marca de US$ 86 mil nesta sexta-feira (2/10), com alta acima de 3% em 24 horas, consolidando a força do início de outubro — mês historicamente positivo para a criptomoeda, apelidado pelo mercado de Uptober. O ativo deixou para trás a faixa de consolidação entre US$ 82 mil e US$ 85 mil em que estava preso desde o fim de setembro, embalado pela expectativa em torno do relatório de emprego americano divulgado no mesmo dia.",
+      "O movimento ganhou reforço extra do mercado tradicional: o banco Citigroup elevou sua projeção de preço do bitcoin para os próximos 12 meses de US$ 82 mil para US$ 113 mil, alta de 38% na previsão, citando o fortalecimento da chamada debasement trade, estratégia de proteção contra a desvalorização de moedas fiduciárias, sinalizações regulatórias mais favoráveis da SEC e da CFTC nos Estados Unidos e a retomada dos fluxos para ETFs após o rompimento de médias móveis técnicas importantes. O banco também elevou a meta para o ether, de US$ 2.240 para US$ 3.028, e projeta captação de US$ 5 bilhões em ETFs de bitcoin e US$ 1 bilhão em fundos de ether ao longo do próximo ano."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/future-of-money/citi-eleva-previsao-do-preco-do-bitcoin-em-38-apos-alta-recente/",
+    "date": "2026-10-02T17:16:35.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1634704784915-aacf363b021f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Art Rachen",
+      "creditProfileUrl": "https://unsplash.com/@artrachen?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "petroleo-cai-g7-libera-100-milhoes-barris-diesel",
+    "title": "Petróleo cai mais de 2% após G7 anunciar liberação de 100 milhões de barris de diesel e petróleo",
+    "excerpt": "Brent e WTI recuaram nesta sexta-feira depois que países do G7 anunciaram a liberação coordenada de 100 milhões de barris de diesel e petróleo bruto por meio da Agência Internacional de Energia, aliviando os temores de escassez de combustível na Europa.",
+    "paragraphs": [
+      "O petróleo Brent caiu US$ 2,57, ou 2,51%, para US$ 99,74 o barril nesta sexta-feira (2/10), enquanto o WTI recuou US$ 3,53, ou 3,8%, para US$ 89,34. Na semana, o Brent acumulou perda de cerca de 4,1% e o WTI, de 3,2%. O gasóleo europeu, referência para o diesel no continente, também cedeu cerca de 5%, para US$ 1.380,5 por tonelada métrica, e o prêmio do diesel recuou de US$ 76,77 na quinta-feira para US$ 69 o barril.",
+      "O movimento de queda foi detonado pelo anúncio de que países do G7 vão coordenar, por meio da Agência Internacional de Energia, a liberação de 100 milhões de barris de diesel e petróleo bruto de suas reservas estratégicas, com início imediato e distribuição ao longo de quatro meses, concentrando boa parte do volume de diesel nos primeiros 20 dias. A decisão veio depois de os Estados Unidos ameaçarem proibir exportações de diesel caso os europeus não liberassem mais estoques, em meio à forte dependência do continente de combustível importado para suprir a escassez de produção local."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-02102026/",
+    "date": "2026-10-02T17:16:55.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1726731782158-fcf6822b6ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Christian Harb",
+      "creditProfileUrl": "https://unsplash.com/@c7arb?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-fecha-alta-263-maior-nivel-desde-abril-vespera-eleicao",
+    "title": "Ibovespa fecha em alta de 2,63% e atinge maior patamar desde abril na véspera da eleição",
+    "excerpt": "Na última sessão antes do primeiro turno, o Ibovespa encerrou o pregão aos 192,1 mil pontos, maior nível em cinco meses, com bancos e Petrobras liderando os ganhos em meio à tensão eleitoral e à expectativa pelo resultado de domingo.",
+    "paragraphs": [
+      "O Ibovespa encerrou a sexta-feira (2/10), último pregão antes do primeiro turno, com alta de 2,63%, aos 192.114 pontos — o maior nível de fechamento desde 22 de abril. O giro financeiro somou R$ 42,9 bilhões, e os grandes bancos lideraram os ganhos: Bradesco subiu 3,34%, Banco do Brasil avançou 3,04% e Itaú Unibanco teve alta de 1,54%. A Petrobras também colaborou, com valorização de 2,81% após anunciar uma nova descoberta de petróleo na Foz do Amazonas, enquanto a Vale subiu 2,56% e o varejo teve desempenho positivo de forma generalizada.",
+      "O resultado veio em meio a sinais mistos: nos Estados Unidos, a geração de apenas 29 mil vagas em setembro, bem abaixo das 90 mil esperadas, reforçou a aposta em uma postura mais branda do Federal Reserve. No Brasil, porém, a disputa eleitoral manteve os investidores em alerta, com o índice de volatilidade implícita do câmbio renovando máxima histórica. Uma pesquisa Datafolha divulgada na véspera mostrou Lula com 48% das intenções de voto contra 45% de Flávio Bolsonaro em eventual segundo turno, empate técnico que deve manter o mercado atento ao longo de outubro."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-02102026/",
+    "date": "2026-10-03T13:00:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Nicholas Cappello",
+      "creditProfileUrl": "https://unsplash.com/@bash__profile?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "petrobras-nova-descoberta-petroleo-foz-amazonas-recorde",
+    "title": "Petrobras dispara na bolsa após segunda descoberta de petróleo na Foz do Amazonas",
+    "excerpt": "Uma nova camada de petróleo encontrada no poço Morpho, na Bacia da Foz do Amazonas, impulsionou as ações da estatal na sexta-feira, levando o valor de mercado da companhia a romper a marca histórica de R$ 700 bilhões.",
+    "paragraphs": [
+      "A Petrobras anunciou nesta sexta-feira (2/10) a identificação de um segundo reservatório de petróleo no poço exploratório Morpho, localizado no bloco FZA-M-59, na Bacia da Foz do Amazonas, a cerca de 175 quilômetros da costa do Amapá, em lâmina d'água de 2.886 metros. A descoberta é a segunda no mesmo poço: a primeira camada havia sido identificada em agosto, em profundidade distinta. Segundo a companhia, a presença de hidrocarbonetos foi confirmada por perfis elétricos, indícios em rochas e amostras de fluido coletadas durante a perfuração, mas a estatal reforça que ainda não há confirmação de viabilidade comercial da jazida.",
+      "A notícia impulsionou as ações da estatal na B3: os papéis preferenciais (PETR4) subiram 2,81%, a R$ 51,17, enquanto os ordinários (PETR3) avançaram 3,25%, a R$ 56,62, levando o valor de mercado da companhia a romper a marca inédita de R$ 700 bilhões. Após a conclusão da perfuração do poço Morpho, prevista para o fim de outubro, a Petrobras planeja perfurar mais três poços na região para delimitar a extensão da descoberta e avaliar o potencial de produção comercial, em campanha que deve começar no primeiro trimestre de 2027."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-02102026/",
+    "date": "2026-10-03T13:00:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1578356058390-f58c575337a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Zach Theo",
+      "creditProfileUrl": "https://unsplash.com/@zacharytheodore?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "sete-acoes-mais-recomendadas-analistas-outubro-eleicao",
+    "title": "Analistas elegem sete ações favoritas para outubro na reta final do 1º turno",
+    "excerpt": "Levantamento com as principais casas de análise aponta Petrobras, Sabesp, Embraer e Itaú Unibanco como as ações mais recomendadas para outubro, em meio à volatilidade da reta final da disputa presidencial.",
+    "paragraphs": [
+      "Um levantamento das recomendações de analistas para outubro mostra Petrobras (PETR4), Sabesp (SBSP3), Embraer (EMBJ3) e Itaú Unibanco (ITUB4) empatados na liderança, cada uma com sete indicações de compra entre as casas consultadas. No acumulado do ano, os destaques de retorno ficam com Petrobras (alta de 69,46%) e Itaú Unibanco (15,27%), enquanto Embraer sobe 10,48%, apoiada por uma carteira de pedidos de US$ 35 bilhões e por receitas em dólar. Sabesp, por sua vez, é vista como aposta mais defensiva, sustentada pelo plano de universalização do saneamento até 2029 e pela revisão tarifária prevista para dezembro.",
+      "Completam a lista Vale (VALE3), com seis recomendações apesar da queda de 10,20% no mês, além de Rede D'Or (RDOR3) e Gerdau (GGBR4), ambas com cinco indicações. Para Petrobras, a tese central dos analistas é a geração de caixa e dividendos, apoiada pelo aumento da produção no pré-sal e por custos de extração competitivos. O levantamento chega na reta final da campanha eleitoral, com o primeiro turno marcado para domingo (4/10), período que os próprios analistas classificam como o de maior volatilidade para a bolsa brasileira neste mês."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/onde-investir/as-7-acoes-mais-recomendadas-outubro-2026/",
+    "date": "2026-10-03T13:00:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Adam Śmigielski",
+      "creditProfileUrl": "https://unsplash.com/@smigielski?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bancos-cenarios-bolsa-dolar-pos-1o-turno",
+    "title": "Bancos traçam cenários opostos para Bolsa e dólar após o 1º turno",
+    "excerpt": "Com a votação do primeiro turno concluída, grandes bancos dizem que a reação da Bolsa e do dólar na segunda-feira vai depender menos do nome eleito e mais de sinais sobre o Congresso e a política fiscal dos próximos anos.",
+    "paragraphs": [
+      "Encerrada a votação do primeiro turno, operadores afirmam que a Bolsa e o dólar já haviam incorporado boa parte do cenário eleitoral indicado pelas pesquisas, o que deve conter movimentos bruscos caso o resultado confirme as expectativas. O JPMorgan avalia que as ações brasileiras negociam com preços historicamente baixos, mas uma valorização mais consistente depende de juros caminhando para um nível mais neutro e de maior clareza fiscal nos próximos meses.",
+      "O Bradesco BBI monta cestas de ações diferentes para cada desfecho das urnas, com o cenário mais otimista projetando alta de até 76% para o índice MSCI Brazil caso reformas avancem e os juros reais recuem de forma consistente. Soma-se a isso a pressão fiscal: medidas recentes como o reajuste do Bolsa Família, o novo Desenrola e a proibição das bets podem custar até R$ 42,3 bilhões aos cofres públicos, e o mercado deve cobrar explicações sobre como o governo pretende acomodar essa conta dentro do arcabouço fiscal nos próximos meses."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-dolar-primeiro-turno-eleicoes-2026-4-pregoes/",
+    "date": "2026-10-04T14:35:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Nicholas Cappello",
+      "creditProfileUrl": "https://unsplash.com/@bash__profile?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "producao-industrial-brasil-cai-06-agosto-ibge",
+    "title": "Produção industrial do Brasil recua 0,6% em agosto e frustra expectativas",
+    "excerpt": "O IBGE informou que a indústria brasileira caiu 0,6% em agosto frente a julho, resultado pior do que o esperado por analistas e que interrompeu o avanço do mês anterior, reforçando o quadro de desaceleração da economia.",
+    "paragraphs": [
+      "A produção industrial brasileira recuou 0,6% em agosto na comparação com julho, segundo o IBGE, revertendo o avanço de 0,1% do mês anterior e configurando a terceira queda do ano, depois de maio e junho. O resultado ficou abaixo da expectativa de analistas consultados pela Reuters, que projetavam alta de 0,1% no mês e de 0,4% na comparação anual; na prática, a indústria encolheu 1,2% frente a agosto de 2025.",
+      "Das quatro grandes categorias econômicas, todas registraram queda, com destaque negativo para bens semiduráveis e não duráveis, que caíram 1,7%. Entre os 25 ramos pesquisados, 16 tiveram recuo, liderados por produtos do fumo (-23,4%) e produtos farmoquímicos e farmacêuticos (-5,5%). Apesar disso, a indústria ainda acumula alta de 0,8% nos oito primeiros meses do ano, com o setor de alimentos puxando parte dos resultados positivos."
+    ],
+    "sourceLabel": "CNN Brasil Business",
+    "sourceUrl": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/producao-industrial-frustra-expectativa-e-volta-a-cair-em-agosto/",
+    "date": "2026-10-04T14:35:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Ant Rozetsky",
+      "creditProfileUrl": "https://unsplash.com/@rozetsky?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "pix-cai-31-semana-proibicao-bets",
+    "title": "Transações via Pix caem 3,1% na semana seguinte à proibição das bets",
+    "excerpt": "Levantamento do Banco Central mostra que o número de transferências via Pix recuou 3,1% na última semana de setembro, logo após a Medida Provisória que proibiu as plataformas de apostas no país, embora a entidade não confirme relação direta de causa.",
+    "paragraphs": [
+      "O número de transações via Pix caiu 3,1% na última semana de setembro em relação à semana anterior, somando 1,57 bilhão de transferências, segundo dados do Banco Central. Trata-se da maior retração para uma semana final de setembro desde 2022, coincidindo com a publicação da Medida Provisória que proibiu o funcionamento das plataformas de apostas (bets) no país a partir de 5 de outubro.",
+      "Como a legislação já exigia que depósitos e pagamentos em sites de apostas fossem feitos exclusivamente via Pix, a queda reforça a hipótese de que parte do movimento vinha dessas transações. O próprio Banco Central, porém, pondera que os dados ainda não permitem atribuir a queda apenas à proibição, já que o Pix costuma registrar variações sazonais ao longo do mês e do ano, e pede cautela antes de qualquer conclusão definitiva sobre o impacto da medida."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/economia/apos-proibicao-das-bets-ultima-semana-registrou-queda-de-31-no-numero-de-pix/",
+    "date": "2026-10-04T14:35:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1599050751795-6cdaafbc2319?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "CardMapr.nl",
+      "creditProfileUrl": "https://unsplash.com/@cardmapr?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bdrs-acoes-internacionais-outubro-dolar-eleicao",
+    "title": "Com dólar pressionado pela eleição, InfoMoney lista 9 BDRs para outubro",
+    "excerpt": "Em meio à volatilidade cambial da reta eleitoral, analistas selecionaram uma cesta de nove ações internacionais negociadas na B3 como forma de diversificar a carteira e se proteger de oscilações do dólar neste mês.",
+    "paragraphs": [
+      "Com o dólar ainda sensível ao desfecho da eleição presidencial, uma seleção de ações internacionais (BDRs) negociadas na B3 voltou a ganhar espaço entre as recomendações de outubro, segundo analistas ouvidos pelo InfoMoney. A lógica por trás da escolha é simples: papéis de empresas estrangeiras, com resultados em moeda forte, tendem a amortecer parte do impacto de uma eventual disparada cambial sobre o patrimônio do investidor brasileiro.",
+      "A cesta reúne nove ativos de setores e geografias distintos, pensada para equilibrar exposição ao dólar com diversificação setorial, em um mês que também concentra o maior volume de pagamentos de dividendos do ano na bolsa brasileira: a B3 soma 38 proventos anunciados por 24 companhias só em outubro. Para os analistas, combinar renda doméstica em reais com proteção cambial via BDRs é a estratégia mais indicada enquanto o resultado das urnas não traz mais clareza ao mercado."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/onde-investir/acoes-internacionais-bdrs-recomendadas-outubro-2026/",
+    "date": "2026-10-04T14:36:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1612178991541-b48cc8e92a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Marga Santoso",
+      "creditProfileUrl": "https://unsplash.com/@margabagus?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-dispara-9-208-mil-pontos-resultado-1-turno",
+    "title": "Ibovespa dispara mais de 8% e passa dos 208 mil pontos após resultado do 1º turno",
+    "excerpt": "O principal índice da bolsa brasileira disparava mais de 8% na manhã desta segunda-feira, superando os 208 mil pontos, na maior reação de um pregão ao resultado surpreendente do primeiro turno da eleição presidencial.",
+    "paragraphs": [
+      "O Ibovespa operava em forte alta nesta segunda-feira (5/10), subindo mais de 8% e ultrapassando a marca dos 208 mil pontos pela primeira vez, impulsionado pelo resultado do primeiro turno da eleição presidencial. Na abertura, o índice chegou a avançar cerca de 9%, reagindo à vitória de Flávio Bolsonaro na primeira fase da disputa, com 47,03% dos votos válidos contra 45,16% de Lula, resultado que surpreendeu boa parte das pesquisas divulgadas na reta final da campanha.",
+      "Praticamente todas as ações da carteira operavam no positivo: os papéis da B3 e do BTG Pactual avançavam mais de 20%, enquanto Itaú e Bradesco subiam acima de 12% e a Petrobras ganhava mais de 5%. Bancos internacionais, como o JPMorgan, passaram a projetar potencial de alta adicional de até 11% para a bolsa no curto prazo, à medida que o mercado precifica maior probabilidade de uma virada no segundo turno, marcado para 25 de outubro, e de uma agenda fiscal mais rígida a partir de 2027."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/invest/mercados/ibovespa-ibov-hoje-05-10-2026/",
+    "date": "2026-10-05T15:00:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1649003515353-c58a239cf662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Tötös Ádám",
+      "creditProfileUrl": "https://unsplash.com/@toti1996?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "dolar-despenca-498-resultado-1-turno-eleicao",
+    "title": "Dólar despenca mais de 4% e cai abaixo de R$ 5,00 após 1º turno da eleição",
+    "excerpt": "A moeda americana recuava com força nesta segunda-feira, negociada abaixo de R$ 5,00 pela primeira vez em meses, depois que o resultado do primeiro turno da eleição presidencial surpreendeu o mercado e fortaleceu o real.",
+    "paragraphs": [
+      "O dólar comercial caía com força nesta segunda-feira (5/10), recuando cerca de 4,4% e sendo negociado a R$ 4,986 na venda, enquanto o contrato futuro para novembro, o mais líquido da bolsa brasileira, cedia 4,38%, para R$ 5,023. O movimento marcou uma das maiores quedas diárias da moeda em 2026 e devolveu a cotação a um patamar não visto há meses, refletindo a forte onda de otimismo entre investidores após a apuração do primeiro turno presidencial.",
+      "A queda do dólar refletiu a leitura do mercado sobre o resultado eleitoral: Flávio Bolsonaro terminou a primeira fase da disputa com 47,03% dos votos válidos, à frente dos 45,16% de Lula, uma margem que contrariou boa parte das pesquisas divulgadas na véspera. Investidores passaram a atribuir maior probabilidade a uma alternância de poder e, com ela, a uma trajetória fiscal mais previsível a partir de 2027. Bancos estrangeiros já trabalham com cenários de câmbio entre R$ 4,80 e R$ 4,95 nas próximas semanas."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-05102026-primeiro-turno-eleicoes/",
+    "date": "2026-10-05T15:00:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1593672755342-741a7f868732?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Giorgio Trovato",
+      "creditProfileUrl": "https://unsplash.com/@giorgiotrovato?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "juros-futuros-caem-mais-6-fiscal-eleicao-1-turno",
+    "title": "Juros futuros recuam mais de 6% nos vencimentos longos após resultado do 1º turno",
+    "excerpt": "Os contratos de juros futuros recuaram com força nesta segunda-feira, com os vencimentos mais longos caindo mais de 6%, em reação ao resultado do primeiro turno da eleição e à expectativa de maior disciplina fiscal.",
+    "paragraphs": [
+      "Os contratos de juros futuros (DI) negociados na B3 tiveram forte queda nesta segunda-feira (5/10), em movimento generalizado do curto ao longo prazo da curva. O DI para janeiro de 2037 recuou dos 14,16% registrados na sexta-feira (2/10) para 13,24%, queda superior a 6%, enquanto vencimentos intermediários como o DI para janeiro de 2028 cederam para 12,72%, também com recuo acima de 5%.",
+      "O movimento acompanhou a reação do dólar e da bolsa ao resultado do primeiro turno presidencial, que deu a Flávio Bolsonaro 47,03% dos votos válidos contra 45,16% de Lula. Segundo análise do JPMorgan, a vantagem do candidato e o avanço de partidos de direita no Congresso reforçaram as apostas em maior disciplina fiscal a partir de 2027, abrindo espaço, na visão de parte do mercado, para o Banco Central ampliar o ritmo de corte da Selic já na reunião de novembro. O banco americano passou a trabalhar com uma meta de 13% para o contrato de 2037."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/invest/mercados/juros-futuros-despencam-mais-de-6-apos-flavio-bolsonaro-ficar-a-frente-no-1o-turno/",
+    "date": "2026-10-05T15:00:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "m.",
+      "creditProfileUrl": "https://unsplash.com/@m_____me?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bitcoin-sobe-87-mil-resistencia-outubro",
+    "title": "Bitcoin avança quase 2% e testa resistência de US$ 87 mil no início de outubro",
+    "excerpt": "O Bitcoin avançava perto de 2% nesta segunda-feira, tentando romper a resistência de US$ 87 mil, nível que marcou a abertura do ano e que vem limitando os avanços da criptomoeda nas últimas semanas.",
+    "paragraphs": [
+      "O Bitcoin operava em alta de quase 2% nesta segunda-feira (5/10), cotado a cerca de US$ 86,1 mil, o equivalente a aproximadamente R$ 445,4 mil, buscando romper a resistência de US$ 87 mil. Esse patamar corresponde à abertura anual de 2026 do ativo e vem funcionando como teto desde que a criptomoeda avançou mais de 40% no terceiro trimestre, quando chegou a tocar os US$ 87 mil antes de recuar e estacionar perto de US$ 85 mil.",
+      "Analistas atribuem a resistência à força do índice do dólar americano nas últimas semanas, que tem limitado o apetite por ativos de risco alternativos. Ainda assim, o movimento desta segunda-feira ocorre em uma semana considerada decisiva para o mercado cripto, com indicadores macroeconômicos dos Estados Unidos no radar e expectativa de que uma eventual confirmação de rompimento acima de US$ 87 mil abra caminho para novas máximas do ano."
+    ],
+    "sourceLabel": "Bit Notícias",
+    "sourceUrl": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-05-de-outubro-de-2026/",
+    "date": "2026-10-05T15:01:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "André François McKenzie",
+      "creditProfileUrl": "https://unsplash.com/@silverhousehd?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-vira-fecha-queda-205-mil-bbas3-despenca",
+    "title": "Ibovespa vira e fecha em queda perto de 205 mil pontos, com Banco do Brasil em forte baixa",
+    "excerpt": "O Ibovespa abriu perto da máxima histórica nesta terça-feira, mas perdeu força ao longo do pregão e fechou em queda, pressionado pela desvalorização de Banco do Brasil, Petrobras e Vale.",
+    "paragraphs": [
+      "O Ibovespa chegou a se aproximar de uma nova máxima intradiária nesta terça-feira (6), impulsionado pelo otimismo que ainda cercava o resultado do primeiro turno das eleições, mas perdeu força ao longo do pregão e encerrou o dia em queda, na faixa dos 205 mil pontos. O principal entrave veio do setor financeiro: as ações do Banco do Brasil (BBAS3) recuaram cerca de 6%, liderando as perdas do índice, enquanto Petrobras (PETR4) e Vale (VALE3) também fecharam no vermelho.",
+      "O tropeço de BBAS3 ocorre num momento em que o mercado já observa com desconfiança a saúde financeira do banco estatal, que neste ano reduziu a projeção de lucro anual e viu a inadimplência da carteira agrícola avançar. A sessão de recuo também reflete uma pausa natural após a forte disparada da véspera, quando o índice havia saltado mais de 8% com a repercussão do primeiro turno presidencial, levando investidores a realizarem parte dos lucros acumulados em ações e commodities."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06102026/",
+    "date": "2026-10-06T15:10:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8c3RvY2slMjBleGNoYW5nZSUyMHRyYWRpbmd8ZW58MHwwfHx8MTc5MTI5OTM0NHwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Adam Śmigielski",
+      "creditProfileUrl": "https://unsplash.com/@smigielski?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "dolar-cai-abaixo-497-terceiro-dia-reacao-eleitoral",
+    "title": "Dólar cai pelo terceiro pregão seguido e opera abaixo de R$ 4,97",
+    "excerpt": "A moeda americana ampliou a sequência de perdas nesta terça-feira, negociada abaixo de R$ 4,97, à medida que o mercado continua a precificar o resultado do primeiro turno das eleições presidenciais.",
+    "paragraphs": [
+      "O dólar comercial operava em queda nesta terça-feira (6), cotado abaixo de R$ 4,97 nas primeiras horas de negociação, recuo de cerca de 0,66% em relação ao fechamento anterior. O contrato futuro para novembro acompanhava o movimento, também cedendo perto de 0,7%. O novo recuo prolonga a reação positiva do mercado cambial ao resultado do primeiro turno da eleição presidencial, divulgado no fim de semana.",
+      "Na segunda-feira, a moeda americana já havia fechado com forte baixa de 4,12%, encerrando a R$ 5,0022, movimento atribuído à avaliação de investidores de que um eventual governo mais afinado com o ajuste fiscal tende a reduzir riscos para os ativos brasileiros. Com a sequência de quedas, o dólar acumula a maior desvalorização em poucos dias desde o início do ano, enquanto o mercado volta a atenção para os próximos desdobramentos da disputa presidencial antes do segundo turno."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-06102026",
+    "date": "2026-10-06T15:10:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1636115734305-aac2f83cd8d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Y3VycmVuY3klMjBleGNoYW5nZSUyMGRvbGxhcnxlbnwwfDB8fHwxNzkxMjk5MzQ1fDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "engin akyurt",
+      "creditProfileUrl": "https://unsplash.com/@enginakyurt?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bitcoin-recua-86-mil-falha-romper-87-mil-outubro",
+    "title": "Bitcoin tem leve queda, mas se mantém acima dos US$ 86 mil",
+    "excerpt": "A principal criptomoeda do mercado operava com leve variação negativa nesta terça-feira, mas conseguia se manter acima de US$ 86 mil mesmo após falhar novamente em romper a resistência de US$ 87 mil.",
+    "paragraphs": [
+      "O bitcoin tinha leve variação negativa nesta terça-feira (6), cotado perto de US$ 86,1 mil, mas conseguia se manter acima da casa dos US$ 86 mil mesmo após falhar novamente em romper a resistência dos US$ 87 mil. Em reais, o ativo valia o equivalente a cerca de R$ 434 mil, enquanto o mercado monitorava de perto o recuo nos rendimentos dos títulos do Tesouro americano e a queda do petróleo, fatores que ajudaram a sustentar o apetite por ativos de risco.",
+      "Com a nova rejeição na faixa dos US$ 87 mil, analistas passaram a apontar a região de US$ 84 mil como o principal suporte técnico de curto prazo, caso a pressão vendedora se intensifique. O cenário de juros altos nos Estados Unidos e um dólar ainda resiliente no exterior são citados como entraves para uma retomada mais consistente da criptomoeda, que segue mostrando indecisão entre compradores e vendedores nesta fase do ciclo."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/future-of-money/bitcoin-hoje-06-10-2026/",
+    "date": "2026-10-06T15:10:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1640161704729-cbe966a08476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8Y3J5cHRvY3VycmVuY3klMjBiaXRjb2lufGVufDB8MHx8fDE3OTEyOTkzNDZ8Mg&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Traxer",
+      "creditProfileUrl": "https://unsplash.com/@traxer?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "focus-eleva-inflacao-12a-semana-reduz-pib-selic-135",
+    "title": "Boletim Focus eleva projeção de inflação pela terceira semana seguida e reduz estimativa do PIB",
+    "excerpt": "O relatório semanal do Banco Central mostrou nova alta na expectativa de inflação para 2026, a 5,01%, enquanto a previsão de crescimento econômico foi revisada para baixo e a Selic permaneceu estável nas projeções.",
+    "paragraphs": [
+      "O Boletim Focus, divulgado pelo Banco Central nesta segunda-feira (5), mostrou que o mercado financeiro elevou pela terceira semana consecutiva a projeção de inflação para 2026, de 4,99% para 5,01%, ficando acima do teto da meta oficial. Para 2027, a estimativa recuou de forma marginal, de 4,31% para 4,30%. Já a previsão de crescimento do Produto Interno Bruto (PIB) para este ano foi revisada para baixo, de 1,86% para 1,85%, com os analistas também reduzindo a expectativa para 2027, de 1,41% para 1,40%.",
+      "Apesar do cenário de inflação mais pressionada e atividade mais fraca, os economistas consultados pelo Banco Central mantiveram a projeção para a taxa Selic em 13,5% ao ano no final de 2026, com estabilidade também nas estimativas para 2027 e 2028, de 12% e 10,5%, respectivamente. O relatório reúne as projeções de instituições financeiras e consultorias e costuma orientar as decisões do Comitê de Política Monetária (Copom), cuja próxima reunião está marcada para o início de novembro."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-05102026/",
+    "date": "2026-10-06T15:11:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Y2VudHJhbCUyMGJhbmt8ZW58MHwwfHx8MTc5MTI5OTM3MXwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Etienne Martin",
+      "creditProfileUrl": "https://unsplash.com/@etiennemartin?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-recua-205-mil-pontos-fed-petroleo",
+    "title": "Ibovespa recua aos 205 mil pontos nesta quarta, com petróleo e juros do Fed no radar",
+    "excerpt": "Após disparar 7,7% na segunda-feira com o resultado do 1º turno, o Ibovespa perdeu força e caiu cerca de 0,15% nesta quarta, enquanto o dólar subiu a R$ 4,99 e Wall Street recuou com a alta do petróleo e dos juros dos Treasuries.",
+    "paragraphs": [
+      "O Ibovespa operava perto dos 205,5 mil pontos na manhã desta quarta-feira (7), com queda de cerca de 0,15%, depois de alternar entre leves altas e baixas ao longo do pregão. O índice ainda reflete o forte impulso da disparada de 7,7% registrada na segunda-feira, logo após o resultado do primeiro turno das eleições presidenciais, mas perdeu parte do fôlego na terça, quando recuou 0,52%, aos 205.835 pontos. Entre as ações, Vale ampliava perdas e caía mais de 2%, enquanto os grandes bancos abriam o dia no campo negativo.",
+      "O humor mais cauteloso também veio do exterior: o petróleo Brent voltou a superar US$ 100 o barril com a escalada de tensões no Oriente Médio, e o rendimento do Treasury de 10 anos avançou para a faixa de 5,3%, pressionando os principais índices de Wall Street, que abriram em queda à espera da ata do Federal Reserve divulgada à tarde. Bancos como Itaú BBA e JPMorgan, no entanto, mantiveram uma visão mais otimista para os ativos brasileiros após o 1º turno, com o Itaú BBA projetando o Ibovespa podendo alcançar 246 mil pontos."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07102026/",
+    "date": "2026-10-07T15:40:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Maxim Hopman",
+      "creditProfileUrl": "https://unsplash.com/@nampoh?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "dolar-sobe-r-499-petroleo-juros-eua",
+    "title": "Dólar sobe a R$ 4,99 nesta quarta, com petróleo mais caro e juros dos EUA em alta",
+    "excerpt": "A moeda americana avançava cerca de 0,3% ante o real, perto de R$ 4,99, revertendo parte da queda dos últimos pregões, enquanto o mercado repercutia a alta do petróleo acima de US$ 100 e a disparada dos rendimentos dos Treasuries.",
+    "paragraphs": [
+      "O dólar comercial abriu esta quarta-feira (7) em alta de cerca de 0,57%, cotado a R$ 5,00, e ao longo da manhã reduziu o ritmo de ganhos para cerca de 0,3%, na faixa de R$ 4,99. O movimento interrompe uma sequência de três pregões de queda da moeda americana, que havia encerrado a terça-feira em baixa de 0,51%, a R$ 4,976, acumulando recuo relevante desde o resultado do primeiro turno das eleições presidenciais no fim de semana.",
+      "A pressão de alta nesta quarta vem principalmente do exterior: o petróleo Brent voltou a ultrapassar US$ 100 o barril em meio a novos focos de tensão no Oriente Médio, e o rendimento do Treasury de 10 anos subiu para perto de 5,3%, patamar que não se via desde o início dos anos 2000. Esse cenário global mais cauteloso ajudou a sustentar o dólar frente a moedas emergentes, mesmo com bancos como JPMorgan e Goldman Sachs mantendo uma visão mais construtiva para os ativos brasileiros após o resultado eleitoral."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07102026/",
+    "date": "2026-10-07T15:40:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1593672755342-741a7f868732?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Giorgio Trovato",
+      "creditProfileUrl": "https://unsplash.com/@giorgiotrovato?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "leilao-pre-sal-petrobras-2-blocos-530-milhoes",
+    "title": "Leilão do pré-sal arrecada R$ 530 milhões e Petrobras arremata dois blocos",
+    "excerpt": "A 4ª Oferta Permanente de Partilha da ANP negociou sete dos 13 blocos oferecidos no pré-sal, somando R$ 530,4 milhões em bônus de assinatura; a Petrobras venceu sozinha os blocos Azurita e Cruzeiro do Sul.",
+    "paragraphs": [
+      "A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) realizou nesta quarta-feira (7) a 4ª Oferta Permanente de Partilha, leilão de blocos exploratórios no pré-sal brasileiro. Das 13 áreas oferecidas, sete foram arrematadas por seis empresas, com arrecadação total de R$ 530,4 milhões em bônus de assinatura e compromisso de investimentos mínimos de R$ 778 milhões. O certame contou com a participação de quatro petrolíferas estrangeiras, além da Petrobras.",
+      "A Petrobras arrematou sozinha dois blocos: Azurita, na Bacia de Campos, com ágio de quase 140% sobre o valor mínimo, e Cruzeiro do Sul, na Bacia de Santos. A Prio levou os blocos Magnetita e Hematita, também em Campos, enquanto consórcios envolvendo CNOOC, Sinopec, Equinor e Galp ficaram com áreas na Bacia de Santos, uma delas com ágio superior a 490%. Seis dos 13 blocos oferecidos não receberam nenhuma proposta."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/leilao-do-pre-sal-arrecada-r-530-mi-em-bonus-e-petrobras-leva-2-blocos/",
+    "date": "2026-10-07T15:40:40.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1779906912794-dfe3ef57884c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Julia Taubitz",
+      "creditProfileUrl": "https://unsplash.com/@justmejuliee?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ray-dalio-bolha-ia-juros-altos",
+    "title": "Ray Dalio diz que bolha da inteligência artificial está perto de estourar com juros altos",
+    "excerpt": "O fundador da Bridgewater afirmou que o boom de investimentos em IA é financiado por uma quantidade crescente de dívida e que a combinação com juros elevados pode levar a uma correção abrupta nas bolsas.",
+    "paragraphs": [
+      "O investidor Ray Dalio, fundador da gestora Bridgewater Associates, declarou nesta quarta-feira (7), durante a Forbes Global CEO Conference em Singapura, que o mercado de inteligência artificial se aproxima do estágio final de uma \"bolha clássica\". Segundo ele, empresas de tecnologia recorrem cada vez mais à emissão de dívida para financiar data centers e infraestrutura de IA, justamente com as taxas de juros globais elevadas, o que encarece esse financiamento e amplia o risco de uma reviravolta repentina.",
+      "Dalio ponderou que ainda não é possível apontar o estopim exato da correção, mas citou como gatilhos possíveis a tentativa de investidores transformarem patrimônio em dinheiro vivo e eventuais impostos sobre grandes fortunas, que forçariam a venda de ativos supervalorizados. A fala ocorre em meio a recordes consecutivos do S&P 500 e do Nasdaq 100, puxados por um grupo restrito de ações ligadas a semicondutores e provedores de infraestrutura de IA, enquanto os rendimentos dos títulos do Tesouro americano voltam a subir."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ray-dalio-ve-bolha-da-ia-perto-de-estourar-com-alta-dos-juros/",
+    "date": "2026-10-07T15:41:00.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Growtika",
+      "creditProfileUrl": "https://unsplash.com/@growtika?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bitcoin-cai-minima-mes-treasuries-eua",
+    "title": "Bitcoin cai 3,4% e toca mínima do mês com disparada dos juros dos títulos dos EUA",
+    "excerpt": "A criptomoeda recuou para perto de US$ 83,3 mil nesta quarta, pressionada pelo rendimento do Treasury de 10 anos acima de 5,3% e por mais de US$ 550 milhões em liquidações no mercado de derivativos cripto nas últimas 24 horas.",
+    "paragraphs": [
+      "O bitcoin operava em forte queda nesta quarta-feira (7), recuando 3,4% em 24 horas e indo à mínima do mês, cotado a cerca de US$ 83,3 mil. O movimento acompanha a disparada dos juros dos títulos do Tesouro americano: o papel de 10 anos passou a pagar 5,35% ao ano, nível não visto desde o início dos anos 2000, reduzindo o apetite por ativos de risco como as criptomoedas. Segundo a corretora Bitget, o mercado de derivativos cripto teve mais de US$ 550 milhões em liquidações nas últimas 24 horas, a maior parte de posições apostando em alta.",
+      "Apesar da queda, o fluxo institucional seguiu positivo: os ETFs de bitcoin à vista nos Estados Unidos receberam US$ 118,8 milhões líquidos no pregão anterior, com o IBIT, da BlackRock, concentrando a maior parte das compras. Já os ETFs de ether somaram a sexta sessão consecutiva de saída de capital, com resgate líquido de US$ 201,9 milhões. O índice Fear & Greed das criptomoedas caiu de 68 para 61 pontos, ainda na zona de \"ganância\", mas próximo do território neutro."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/future-of-money/a-recuperacao-acabou-bitcoin-cai-3-com-disparada-nos-titulos-dos-eua/",
+    "date": "2026-10-07T15:41:20.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1640161704729-cbe966a08476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Traxer",
+      "creditProfileUrl": "https://unsplash.com/@traxer?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-testa-206-mil-petr4-dolar-sobe-501",
+    "title": "Ibovespa testa os 206 mil pontos nesta quinta, com Petrobras em alta; dólar sobe a R$ 5,01",
+    "excerpt": "Impulsionado pela disparada do petróleo e pelo avanço de PETR3 e PETR4, o Ibovespa chegou a tocar 206,1 mil pontos na manhã desta quinta-feira, enquanto o dólar operava em leve alta, perto de R$ 5,01, com os juros dos Treasuries ainda pressionando o mercado.",
+    "paragraphs": [
+      "O Ibovespa avançava cerca de 0,9% na manhã desta quinta-feira (8), chegando a 206.152 pontos, depois de ter fechado a quarta-feira com queda de 0,74%, a 204.302 pontos. O impulso veio principalmente da Petrobras, com PETR3 e PETR4 subindo mais de 2%, acompanhando a disparada do petróleo Brent, que superou US$ 104 o barril após relatos de que os Estados Unidos avaliam novos ataques contra o Irã. Ações como Azul e Magazine Luiza também se destacavam entre as maiores altas do pregão.",
+      "Nem todo o mercado seguiu o movimento positivo: a Vale recuava mais de 1%, pressionada pelo minério de ferro em mínima de 18 meses na China, e bancos como Bradesco e Itaú também operavam no campo negativo. No câmbio, o dólar subia cerca de 0,1%, cotado perto de R$ 5,01, após ter fechado a véspera em alta de 0,70%. No exterior, Wall Street abria em leve queda e os juros dos Treasuries seguiam pressionados, enquanto o mercado aguarda a pesquisa Datafolha sobre o 2º turno, marcado para 25 de outubro."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-08102026/",
+    "date": "2026-10-08T14:11:21.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Adam Śmigielski",
+      "creditProfileUrl": "https://unsplash.com/@smigielski?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "estrangeiros-trazem-r-10-bi-bolsa-flavio-day",
+    "title": "Capital estrangeiro na Bolsa soma R$ 10 bilhões em um único pregão após o 1º turno",
+    "excerpt": "No primeiro dia de negociação após o resultado do primeiro turno, investidores estrangeiros injetaram cerca de R$ 10 bilhões na B3, mais do que todo o mês de setembro, elevando o saldo positivo do ano para mais de R$ 40 bilhões.",
+    "paragraphs": [
+      "O fluxo de capital estrangeiro para a Bolsa brasileira disparou na segunda-feira (5), primeiro pregão após o resultado do primeiro turno da eleição presidencial. Segundo dados consolidados pelo mercado, a entrada líquida de investidores de fora somou aproximadamente R$ 10 bilhões nesse único dia, valor superior ao fluxo acumulado em todo o mês de setembro. Com isso, o saldo de outubro saltou de R$ 2,55 bilhões, até o dia 2, para mais de R$ 12,6 bilhões, e o total acumulado em 2026 ultrapassou R$ 40 bilhões.",
+      "O movimento acompanhou a alta recorde do Ibovespa, que fechou aquele pregão em 206,9 mil pontos, com giro financeiro também recorde, de R$ 79,3 bilhões. Bancos internacionais revisaram suas projeções para os ativos brasileiros: o Morgan Stanley elevou a recomendação para o país, citando potencial de o Ibovespa chegar a 250 mil pontos e o dólar recuar a R$ 4,50 em um cenário mais favorável. Analistas ponderam, porém, que o fluxo ainda depende do resultado do segundo turno, marcado para 25 de outubro."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/estrangeiros-trouxeram-r-10-bilhoes-para-bolsa-apenas-no-flavio-day/",
+    "date": "2026-10-08T14:11:41.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1689732888407-310424e3a372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Austin Hervias",
+      "creditProfileUrl": "https://unsplash.com/@ahervias77?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "morgan-stanley-rebaixa-vibra-ultrapar-precificadas",
+    "title": "Morgan Stanley rebaixa Vibra e Ultrapar após alta de até 120% em 18 meses",
+    "excerpt": "O banco reduziu a recomendação de Vibra para neutra e a de Ultrapar para venda, avaliando que as ações de distribuição de combustíveis já refletem a melhora dos fundamentos e o aumento das margens dos últimos meses.",
+    "paragraphs": [
+      "O Morgan Stanley rebaixou nesta quinta-feira (8) as recomendações para Vibra (VBBR3) e Ultrapar (UGPA3), avaliando que os papéis estão \"precificados à perfeição\" após uma valorização de cerca de 70% em 12 meses e 120% em 18 meses, quase três vezes o retorno do Ibovespa no período. A Vibra caiu de compra para neutra, com preço-alvo de R$ 43 para o fim de 2027, enquanto a Ultrapar passou de neutra para venda, com alvo de R$ 36, o que implica queda de cerca de 7% sobre o fechamento recente.",
+      "O banco reconhece que o setor foi beneficiado pela perda de participação de distribuidores informais e por margens recordes no diesel, elevadas pela crise no Oriente Médio e pela venda do combustível pela Petrobras abaixo da paridade de importação. Mas projeta queda de lucro por ação em 2027, de 34% na Vibra e 20% na Ultrapar, caso esses fatores se normalizem. O Morgan Stanley segue preferindo a Vibra à Ultrapar, mas recomenda esperar um ponto de entrada mais atrativo nas ações."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/apos-alta-de-70-morgan-stanley-rebaixa-vibra-e-ultrapar-precificadas-a-perfeicao/",
+    "date": "2026-10-08T14:12:01.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1709536240401-58dff8e8d597?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "engin akyurt",
+      "creditProfileUrl": "https://unsplash.com/@enginakyurt?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "juros-americanos-maxima-24-anos-dividem-gestores",
+    "title": "Juros de 10 e 30 anos nos EUA batem máxima em 24 anos e dividem gestores",
+    "excerpt": "Os rendimentos dos Treasuries de 10 e 30 anos atingiram o maior patamar desde 2002, e gestores brasileiros divergem sobre se o movimento reflete fundamentos da economia americana ou um exagero do mercado.",
+    "paragraphs": [
+      "Os juros dos títulos do Tesouro americano de 10 e 30 anos renovaram nesta semana o maior nível desde 2002, pressionados pela resiliência da economia dos Estados Unidos, pelos investimentos bilionários em inteligência artificial e pela alta do petróleo, fatores que mantêm a inflação americana pressionada. O Federal Reserve, sob o comando de Kevin Warsh, voltou a elevar os juros em setembro, e o mercado hoje precifica novas altas nos próximos meses.",
+      "Gestoras brasileiras divergem sobre o cenário: Itaú Asset e JPMorgan Asset consideram que o mercado exagerou e esperam apenas mais uma alta do Fed, em dezembro, seguida de pausa; a primeira, inclusive, amargou perdas por apostar na queda dos juros. Já Legacy Capital e Kinea dão mais peso ao risco fiscal americano, com déficits persistentes elevando a oferta de dívida e pressionando os prêmios exigidos pelos investidores. A Opportunity mantém posição comprada em juros dos EUA, avaliando que a alta recente se concentra nos juros reais."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/onde-investir/exagero-ou-novo-patamar-juros-americanos-em-maxima-de-24-anos-dividem-gestores/",
+    "date": "2026-10-08T14:12:21.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1557160854-e1e89fdd3286?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Caleb Perez",
+      "creditProfileUrl": "https://unsplash.com/@caleblaz?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "moodys-nota-risco-protocolo-defi-sky-makerdao",
+    "title": "Moody's dá nota de risco pela 1ª vez a um protocolo DeFi, o Sky (ex-MakerDAO)",
+    "excerpt": "A agência classificou o Sky, antigo MakerDAO, com nota B3, cinco degraus abaixo do grau de investimento, citando capitalização enxuta e dependência de confiança nas stablecoins USDS e DAI que o protocolo emite.",
+    "paragraphs": [
+      "A agência de classificação de risco Moody's atribuiu nesta quinta-feira (8) sua primeira nota de crédito a um protocolo de finanças descentralizadas (DeFi), o Sky, antigo MakerDAO. A nota ficou em B3, cinco degraus abaixo do grau de investimento, classificada como de alto risco especulativo. A agência destacou um histórico operacional sólido, porém limitado, baixas perdas de crédito e ativos líquidos, mas apontou como pontos fracos a capitalização enxuta e passivos em stablecoins que dependem fortemente da confiança dos usuários.",
+      "O Sky emite as stablecoins USDS e DAI, atreladas ao dólar, que podem ser trocadas por USDC via contratos inteligentes. Segundo a Moody's, se as perdas superarem o capital disponível, o protocolo precisaria emitir novos tokens de governança para se capitalizar; caso não consiga vendê-los, o valor das stablecoins pode cair. A agência também citou riscos operacionais, de governança e regulatórios ligados à estrutura do Sky como uma organização autônoma descentralizada (DAO), em que detentores de tokens dividem o controle das decisões."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/future-of-money/moodys-da-nota-de-risco-a-protocolo-defi-pela-1a-vez/",
+    "date": "2026-10-08T14:12:41.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Pierre Borthiry - Peiobty",
+      "creditProfileUrl": "https://unsplash.com/@peiobty?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-bate-maxima-historica-209-mil-rali-eleitoral",
+    "title": "Ibovespa bate máxima histórica e passa dos 209 mil pontos com rali eleitoral",
+    "excerpt": "O Ibovespa avança mais de 1% nesta sexta-feira e renova recorde, impulsionado pela alta em Nova York e pelas pesquisas eleitorais, mesmo com a inflação de setembro surpreendendo para cima.",
+    "paragraphs": [
+      "O Ibovespa chegou a subir 1,46% nesta sexta-feira (9), alcançando a marca inédita de 209.238 pontos, depois de já ter fechado a quinta-feira em alta de 0,94%, aos 206.220 pontos. O movimento acompanhou a disparada das bolsas americanas, que reagiram ao recuo do petróleo após dias de forte alta, aliviando o temor de uma inflação mais persistente nos Estados Unidos. Bancos como Santander (+4,57%) e Petrobras (PETR3 +2,58%) figuraram entre os destaques positivos do pregão.",
+      "O apetite por risco também foi turbinado por duas pesquisas eleitorais que apontam vantagem do senador Flávio Bolsonaro no segundo turno, cenário visto por parte do mercado como favorável aos ativos brasileiros. O otimismo superou até a notícia de que o IPCA de setembro veio em 0,82%, acima do esperado, com o acumulado em 12 meses ultrapassando o teto da meta de inflação. Para analistas consultados, a queda dos juros futuros ligada ao clima eleitoral pesou mais do que o dado de preços no humor dos investidores."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-09102026-sobe-ny-trade-eleitoral-salta-semana/",
+    "date": "2026-10-09T16:24:36.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Adam Śmigielski",
+      "creditProfileUrl": "https://unsplash.com/@smigielski?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ipca-setembro-082-fura-teto-meta-divide-selic",
+    "title": "Inflação de setembro fura o teto da meta e divide o mercado sobre os próximos passos da Selic",
+    "excerpt": "O IPCA subiu 0,82% em setembro, acima do esperado, levando o acumulado em 12 meses a 4,58%, além do limite de 4,5% perseguido pelo Banco Central, e reabriu o debate sobre pausar os cortes de juros.",
+    "paragraphs": [
+      "O IPCA de setembro avançou 0,82%, resultado superior à mediana de mercado de cerca de 0,76% e uma reversão forte frente à deflação de 0,32% registrada em agosto. Com isso, o índice acumulado em 12 meses chegou a 4,58%, ultrapassando o teto de 4,5% da meta de inflação. Entre os principais vilões estiveram a energia elétrica residencial, que subiu quase 8% com o fim de um bônus tarifário, além de itens de alimentação pressionados pela seca, como tomate e batata, e a alta das passagens aéreas.",
+      "O resultado dividiu as apostas sobre o rumo da Selic, hoje em 13,75% ao ano, com decisão do Copom marcada para o início de novembro. Parte dos economistas, citando a perda de força da desinflação nos núcleos, defende uma pausa no ciclo de cortes; outra parte argumenta que a atividade mais fraca e o dólar perto de R$ 5,00 ainda abrem espaço para uma redução adicional de 0,25 ponto percentual. O cenário-base do mercado aponta a Selic terminando 2026 em 13,50% ao ano."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/economia/ipca-setembro-alta-meta-selic-09102026/",
+    "date": "2026-10-09T16:24:56.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1774362895981-40168c7dd0e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Paul-Christian M",
+      "creditProfileUrl": "https://unsplash.com/@paulchristianmarkovski?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "mrv-cury-tenda-saltam-ate-10-previas-3t-b3",
+    "title": "MRV, Cury e Tenda saltam até 10% na B3 após prévias operacionais do terceiro trimestre",
+    "excerpt": "As ações das construtoras de imóveis populares dispararam nesta sexta, com a MRV liderando a alta após prévias que mostraram vendas recordes, embora a geração de caixa tenha ficado abaixo do esperado.",
+    "paragraphs": [
+      "As construtoras voltadas à baixa renda tiveram um dos melhores pregões do ano nesta sexta-feira (9). A MRV (MRVE3) liderou os ganhos do Ibovespa, com alta de mais de 10%, seguida por Cury (CURY3), que subiu cerca de 6,8%, e Tenda (TEND3), com avanço de aproximadamente 6,1%. O movimento veio na esteira das prévias operacionais do terceiro trimestre: a MRV registrou vendas líquidas de R$ 3 bilhões, alta de quase 30%, a Cury somou R$ 1,8 bilhão em vendas, um crescimento de mais de 10%, e a Tenda cresceu 4,4%, para R$ 1,29 bilhão.",
+      "Apesar dos números fortes de vendas, casas de análise como Bradesco BBI apontaram que a geração de caixa da MRV ficou abaixo do esperado, prejudicada pela greve na Caixa Econômica Federal, que também afetou distratos e transferências na Tenda. Já a Cury foi destaque positivo entre os bancos, com geração de caixa robusta sustentando o crescimento de lucros. Segundo analistas, a alta das ações teve como principal motor a queda dos juros futuros no clima eleitoral, mais do que os resultados operacionais isoladamente."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/mrv-mrve3-cury-cury3-tenda-tend3-saltam-10-na-b3-previas-do-3o-tri-animaram-ou-e-so-rali-eleitoral/",
+    "date": "2026-10-09T16:25:16.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1764685039235-4f214a55701c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Ka Ho Ng",
+      "creditProfileUrl": "https://unsplash.com/@kahoooo?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "real-maior-valorizacao-dolar-desde-2025",
+    "title": "Real tem maior valorização frente ao dólar desde 2025 e acumula ganho de mais de 10% em 2026",
+    "excerpt": "Segundo levantamento da consultoria Elos Ayta, o real se valorizou 10,19% ante o dólar até 7 de outubro, o terceiro melhor desempenho da moeda brasileira desde 2010, atrás apenas de 2016 e 2025.",
+    "paragraphs": [
+      "Um levantamento da consultoria Elos Ayta mostra que o real acumulava valorização de 10,19% frente ao dólar até 7 de outubro, com a taxa PTAX do Banco Central naquele dia em R$ 4,99. O resultado parcial do ano já supera o desempenho de praticamente todos os anos completos desde 2010, ficando atrás apenas de 2016, quando a moeda brasileira ganhou 19,81%, e de 2025, com valorização de 12,54%. A trajetória contrasta com 2024, ano em que o real havia perdido 21,82% de seu valor frente à divisa americana.",
+      "Desde a adoção do regime de câmbio flutuante no Brasil, em 1999, o país já viveu 16 anos de desvalorização do real e 12 de valorização frente ao dólar, e o resultado parcial de 2026 ocupa hoje a sétima posição nesse ranking histórico. Economistas costumam associar movimentos cambiais dessa magnitude a mudanças no cenário político e a choques externos, sem que um único fator baste para explicar o desempenho da moeda ao longo do ano."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/real-ganha-109-ante-o-dolar-em-2026-em-maior-avanco-desde-2025/",
+    "date": "2026-10-09T16:25:36.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1568581357391-c71a1675ef93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Mackenzie Marco",
+      "creditProfileUrl": "https://unsplash.com/@kenziem?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "bitcoin-sobe-recupera-parte-queda-semanal-47",
+    "title": "Bitcoin sobe pela primeira vez na semana, mas não apaga perda acumulada de 4,7%",
+    "excerpt": "Após quatro dias seguidos de queda, o bitcoin voltou a subir nesta sexta e passou de US$ 82,6 mil, favorecido por sinais de trégua entre EUA e Irã, mas a criptomoeda ainda amarga perda semanal relevante.",
+    "paragraphs": [
+      "O bitcoin era negociado a cerca de US$ 82.600 na manhã desta sexta-feira (9), alta de 0,7% em 24 horas, encerrando uma sequência de quatro dias consecutivos de queda. Mesmo assim, a criptomoeda ainda acumula perda de 4,7% na semana. O alívio veio após o presidente americano Donald Trump sinalizar que os Estados Unidos não realizariam novos ataques ao Irã antes das eleições de meio de mandato em novembro, o que reduziu a aversão a risco e ajudou bolsas e petróleo, que recuou para perto de US$ 103,85 o barril.",
+      "O movimento, porém, ainda enfrenta resistência: fundos de bitcoin negociados em bolsa nos EUA tiveram saída líquida de US$ 244,1 milhões no dia anterior, com o fundo FBTC, da Fidelity, à frente das retiradas, enquanto os ETFs de ether somaram sete dias seguidos de saques. Os juros dos títulos de 10 anos dos EUA, que chegaram a 5,36% na semana, também pressionam ativos de risco. O índice de medo e ganância das criptomoedas recuou de 61 para 56 pontos, migrando da zona de ganância para a neutralidade."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/future-of-money/bitcoin-hoje-09-10-2026/",
+    "date": "2026-10-09T16:25:56.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "André François McKenzie",
+      "creditProfileUrl": "https://unsplash.com/@silverhousehd?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "santander-sanb11-aprova-jcp-r-15-bi-data-com-20-outubro",
+    "title": "Santander aprova R$ 1,5 bilhão em JCP; data com é 20 de outubro",
+    "excerpt": "O conselho do Santander Brasil aprovou R$ 1,5 bilhão em juros sobre capital próprio, com pagamento a partir de 9 de novembro para quem tiver as ações até o fim de 20 de outubro.",
+    "paragraphs": [
+      "O Conselho de Administração do Santander Brasil (SANB11) aprovou a distribuição de R$ 1,5 bilhão em juros sobre capital próprio (JCP). Descontado o imposto de renda na fonte, o valor líquido soma R$ 1,2375 bilhão, e acionistas isentos ou imunes recebem o montante cheio. O dinheiro será imputado aos dividendos obrigatórios de 2026.",
+      "Tem direito ao provento quem estiver na base acionária até o fechamento de 20 de outubro; a partir de 21 de outubro os papéis passam a negociar sem o benefício (data ex). O pagamento começa em 9 de novembro. Por ação, o bruto é de cerca de R$ 0,19 para ON, R$ 0,21 para PN e R$ 0,40 para a unit, em um momento de bolsa em máxima histórica e atenção a dividendos."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/santander-sanb11-aprova-proventos-no-valor-de-r-15-bi-veja-quem-tem-direito/",
+    "date": "2026-10-10T21:22:51.167Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8YmFuayUyMG1vbmV5JTIwZGl2aWRlbmRzfGVufDB8MHx8fDE3OTE2NjczNDl8Mg&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Towfiqu barbhuiya",
+      "creditProfileUrl": "https://unsplash.com/@towfiqu999999?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "euforia-mercado-flavio-esbarra-falta-compromissos-fiscais",
+    "title": "Euforia do mercado com Flávio esbarra na falta de metas fiscais claras",
+    "excerpt": "Após o primeiro turno, Bolsa sobe e dólar cai com a aposta em Flávio Bolsonaro, mas economistas notam que a campanha ainda não detalhou como fará o ajuste nas contas públicas.",
+    "paragraphs": [
+      "O rali que levou a Bolsa a recordes e derrubou o dólar após o primeiro turno parte da aposta de uma vitória de Flávio Bolsonaro (PL) e de uma base mais ampla no Congresso. O problema, apontam analistas, é que a campanha ainda não apresentou um plano concreto de corte de despesas. Há falas sobre reduzir ministérios, combater desperdícios e vender ativos, mas privatizações não aparecem como prioridade.",
+      "Ao mesmo tempo, a equipe sinalizou que Bolsa Família e BPC serão mantidos e que aposentadorias seguirão com reajustes acima da inflação. A economista Tatiana Pinheiro, da FGV, cita um ajuste de R$ 200 bilhões a R$ 250 bilhões sem definição de onde sairia. Para parte dos especialistas, sem sinais claros o mercado pode reagir mal após o segundo turno, marcado para 25 de outubro."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/euforia-do-mercado-com-flavio-esbarra-na-falta-de-compromissos-concretos-com-fiscal/",
+    "date": "2026-10-10T21:22:51.167Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1662692735672-544412d65934?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8YnJhemlsJTIwZWNvbm9teXxlbnwwfDB8fHwxNzkxNjY3MzQ5fDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Samuel Costa Melo",
+      "creditProfileUrl": "https://unsplash.com/@samuelcm?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "jpmorgan-eleva-afya-compra-fusao-yduqs-sinergias-r-18-bi",
+    "title": "JPMorgan eleva Afya para compra após fusão com a Yduqs",
+    "excerpt": "O banco vê sinergias de R$ 1,8 bilhão na combinação das duas educacionais e passou a recomendar a Afya como principal aposta do setor, com potencial de alta de cerca de 61%.",
+    "paragraphs": [
+      "O JPMorgan subiu a recomendação da Afya de neutra para compra ao incorporar em suas estimativas a fusão com a Yduqs (YDUQ3). O preço-alvo para o fim de 2027 foi ajustado de US$ 21 para US$ 19 no caso da Afya e de R$ 17 para R$ 15,50 na Yduqs. O banco enxerga potencial de valorização, incluindo dividendos, de aproximadamente 61% para a Afya e 46% para a Yduqs.",
+      "A tese se apoia em sinergias estimadas em R$ 1,8 bilhão e em uma companhia combinada com cerca de 65% do Ebitda vindo de Medicina e Ibmec. A Afya aparece com rendimento de fluxo de caixa livre de 15,1%, acima de Cogna e Anima, e payout mínimo de 50%. O JPMorgan assume cerca de 12 meses para concluir o negócio."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/afya-jpmorgan-eleva-recomendacao-incorporando-estimativas-da-fusao-com-yduqs/",
+    "date": "2026-10-10T21:22:51.167Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1549057446-9f5c6ac91a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8dW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwZWR1Y2F0aW9ufGVufDB8MHx8fDE3OTE2NjczNDl8Mg&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Eliott Reyna",
+      "creditProfileUrl": "https://unsplash.com/@eliottreyna?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "b3-fechada-feriado-12-outubro-pregao-volta-terca",
+    "title": "B3 fecha nesta segunda por feriado e pregão só volta na terça (13)",
+    "excerpt": "Com o feriado de Nossa Senhora Aparecida, a Bolsa brasileira não opera nesta segunda-feira, e os investidores usam os ADRs e o EWZ em Nova York como termômetro até a retomada.",
+    "paragraphs": [
+      "A B3 não abre nesta segunda-feira (12) por causa do feriado nacional de Nossa Senhora Aparecida, e as negociações no mercado à vista só são retomadas na terça-feira (13). As agências bancárias também ficam fechadas, enquanto o Pix segue funcionando 24 horas por dia, como em qualquer outra data.",
+      "Sem referência local, quem acompanha o mercado olha para Nova York, onde as bolsas operam normalmente. O EWZ, fundo que replica o Ibovespa em dólar, subia cerca de 0,26% em um pregão de liquidez reduzida. A última leitura do índice foi o recorde de 209.066,90 pontos na sexta-feira (9), e o dólar comercial encerrou aquele dia em R$ 4,985."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/invest/minhas-financas/o-ibovespa-opera-hoje-veja-calendario-atualizado-de-feriados-na-b3/",
+    "date": "2026-10-12T17:09:58.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Nicholas Cappello",
+      "creditProfileUrl": "=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-melhor-semana-desde-2020-analistas-pedem-cautela-2o-turno",
+    "title": "Após melhor semana desde 2020, Ibovespa entra no 2º turno sob alerta de cautela",
+    "excerpt": "O Ibovespa avançou 8,82% em cinco dias e fechou no recorde, mas especialistas lembram que 2014 e 2022 mostraram reversões depois da euforia do primeiro turno.",
+    "paragraphs": [
+      "O Ibovespa encerrou a semana passada em 209.066,90 pontos, com alta acumulada de 8,82%, o melhor desempenho semanal desde março de 2020. O dólar recuou mais de 4% no período e fechou em R$ 4,985. O movimento foi impulsionado pelo resultado do primeiro turno, pela queda dos juros futuros e por pesquisas que mostram Flávio Bolsonaro à frente no segundo turno, marcado para 25 de outubro.",
+      "Apesar do ânimo, analistas ouvidos pela imprensa financeira alertam para a volatilidade até a votação final. Em 2014 e em 2022, o dólar caiu forte logo após o primeiro turno e depois devolveu quase todo o recuo; em 2022, a Bolsa chegou a perder cerca de 5% na última semana antes do segundo turno. O recado é que a reação já embute boa parte do cenário favorável."
+    ],
+    "sourceLabel": "InfoMoney",
+    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-09102026-sobe-ny-trade-eleitoral-salta-semana/",
+    "date": "2026-10-12T17:10:18.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "Maxim Hopman",
+      "creditProfileUrl": "=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "agenda-semana-focus-cpi-eua-ibc-br-13-a-16-outubro",
+    "title": "Focus, CPI dos EUA e IBC-Br movem o mercado na semana curta",
+    "excerpt": "Depois do feriado, a semana traz o Boletim Focus na terça, a inflação ao consumidor americana na quarta e a prévia do PIB brasileiro na sexta.",
+    "paragraphs": [
+      "A agenda doméstica começa na terça-feira (13), às 8h25, com o Boletim Focus do Banco Central, que reúne as projeções do mercado para inflação, juros, PIB e câmbio. Na quarta (14), o destaque internacional é o CPI dos Estados Unidos às 9h30, dado de inflação de setembro que pode redefinir as apostas sobre os juros americanos, hoje em patamares inéditos em mais de duas décadas.",
+      "Na sexta-feira (16), o Banco Central divulga o IBC-Br de agosto, considerado uma prévia do PIB, com projeção de alta de 0,3% no mês. Além dos dados, o calendário eleitoral segue no radar até o segundo turno, em 25 de outubro, e deve manter o câmbio e a Bolsa sensíveis a pesquisas e a sinais sobre a política fiscal do próximo governo."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/invest/mercados/focus-balanca-da-china-cpi-e-balancos-nos-eua-durante-a-semana-o-que-move-o-mercado/",
+    "date": "2026-10-12T17:10:38.000Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1703300450387-047da16a89c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "creditName": "wd toro",
+      "creditProfileUrl": "=import_news&utm_medium=referral"
+    }
+  }
 ]
