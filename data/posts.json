@@ -19,74 +19,6 @@
     }
   },
   {
-    "slug": "ibovespa-recua-104-206-mil-pontos-dolar-502-pesquisa-segundo-turno",
-    "title": "Ibovespa recua 1,04% aos 206,9 mil pontos e dólar sobe a R$ 5,02",
-    "excerpt": "Após o feriado, a Bolsa devolveu parte do rali pós-primeiro turno: pesquisas mostrando empate técnico no segundo turno, realização de lucros e tensão entre EUA e Irã pesaram.",
-    "paragraphs": [
-      "O Ibovespa fechou a terça-feira (13) em queda de 1,04%, aos 206.888 pontos, com giro financeiro de R$ 45,5 bilhões. O índice chegou a tocar 209 mil na máxima do dia, mas perdeu força ao longo da sessão. Ainda assim, acumula alta de cerca de 11% em outubro e de 28,4% em 2026. O dólar avançou 0,71%, cotado a R$ 5,02, e os juros futuros subiram em toda a curva.",
-      "Os motivos citados foram a cautela eleitoral, depois que a pesquisa BTG/Nexus apontou empate técnico entre Flávio Bolsonaro (48%) e Lula (45%) no segundo turno, a realização de lucros e a tensão geopolítica entre EUA e Irã. Petrobras, PRIO e Embraer subiram, enquanto B3, Vale e grandes bancos recuaram. Em Nova York, os índices fecharam levemente negativos, e a atenção se volta ao CPI americano de setembro."
-    ],
-    "sourceLabel": "InfoMoney",
-    "sourceUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13102026/",
-    "date": "2026-10-13T22:30:00.000Z",
-    "image": {
-      "url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "creditName": "Maxim Hopman",
-      "creditProfileUrl": "https://unsplash.com/@nampoh?utm_source=import_news&utm_medium=referral"
-    }
-  },
-  {
-    "slug": "bitcoin-testa-suporte-us-82-mil-espera-cpi-eua",
-    "title": "Bitcoin sobe perto de US$ 83 mil e testa suporte de US$ 82 mil antes do CPI",
-    "excerpt": "A principal criptomoeda ganhou cerca de 1% na terça, mas fluxos negativos em ETFs e a expectativa pela inflação americana mantêm o mercado em compasso de espera.",
-    "paragraphs": [
-      "O bitcoin operava em alta de aproximadamente 1% na tarde de terça-feira (13), cotado perto de US$ 83,1 mil, enquanto o ethereum recuava para cerca de US$ 2,5 mil. A região entre US$ 82 mil e US$ 82,8 mil é vista por analistas como suporte importante: ela chegou a ser perdida durante a sessão e depois recuperada. A máxima recente, de US$ 87,3 mil, foi registrada em 21 de setembro.",
-      "O mercado aguarda o CPI americano de setembro, que sai na quarta-feira (14). Um número abaixo do esperado aliviaria o temor de novas altas de juros e poderia favorecer ativos de risco; um dado acima recolocaria o suporte à prova. Os fluxos para ETFs de criptomoedas seguem negativos, e o petróleo mais caro mantém o receio de uma inflação resistente."
-    ],
-    "sourceLabel": "InfoMoney",
-    "sourceUrl": "https://www.infomoney.com.br/mercados/bitcoin-hoje-cripto-sobe-e-testa-forca-do-suporte-de-us-82-mil-a-espera-do-cpi/",
-    "date": "2026-10-13T22:30:20.000Z",
-    "image": {
-      "url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "creditName": "Nick Chong",
-      "creditProfileUrl": "https://unsplash.com/@nick604?utm_source=import_news&utm_medium=referral"
-    }
-  },
-  {
-    "slug": "varejo-despenca-juros-futuros-vamos-renner-magalu-caem",
-    "title": "Varejo e consumo despencam com alta dos juros futuros; Vamos cai 11%",
-    "excerpt": "Nove ações do Ibovespa recuaram mais de 5% na terça, puxadas por empresas alavancadas que sofrem mais quando as taxas dos DIs disparam.",
-    "paragraphs": [
-      "Na sessão de terça-feira (13), ações de varejo e consumo lideraram as quedas do Ibovespa. Vamos (VAMO3) caiu 11,2%, a R$ 6,09; Yduqs recuou 8,5%, Lojas Renner 8%, Magazine Luiza 7%, Localiza 5,7% e Natura 5,5%. O movimento veio após os DIs subirem mais de 20 pontos-base em alguns vencimentos, com o contrato para janeiro de 2028 chegando a 12,7%.",
-      "Pesquisas eleitorais mostrando empate técnico no segundo turno alimentaram a alta dos juros, que pesa mais sobre empresas endividadas. No caso da Magalu, a queda de 7% ocorreu mesmo depois de o Itaú BBA elevar a recomendação para compra, já que o papel havia subido mais de 60% na semana anterior e a realização de lucros pesou. Analistas lembram que o IPCA de setembro, de 0,82%, pede cautela com cortes da Selic."
-    ],
-    "sourceLabel": "InfoMoney",
-    "sourceUrl": "https://www.infomoney.com.br/mercados/vamos-vamo3-desaba-11-e-mais-8-acoes-do-ibovespa-caem-mais-de-5-entenda/",
-    "date": "2026-10-13T22:30:40.000Z",
-    "image": {
-      "url": "https://images.unsplash.com/photo-1754946841733-a2b7bf9417ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "creditName": "Intrepid",
-      "creditProfileUrl": "https://unsplash.com/@intrepidfilm?utm_source=import_news&utm_medium=referral"
-    }
-  },
-  {
-    "slug": "governo-anuncia-perdao-divida-mei-12-bilhoes-segundo-turno",
-    "title": "Governo anuncia perdão de R$ 12,6 bi em dívidas de 3,6 milhões de MEIs",
-    "excerpt": "Pacote enviado ao Congresso inclui remissão de débitos com a União, novo Desenrola, Pix MEI de até R$ 5 mil e a figura do Nano MEI, a 12 dias do segundo turno.",
-    "paragraphs": [
-      "O governo federal anunciou que enviará ao Congresso um projeto de lei complementar para perdoar dívidas de microempreendedores individuais com a União, estimadas em cerca de R$ 12,6 bilhões e que alcançam 3,6 milhões de MEIs. O pacote prevê ainda novas linhas de crédito e o Pix MEI, com fomento de até R$ 5 mil por empreendedor para investir no próprio negócio.",
-      "Também foram citados o Desenrola 3.0, em que o governo compraria dívidas de MEIs com bancos com descontos acima de 90%, e o Nano MEI, que dispensaria CNPJ e nota fiscal de quem fatura até R$ 40 mil com vendas a pessoas físicas. O Executivo pede ainda que o Congresso atualize o teto de faturamento do MEI, hoje em R$ 81 mil. O impacto fiscal não foi detalhado, e o anúncio ocorre a 12 dias do segundo turno."
-    ],
-    "sourceLabel": "InfoMoney",
-    "sourceUrl": "https://www.infomoney.com.br/politica/a-12-dias-do-2o-turno-governo-lula-anuncia-perdao-de-r-12-bi-em-dividas-de-meis/",
-    "date": "2026-10-13T22:30:59.000Z",
-    "image": {
-      "url": "https://images.unsplash.com/photo-1556740758-90de374c12ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "creditName": "Blake Wisz",
-      "creditProfileUrl": "https://unsplash.com/@blakewisz?utm_source=import_news&utm_medium=referral"
-    }
-  },
-  {
     "slug": "ibovespa-cai-203-mil-pontos-dolar-505-quaest-6x1",
     "title": "Ibovespa cai mais de 1% e recua aos 203 mil pontos; dólar sobe a R$ 5,05",
     "excerpt": "Bolsa brasileira abre a quinta-feira em forte baixa, pressionada pelo empate técnico na pesquisa Quaest para o 2º turno, pela aprovação do fim da escala 6x1 no Senado e pela venda global de ações de tecnologia.",
@@ -492,6 +424,108 @@
       "url": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8Y2VudHJhbCUyMGJhbmt8ZW58MHwwfHx8MTc5MzA0MDEzNnwy&ixlib=rb-4.1.0&q=80&w=1080",
       "creditName": "Etienne Martin",
       "creditProfileUrl": "https://unsplash.com/@etiennemartin?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "ibovespa-cai-268-171-mil-pontos-incerteza-fiscal-fed",
+    "title": "Ibovespa cai 2,68% e fecha aos 171 mil pontos com dúvidas fiscais e decisão do Fed",
+    "excerpt": "O Ibovespa perdeu 2,68% na quarta-feira (28) e encerrou aos 171.006 pontos, pressionado pela falta de sinais de ajuste fiscal, por rumores de IOF sobre LCI e LCA e pelo Fed. O dólar fechou em leve queda, a R$ 5,34.",
+    "paragraphs": [
+      "A bolsa brasileira seguiu em baixa na quarta-feira (28). O Ibovespa recuou 2,68%, aos 171.006 pontos, com mínima de 170.162 e máxima de 175.711 pontos ao longo do dia e giro financeiro de R$ 41,8 bilhões. O dólar comercial teve queda de 0,19%, a R$ 5,340. O mercado ainda digere a reeleição de Lula e segue sem sinais claros do governo sobre como pretende ajustar as contas públicas.",
+      "Entre as maiores quedas, Cosan caiu 12,31%, Vamos 11,34% e Cogna 10%, empresas mais endividadas e, por isso, mais sensíveis a juros altos. Os bancos também sofreram: Bradesco perdeu 6,68%, BTG Pactual 6,52% e Santander Brasil 5,88%. Pesaram ainda relatos de que o governo estuda cobrar IOF sobre LCI e LCA e a comunicação do Fed, vista como mais dura. MBRF, TIM e WEG subiram mais de 2%."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/invest/mercados/ibovespa-afunda-268-com-temor-fiscal-apos-reeleicao-de-lula-dolar-volta-a-cair/",
+    "date": "2026-10-29T11:12:38.323Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8c3RvY2slMjBleGNoYW5nZSUyMHRyYWRpbmd8ZW58MHwwfHx8MTc5MzI3MjIyOXwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Adam Śmigielski",
+      "creditProfileUrl": "https://unsplash.com/@smigielski?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "fed-mantem-juros-375-4-dois-dissidentes-pedem-alta",
+    "title": "Fed mantém juros entre 3,75% e 4% com dois votos por nova alta",
+    "excerpt": "O Federal Reserve manteve a taxa entre 3,75% e 4% ao ano, como o mercado esperava, mas dois dirigentes votaram por um novo aumento. O presidente Kevin Warsh também anunciou menos reuniões de decisão de juros a partir de 2027.",
+    "paragraphs": [
+      "O comitê de política monetária dos EUA interrompeu na quarta-feira (28) a sequência de aumentos e manteve os juros entre 3,75% e 4% ao ano. Era a primeira reunião depois da alta de 0,25 ponto percentual de setembro, a primeira desde julho de 2023. Dez dos 12 membros com direito a voto aprovaram a manutenção, enquanto Lisa Cook e Beth Hammack preferiram um novo aumento. Pelo CME FedWatch, cerca de 93% dos investidores já apostavam na pausa.",
+      "No comunicado, o Fed disse que a inflação segue elevada, que a atividade avança em ritmo forte e que a incerteza é alta, sem indicar os próximos passos: afirmou só que mais dados ajudarão a escolher a política certa. Na coletiva, Warsh anunciou que, a partir do outono de 2027, uma das oito reuniões anuais será dedicada à estratégia, sem votação de juros nem comunicado, e disse esperar duas reuniões assim em 2028."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/invest/mercados/fed-pausa-alta-de-juros-nos-eua-e-mantem-taxa-na-penultima-reuniao-do-ano/",
+    "date": "2026-10-29T11:12:58.323Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1633059050703-0f1b50828402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8MXx8ZmVkZXJhbCUyMHJlc2VydmUlMjBidWlsZGluZ3xlbnwwfDB8fHwxNzkzMjcyMjMwfDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Joshua Woroniecki",
+      "creditProfileUrl": "https://unsplash.com/@joshuaworoniecki?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "estrangeiros-sacam-r-285-bi-da-bolsa-pos-eleicao",
+    "title": "Estrangeiros retiram R$ 2,85 bi da bolsa no primeiro pregão após a eleição",
+    "excerpt": "Investidores estrangeiros tiraram R$ 2,85 bilhões da B3 na segunda-feira (26), primeiro pregão após a vitória de Lula, a terceira maior saída diária do ano. Pessoas físicas compraram R$ 6,19 bilhões, o maior valor diário de 2026.",
+    "paragraphs": [
+      "Segundo levantamento publicado pela Exame com dados da B3, o capital estrangeiro registrou saída líquida de R$ 2,85 bilhões na segunda-feira (26), dia do tombo do Ibovespa depois do segundo turno. É a terceira maior retirada diária de 2026, atrás dos R$ 4,72 bilhões de 11 de agosto e dos R$ 2,94 bilhões de 23 de outubro, último pregão antes da votação. Nas três sessões até 26/10, a saída somou R$ 6,82 bilhões.",
+      "Quem comprou foram as pessoas físicas, com R$ 6,19 bilhões, a maior aquisição diária do ano, enquanto os investidores institucionais venderam R$ 3,34 bilhões. Apesar da fuga recente, o estrangeiro ainda acumula entrada líquida de R$ 40,73 bilhões em 2026 e de R$ 13,34 bilhões em outubro, impulsionada pelos R$ 18,44 bilhões que entraram entre os dias 5 e 16 do mês."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/invest/mercados/estrangeiro-tira-quase-r-3-bi-da-bolsa-no-primeiro-pregao-apos-vitoria-de-lula/",
+    "date": "2026-10-29T11:13:18.323Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1612178991541-b48cc8e92a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NXx8c3RvY2slMjBleGNoYW5nZSUyMHRyYWRpbmd8ZW58MHwwfHx8MTc5MzI3MjIyOXwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Marga Santoso",
+      "creditProfileUrl": "https://unsplash.com/@margabagus?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "alphabet-3t26-caixa-negativo-us-91-bi-acao-cai-9",
+    "title": "Alphabet tem caixa negativo de US$ 9,1 bi no 3º tri e ação cai 9% após o balanço",
+    "excerpt": "A dona do Google teve receita de US$ 127,6 bilhões, mas lucro por ação de US$ 2,12 (previsão: US$ 3,02) e fluxo de caixa livre negativo em US$ 9,1 bilhões, com investimentos de US$ 51,4 bilhões no trimestre. Os papéis caíram mais de 9% após o fechamento.",
+    "paragraphs": [
+      "A Alphabet divulgou na quarta-feira (28) receita de US$ 127,6 bilhões no terceiro trimestre, alta de 25%, pouco abaixo dos US$ 128,2 bilhões esperados. O lucro líquido foi de US$ 26,2 bilhões, queda de 25%, e o lucro por ação ficou em US$ 2,12, contra US$ 3,02 previstos. Parte da piora veio de um resultado financeiro negativo em US$ 8,2 bilhões, que inclui US$ 8,7 bilhões em perdas com participações acionárias.",
+      "O destaque positivo foi o Google Cloud, que mais que dobrou a receita, a US$ 30,7 bilhões (alta de 103%), com margem operacional de 36,2%. Em contrapartida, os investimentos somaram US$ 51,4 bilhões no trimestre, 114% a mais que um ano antes, e o fluxo de caixa livre ficou negativo em US$ 9,1 bilhões. A empresa não recomprou ações em 2026 e a dívida de longo prazo subiu para US$ 125,1 bilhões. Os papéis caíam mais de 9% depois do fechamento."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/invest/mercados/dona-do-google-amplia-queima-de-caixa-e-lucro-vem-abaixo-do-esperado-acao-cai-9/",
+    "date": "2026-10-29T11:13:38.323Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1506399558188-acca6f8cbf41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8Mnx8ZGF0YSUyMGNlbnRlciUyMHNlcnZlcnN8ZW58MHwwfHx8MTc5MzI3MjIzMnwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "imgix",
+      "creditProfileUrl": "https://unsplash.com/@imgix?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "santander-brasil-lucro-cai-28-3t26-roae-119",
+    "title": "Lucro do Santander Brasil cai 28% no 3º tri e rentabilidade é a menor desde 2023",
+    "excerpt": "O Santander Brasil lucrou R$ 2,885 bilhões de forma recorrente no terceiro trimestre, 28% menos que um ano antes. A rentabilidade (ROAE) caiu para 11,9% e a inadimplência de pessoa física acima de 90 dias subiu para 5,5%.",
+    "paragraphs": [
+      "O banco informou lucro gerencial recorrente de R$ 2,885 bilhões no 3T26, queda de 28% sobre o 3T25 e de 4,3% sobre o trimestre anterior, a terceira retração seguida. O retorno sobre o patrimônio líquido médio recorrente (ROAE) foi a 11,9%, contra 17,5% um ano antes e o menor nível desde o segundo trimestre de 2023. No critério contábil, o lucro foi de R$ 2,833 bilhões.",
+      "A qualidade do crédito também pesou: a inadimplência acima de 90 dias subiu para 3,4%, alta de 0,6 ponto percentual em um ano, com 5,5% na pessoa física e 1,5% na jurídica. As provisões para perdas somaram R$ 7,46 bilhões, 14,4% a mais que um ano antes. A carteira ampliada chegou a R$ 721,3 bilhões (alta de 4,7%), enquanto a de pessoa física recuou 0,9%. Na quarta-feira (28), as units SANB11 caíram 5,88%."
+    ],
+    "sourceLabel": "Exame",
+    "sourceUrl": "https://exame.com/invest/mercados/lucro-do-santander-brasil-cai-28-e-rentabilidade-vai-ao-menor-nivel-em-tres-anos/",
+    "date": "2026-10-29T11:13:58.323Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1462206092226-f46025ffe607?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8YmFuayUyMGJ1aWxkaW5nfGVufDB8MHx8fDE3OTMyNzIyMzN8Mg&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Floriane Vita",
+      "creditProfileUrl": "https://unsplash.com/@flo_?utm_source=import_news&utm_medium=referral"
+    }
+  },
+  {
+    "slug": "juros-futuros-preveem-alta-da-selic-perto-de-15-em-2027",
+    "title": "Mercado abandona aposta em corte da Selic e já precifica juros perto de 15% em 2027",
+    "excerpt": "Depois da vitória de Lula, os juros futuros passaram a embutir pausa no ciclo de queda da Selic, hoje em 13,75%, e maior chance de alta em dezembro. A curva indica taxa próxima de 15% no fim de 2027, segundo a Bloomberg Línea.",
+    "paragraphs": [
+      "Operadores de juros futuros na B3 revisaram o cenário para a Selic depois da vitória de Lula no segundo turno, reportou a Bloomberg Línea. Antes da eleição, quando Flávio Bolsonaro aparecia como favorito, os contratos de DI embutiam cortes até 12,50% ao fim de 2027. Agora, a curva indica manutenção dos 13,75% na próxima reunião do Copom, probabilidade maior de alta em dezembro e taxa perto de 15% no fim de 2027.",
+      "Na segunda-feira (26), os juros futuros chegaram a subir mais de 300 pontos-base e a B3 ampliou os limites de oscilação do pregão. Segundo a agência, analistas esperam que o ciclo de cinco cortes seguidos desde março seja interrompido, e um gestor da VanEck avalia que será difícil reduzir a Selic no curto prazo e que talvez seja preciso subir os juros para ancorar as expectativas. O mercado aguarda a definição da equipe econômica e do plano fiscal do novo governo."
+    ],
+    "sourceLabel": "Bloomberg Línea",
+    "sourceUrl": "https://www.bloomberglinea.com.br/mercados/operadores-abandonam-cenario-de-corte-de-juros-e-veem-chance-de-alta-ate-2027/",
+    "date": "2026-10-29T11:14:18.323Z",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1759722144224-29aef270b0a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDE3MjIwfDB8MXxzZWFyY2h8NHx8aW50ZXJlc3QlMjByYXRlcyUyMGVjb25vbXl8ZW58MHwwfHx8MTc5MzI3MjIzNHwy&ixlib=rb-4.1.0&q=80&w=1080",
+      "creditName": "Declan Sun",
+      "creditProfileUrl": "https://unsplash.com/@declansun?utm_source=import_news&utm_medium=referral"
     }
   }
 ]
